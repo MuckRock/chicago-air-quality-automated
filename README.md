@@ -90,7 +90,7 @@ To estimate how the reading of an individual sensor might explain pollution acro
 |  date | the date that 5-minute readings are aggregated up to for a daily average |
 | number_of_readings | the number of readings a sensor made during that day; sensors with under 70% of hourly or daily readings are removed from the data ([see our longer methodology write-up for more on information on data cleaning](https://www.muckrock.com/news/archives/2022/may/16/how-we-analyzed-chicago-air-pollution-hotspots/)) |
 | device_friendly_name | name given to the sensor when Microsoft sited it, usually the name of the bus stop the sensor is attached to |
-| misc_annotation | |
+| misc_annotation | detail of note, such as whether is co-located with an EPA monitor or at location chosen by a community group  |
 | latitude | the latitude recorded when Microsoft sited the sensor |
 | longitude | the longitude recorded when Microsoft sited the sensor|
 | pm_25 | the daily average PM2.5 recorded by the sensor |
