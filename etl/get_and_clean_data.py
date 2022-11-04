@@ -87,7 +87,7 @@ daily_clean = (
 
 ### GET DEVICE LIST FOR CANNONICAL LAT/LONGS ###
 # lat/longs from individual readings occassionally drift slightly, and we want one cannonical lat/long for each device 
-list_response = requests.get(device_list_url + f"?city={city}", headers={'ApiKey':access_token})
+list_response = requests.get(device_list_url + f"?city={city}", headers={'ApiKey':api_key})
 device_list = list_response.json()
 device_list_df = pd.DataFrame(device_list)
 device_list_df = (
