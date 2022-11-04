@@ -12,7 +12,7 @@
   
 ## How it works 
 
-![Alt text](images/flowchart_banner.png)
+![Alt text](viz/static/workflow/flowchart_banner.png)
 
 ### Getting the data
 In the spring and summer of 2021, Microsoft Research’s Urban Innovation team started [a project in collaboration with the City of Chicago and several community groups](
