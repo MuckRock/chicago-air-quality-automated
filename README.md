@@ -59,22 +59,28 @@ To estimate how the reading of an individual sensor might explain pollution acro
           ├── daily_data_pull.py
           ├── monthly_avg_and_map.py
 ├── etl
-    ├── get_data.py
-    ├── calc_monthly_avg.R
+    ├── get_and_clean_data.py
     ├── map_monthly_interpolation.R
-    └── mapping_data
-      └── chicago_boundaries_shapefile 
-      └── chicago_community_areas_shapefile 
+
 ├── data
-    └── monthly_avg
-        ├── month_year_.csv
-    └── daily_avg
-        ├── week_start_week_end.csv
+    └── readings
+        └── daily
+            ├── week_start_date.csv
+    └── mapping_data
+        └── chicago_boundaries_shapefile 
+        └── chicago_community_areas_shapefile 
 ├── viz
-    ├── monthly_interpolation_map
+    └── static
+        └── maps
+            ├── interpolation_map.png
+            ├── interpolation_map.svg
+        └── workflow
 ├── publish
-    ├── pub_ready_map
-    
+    ├── static
+        ├── pub_ready_map.png
+        ├── pub_ready_map.svg
+    └── gif
+        ├── interpolation_maps.gif
 ```
 
 ### Data Dictionary
