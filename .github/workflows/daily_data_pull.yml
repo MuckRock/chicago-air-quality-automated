@@ -25,7 +25,7 @@ jobs:
       - name: Get the data from api 
         run: |
           pipenv install --dev
-          pipenv run python etl/get_data.py
+          pipenv run python etl/get_and_clean_data.py
         
 
       - name: Commit and push if it changed
