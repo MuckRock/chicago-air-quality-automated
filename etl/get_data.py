@@ -76,7 +76,7 @@ daily_all = (
 daily_all.columns = daily_all.columns.get_level_values(1)
 
 # apply date completeness criteria of 75% of total possible readings in one day 
-daily_complete = (
+daily_clean = (
     daily_all
     .rename(columns={'mean':'pm_25','sum':'nbr_of_readings'})
     .query('nbr_of_readings > 216')
@@ -100,7 +100,7 @@ device_list_df['time_stamp'] = pd.to_datetime(device_list_df['time_stamp'])
 updated_list = device_list_df.sort_values(by=['time_stamp']).drop_duplicates(['msr_device_nbr'], keep='last')
 
 ### JOIN CANNONICAL LAT/LONGS TO MOST RECENT DATA ###
-update_complete = pd.merge(daily_complete, updated_list, on='msr_device_nbr', how='left')
+update_complete = pd.merge(daily_clean, updated_list, on='msr_device_nbr', how='left')
 update_complete = (
     update_complete
     .set_index('msr_device_nbr')
