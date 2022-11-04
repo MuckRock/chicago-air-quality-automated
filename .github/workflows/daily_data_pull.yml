@@ -1,4 +1,4 @@
-name: Pull and clean daily data
+name: Daily data pull
 
 on: workflow_dispatch
 
@@ -25,7 +25,7 @@ jobs:
       - name: Get the data from api 
         run: |
           pipenv install --dev
-          pipenv run python scripts/revised_main.py
+          pipenv run python etl/get_data.py
         
 
       - name: Commit and push if it changed
