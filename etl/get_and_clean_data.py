@@ -113,7 +113,7 @@ if date.today().weekday() == 0:
     output_path='week_start_' + str(datetime.now().strftime('%Y_%m_%d')) + '.csv'
     update_complete.to_csv(output_path)
 else:
-    output_path= 'data/daily/' + 'week_start_' + str((today - timedelta(days=today.weekday())).strftime('%Y_%m_%d')) + '.csv'
+    output_path= 'data/readings/daily/' + 'week_start_' + str((today - timedelta(days=today.weekday())).strftime('%Y_%m_%d')) + '.csv'
     update_complete.to_csv(output_path, mode='a', header=False)
 
 
