@@ -343,3 +343,89 @@ msr_device_nbr,date_time,pm_25,device_friendly_name,latitude,longitude,misc_anno
 2191,2022-11-05,8.864406821248927,Belmont & Western (WB),41.93957,-87.6887,Stratified Random Sample
 2207,2022-11-05,9.685672248803828,State & 83rd (NB),41.7435,-87.6242,
 2212,2022-11-05,8.902712918660288,EPA Springfield Pump Station E,41.91274,-87.72267,EPA Co-Location
+2004,2022-11-05,8.85712918660287,California & 26th (SB),41.8451,-87.6952,Community Selected
+2006,2022-11-05,9.253431480799902,California & Cermak (NB),41.8523,-87.6954,Community Selected
+2012,2022-11-05,8.400334928229665,Chicago & Sacramento (EB),41.8954,-87.7022,Partner Request
+2013,2022-11-05,8.3725677830941,EPA Village Garage B,41.67099,-87.73246,EPA Co-Location
+2014,2022-11-05,8.357647527910686,EPA Village Garage C,41.67099,-87.73246,EPA Co-Location
+2033,2022-11-05,9.101431419457736,Halsted & 74th St (SB),41.75951,-87.64438,Stratified Random Sample
+2037,2022-11-05,8.510103668261563,39TH & HALSTED (WB),41.82372,-87.64635,Community Selected
+2038,2022-11-05,8.877344497607655,ARCHER & THROOP (SB),41.84339,-87.65458,Community Selected
+2040,2022-11-05,8.439804625199361,Madison & Wood (WB),41.88147,-87.67219,Stratified Random Sample
+2042,2022-11-05,9.234712918660287,26th ST & Pulaski (WB),41.8442,-87.7248,Community Selected
+2043,2022-11-05,9.537101275917067,Roosevelt & Homan (WB),41.86645,-87.71032,Stratified Random Sample
+2046,2022-11-05,8.934704944178629,Northwest Highway & Devon (NWB),41.99753,-87.80755,Stratified Random Sample
+2047,2022-11-05,9.655896209054104,Pulaski & 49th (SB),41.8049,-87.7236,Stratified Random Sample
+2048,2022-11-05,7.6448665807876335,Cottage Grove & Pershing (SB),41.8241,-87.60712,Stratified Random Sample
+2049,2022-11-05,8.781547049441786,Clarendon & Montrose (SB),41.96199,-87.64999,Stratified Random Sample
+2050,2022-11-05,9.153684210526317,Laramie & Lake (NB),41.8867,-87.7551,Community Selected
+2052,2022-11-05,9.147188995215311,Western Ave & 43rd St (SB),41.81587,-87.68476,Stratified Random Sample
+2053,2022-11-05,7.672735247208931,Cottage Grove & 83rd (SB),41.7438,-87.6052,Stratified Random Sample
+2054,2022-11-05,9.242803030303032,Ashland & 43rd St (SB),41.81604,-87.66531,Community Selected
+2055,2022-11-05,9.351435406698565,Harrison & Central (WB),41.87288,-87.76488,Community Selected
+2056,2022-11-05,8.890769537480065,Fullerton & Pulaski (WB),41.92461,-87.72656,Stratified Random Sample
+2060,2022-11-05,8.896419457735247,Kimball & Ardmore (SB),41.9861,-87.7139,Stratified Random Sample
+2062,2022-11-05,8.707503987240829,Madison & Loomis (WB),41.88162,-87.66205,Stratified Random Sample
+2063,2022-11-05,8.757603668261563,Belmont & Sheridan (WB),41.94,-87.6402,Stratified Random Sample
+2067,2022-11-05,9.137775119617226,Sheridan & Touhy (SB),42.01305,-87.66344,Stratified Random Sample
+2068,2022-11-05,8.961654704944179,63rd & Damen (WB),41.7793,-87.6741,Stratified Random Sample
+2070,2022-11-05,9.095803729153136,Nargansett & Montrose (SB),41.9592,-87.7868,Stratified Random Sample
+2072,2022-11-05,9.146347687400318,Commercial & 89th (SB),41.73387,-87.55145,Stratified Random Sample
+2073,2022-11-05,8.865187400318979,Lake Shore & Briar (SB),41.93892,-87.63806,Stratified Random Sample
+2074,2022-11-05,9.016977671451356,Archer & Lavergne/LeClair (NEB),41.79792,-87.74737,Stratified Random Sample
+2076,2022-11-05,8.470637958532695,Cottage & 53rd (NB),41.7985,-87.6062,Stratified Random Sample
+2081,2022-11-05,9.140354864433812,Western & 73rd (NB),41.7609,-87.6827,Stratified Random Sample
+2082,2022-11-05,8.86548245614035,95th & Wentworth (WB),41.7218,-87.6287,Stratified Random Sample
+2083,2022-11-05,9.232012759170653,63rd & Peoria (EB),41.7795,-87.6472,Stratified Random Sample
+2084,2022-11-05,10.660195374800637,63rd & Pulaski (EB),41.7785,-87.7214,Stratified Random Sample
+2087,2022-11-05,9.812147527910685,Pulaski & 71st (SB),41.76428,-87.72257,Stratified Random Sample
+2090,2022-11-05,8.479346092503986,Archer & Mulligan/55th (NWB),41.7924,-87.7818,Stratified Random Sample
+2091,2022-11-05,8.636319776714513,39th & Damen (WB),41.8231,-87.6753,Community Selected
+2092,2022-11-05,9.42248484848485,61st & King (WB),41.7838,-87.6164,Stratified Random Sample
+2094,2022-11-05,9.245927432216906,Ashland & 37th (SB),41.8267,-87.6655,Stratified Random Sample
+2095,2022-11-05,10.761714809469439,Chicago & Cicero (EB),41.89489,-87.74606,Stratified Random Sample
+2096,2022-11-05,10.271782603361551,100th & Torrence (WB),41.7136,-87.5602,Community Selected
+2097,2022-11-05,8.696479266347689,Cottage Grove & 100th (NB),41.7132,-87.605,Stratified Random Sample
+2098,2022-11-05,8.815713716108453,Irving & Clark (EB),41.95429,-87.66244,Partner Request
+2099,2022-11-05,9.64077720525089,26th & Central Park (WB),41.84449,-87.71456,Stratified Random Sample
+2100,2022-11-05,9.201407496012758,Ashland & Pershing (SB),41.82359,-87.66524,Community Selected
+2101,2022-11-05,8.642787081339714,Laramie & Madison (SB),41.88009,-87.75495,Community Selected
+2103,2022-11-05,8.439829284750338,79th & Kostner (EB),41.7491,-87.7302,Stratified Random Sample
+2104,2022-11-05,8.764864433811802,State & 31st St (NB),41.83814,-87.62652,Stratified Random Sample
+2105,2022-11-05,9.279110845295056,Cottage Grove & 60th (SB),41.78595,-87.60616,Stratified Random Sample
+2106,2022-11-05,9.830227272727273,Addison & Kennedy XWay (EB),41.94641,-87.7179,Stratified Random Sample
+2107,2022-11-05,9.344250398724082,Central Park & Ogden (NB),41.85429,-87.71498,Stratified Random Sample
+2108,2022-11-05,9.136124401913875,Irving Park & Kildare (EB),41.9533,-87.7354,Stratified Random Sample
+2111,2022-11-05,9.293692185007973,Kedzie & 24th (SB),41.8488,-87.7052,Community Selected
+2112,2022-11-05,9.241451355661882,47th & Halsted (WB),41.8088,-87.6481,Partner Request
+2113,2022-11-05,9.406802232854863,Division & Larrabee (EB),41.90363,-87.64344,Stratified Random Sample
+2115,2022-11-05,8.560901116427432,Roosevelt & Western (WB),41.86674,-87.68576,Stratified Random Sample
+2116,2022-11-05,8.960314992025518,Clark & 15th (NB),41.86177,-87.63014,Stratified Random Sample
+2119,2022-11-05,9.229246411483254,King Drive & 25th St (SB),41.84723,-87.61782,Stratified Random Sample
+2120,2022-11-05,8.736802232854865,Commercial & 85 (NB),41.7414,-87.5513,Stratified Random Sample
+2121,2022-11-05,9.17085326953748,Sheridan & Hollywood (SB),41.9851,-87.65533,Stratified Random Sample
+2122,2022-11-05,9.141432216905901,Ashland & Blackhawk (NB),41.90724,-87.66745,Stratified Random Sample
+2124,2022-11-05,9.082488038277512,Halsted & 87th (SB),41.7359,-87.6437,community-selected
+2127,2022-11-05,9.216060606060605,63rd & Lamon (EB),41.7782,-87.7438,Stratified Random Sample
+2130,2022-11-05,8.647328548644339,115th & Stewart (EB),41.68518,-87.63263,Stratified Random Sample
+2131,2022-11-05,9.375219298245614,Grand & Laramie (EB),41.9169,-87.756,Stratified Random Sample
+2138,2022-11-05,9.372320574162678,Kedzie & Lake (NB),41.8838,-87.706,Stratified Random Sample
+2139,2022-11-05,8.704754134798733,Garfield & Aberdeen (WB),41.79449,-87.65277,Stratified Random Sample
+2142,2022-11-05,9.852982456140351,"Polk & L ""Above"" (WB)",41.87165,-87.66986,Stratified Random Sample
+2144,2022-11-05,8.222579744816587,EPA Village Garage D,41.67099,-87.73246,EPA Co-Location
+2149,2022-11-05,8.5628668261563,137th & Brainard (NB),41.6463,-87.54299,Community Selected
+2150,2022-11-05,9.710877990430623,Central & Madison (NB),41.8803,-87.7647,Stratified Random Sample
+2162,2022-11-05,9.530901116427433,Western & 26th ST (SB),41.8454,-87.6854,Community Selected
+2171,2022-11-05,10.185147527910686,63RD STREET & STATE (EB) - 2,41.77999,-87.62511,Community Selected
+2172,2022-11-05,10.38061004784689,26th ST & Kostner (WB),41.84419,-87.7347,Community Selected
+2174,2022-11-05,10.399928229665072,26th & Keeler (EB),41.8441,-87.72963,Stratified Random Sample
+2175,2022-11-05,9.215059808612441,South Shore & 77th (NB),41.7577,-87.554,Stratified Random Sample
+2176,2022-11-05,8.593010366826157,Ave O & 114th (NB),41.68805,-87.53997,Community Selected
+2177,2022-11-05,8.899354066985646,Vincennes & 75th (NB),41.75841,-87.63108,
+2179,2022-11-05,9.18116427432217,Kedzie & 53rd (SB),41.7968,-87.7038,community-selected
+2182,2022-11-05,8.689433811802232,63rd & King Drive (EB),41.78,-87.6168,Community Selected
+2183,2022-11-05,9.351578947368422,Ashland & Belmont/Lincoln (NB),41.93931,-87.6685,Stratified Random Sample
+2185,2022-11-05,9.071877990430622,Cicero & Hubbard (NB),41.8879,-87.7455,Stratified Random Sample
+2191,2022-11-05,8.864406821248927,Belmont & Western (WB),41.93957,-87.6887,Stratified Random Sample
+2207,2022-11-05,9.685672248803828,State & 83rd (NB),41.7435,-87.6242,
+2212,2022-11-05,8.902712918660288,EPA Springfield Pump Station E,41.91274,-87.72267,EPA Co-Location
