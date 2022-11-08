@@ -13,41 +13,30 @@ city = "chicago"
 api_key = os.environ["MICROSOFT_TOKEN"]
 
 ### MAKE FUNCTION TO GET READINGS IN A DATE RANGE ###
-def daterange(start_date, end_date):
-    for n in range(int((end_date - start_date).days)):
-        yield start_date + timedelta(n)
-start_date = date.today() - timedelta(days=1)
-end_date = date.today()
+# start at beginning of yesterday Chicago time
+
+ct_start_datetime = datetime.now(tz = ZoneInfo("America/Chicago")).replace(hour=0, minute=0, second=0) + timedelta(days=-1)
+ct_end_datetime = datetime.now(tz = ZoneInfo("America/Chicago")).replace(hour=23, minute=59, second=59) + timedelta(days=-1)
+
+start_datetime = ct_start_datetime.astimezone(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+end_datetime = ct_end_datetime.astimezone(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
 
 ### GET DATES IN RANGE AND PULL DATA FROM API ###
-# this is meant to help others change this code easily to specify their own dates of interest 
-# as is though, this function isn't really necessary for daily pulls 
 df_complete = pd.DataFrame()
-for single_date in daterange(start_date, end_date):
-    print(single_date)
-    start_date = single_date.strftime("%Y-%m-%d %H:%M:%S")
+response = requests.get(readings_url +
+                        f"?city={city}" +
+                        f"&startDateTime={start_datetime}" +
+                        f"&endDateTime={end_datetime}",
+                    headers={'ApiKey':api_key})
 
-    end_date = (single_date + timedelta(1)).strftime("%Y-%m-%d %H:%M:%S")
+readings = response.json()
+readings = pd.DataFrame(readings)
 
-    response = requests.get(readings_url +
-                                f"?city={city}" +
-                                f"&startDateTime={start_date}" +
-                                f"&endDateTime={end_date}",
-                            headers={'ApiKey':api_key})
+readings['readingDateTimeUTC'] = pd.to_datetime(readings.readingDateTimeUTC)
+readings['readingDateTimeLocal'] = pd.to_datetime(readings.readingDateTimeLocal)
+print(readings)
+df_complete = pd.concat([df_complete, readings])
 
-    readings = response.json()
-    readings = pd.DataFrame(readings)
-
-    if readings.empty:
-        time.sleep(3)
-        continue
-    
-    readings['readingDateTimeUTC'] = pd.to_datetime(readings.readingDateTimeUTC)
-    readings['readingDateTimeLocal'] = pd.to_datetime(readings.readingDateTimeLocal)
-    print(readings)
-    df_complete = pd.concat([df_complete, readings])
-
-    time.sleep(3)
 
 ### AGGREGATE MINUTE-BY-MINUTE DATA UP TO DAILY AVERAGES ###
 hourly_all = (
