@@ -1,4 +1,4 @@
-# MuckRock's Chicago Air Pollution Hotspots 
+# How You Can Monitor Chicago's Air Pollution Hotspots 
 
 **This repository contains tools to help journalists and all Chicago residents stay up to date on air quality in Chicago.**
 
@@ -102,13 +102,14 @@ To estimate how the reading of an individual sensor might explain pollution acro
         - If you'd like to publish these maps, take a look below at [language for crediting us](#crediting-us) 
  
   
-  ### Crediting us 
+  ### Give us some credit 
+  #### Reach out 
   We work to have our reporting and analysis available to a wide audience, often through distribution partnerships and syndication. If you are interested in republishing or adapting our work and it does not explicitly note that it is allowable for republishing, or if you would like clarifications about restrictions or to learn more about the underlying information, please email us at news@muckrock.com.
-
+#### Cite us 
 We ask that all republication and citation of our materials include a note that the reporting was originally published by MuckRock and include a link back to the original version. When republishing, this credit should be included at the top of the piece.
 
 Sample language: This story was originally published by MuckRock, a nonprofit journalism organization.
-
+#### Republish our stories 
 We publish certain stories, data and other assets under a Creative Commons license and most code and data analysis scripts under an open source license. You are welcome and encouraged to reuse these under the terms of the given license, but please ensure that you understand any restrictions. For example, certain Creative Commons licenses allow reuse but only if you do not edit the underlying material.
 
 Sample language: This story was originally published by MuckRock, a nonprofit journalism organization. It is republished under a Creative Commons (BY-ND 4.0) license.
