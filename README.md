@@ -8,7 +8,7 @@
 |   :---:     |    :----:   |  
 | [How it works](#how-it-works)     | [Repository structure](#repository-structure)      | 
 | [How to publish our ready-made maps ](#how-to-publish-our-maps-or-charts)  | [Data dictionary](#data-dictionary)       | 
-| [How you can use the data](#how-you-can-use-the-data) | [Language for crediting us](#crediting-us) |
+| [How you can use the data](#how-you-can-use-the-data) | [Give us some credit](#give-us-some-credit) |
   
 ## How it works 
 
