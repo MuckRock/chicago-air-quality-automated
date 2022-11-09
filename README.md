@@ -83,7 +83,7 @@ To estimate how the reading of an individual sensor might explain pollution acro
         ├── interpolation_maps.gif
 ```
 
-### Data Dictionary
+### Data dictionary
 | column | description  
 |   :---    |    :---- |  
 | msr_device_nbr | a unique identifier given to each sensor  |
