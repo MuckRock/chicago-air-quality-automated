@@ -121,7 +121,7 @@ Sample language: This story was originally published by MuckRock, a nonprofit jo
   
   Our full editorial ethics and standards policy, which includes our standards on data and sources of information, [can be found here](https://www.muckrock.com/news/editorial-policy/).
   
-**Speaking of credit, Smarth Gupta, a former Brown Institute fellow, played an important role in laying the foundation of code and analysis for the ongoing work you see here.**
+Speaking of credit, **Smarth Gupta**, a former Brown Institute fellow, played an important role in laying the foundation of code and analysis for the ongoing work you see here.
 
 #### Feedback or questions
 Contact MuckRock Data Reporter Dillon Bergin at dillon@muckrock.com.
