@@ -122,4 +122,4 @@ Sample language: This story was originally published by MuckRock, a nonprofit jo
   Our full editorial ethics and standards policy, which includes our standards on data and sources of information, [can be found here](https://www.muckrock.com/news/editorial-policy/).
 
 #### Feedback or questions
-Contact MuckRock Data Reporter Dillon Bergin at dillon@muckrock.com
+Contact MuckRock Data Reporter Dillon Bergin at dillon@muckrock.com.
