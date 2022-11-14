@@ -64,8 +64,10 @@ To estimate how the reading of an individual sensor might explain pollution acro
 
 ├── data
     └── readings
-        └── daily
+        └── daily_updates
             ├── week_start_date.csv
+        └── archive
+            ├── month-year.csv    
     └── mapping_data
         └── chicago_boundaries_shapefile 
         └── chicago_community_areas_shapefile 
