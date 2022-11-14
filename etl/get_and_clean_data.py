@@ -1,8 +1,8 @@
 import requests
 import json
 import pandas as pd
-from datetime import date, timedelta, datetime
-import time
+from datetime import date, timedelta, datetime, timezone
+from zoneinfo import ZoneInfo
 import os 
 
 
