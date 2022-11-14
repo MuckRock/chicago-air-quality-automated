@@ -1,4 +1,4 @@
-# MuckRock's Chicago Air Pollution Hotspots 
+# How You Can Monitor Chicago's Air Pollution Hotspots 
 
 **This repository contains tools to help journalists and all Chicago residents stay up to date on air quality in Chicago.**
 
@@ -8,7 +8,7 @@
 |   :---:     |    :----:   |  
 | [How it works](#how-it-works)     | [Repository structure](#repository-structure)      | 
 | [How to publish our ready-made maps ](#how-to-publish-our-maps-or-charts)  | [Data dictionary](#data-dictionary)       | 
-| [How you can use the data](#how-you-can-use-the-data) | [Language for crediting us](#crediting-us) |
+| [How you can use the data](#how-you-can-use-the-data) | [Give us some credit](#give-us-some-credit) |
   
 ## How it works 
 
@@ -24,7 +24,7 @@ While Chicagoland has several EPA regulatory stations, considered the gold stand
 Every five minutes, 24 hours a day, the air quality sensors record a reading. We've written a script so that at the end of each day, the new data are pulled automatically from Urban Air's API using GitHub Actions. On the way, our code cleans the data to get rid of sensors that may not be functioning correctly and aggregates the minute-by-minute readings up to daily averages. If you'd like to analyze hourly or minute-by-minute readings, you can edit the `get_data.py` script in the folder titled `etl` (extract-transform-load). 
 
 ### Mapping air quality
-To estimate how the reading of an individual sensor might explain pollution across surrounding neighborhoods, we use a formula called Inverse Distance Weighting, or IDW. This is a popular interpolation technique, which makes use of the readings from all sensors at a given time and uses those readings, based on the sensor’s distance, to estimate the level of PM2.5 pollution in regions between sensors. Our IDW is set to a spatial resolution of 100 meters, which, in some cases, may oversimplify how air pollution varies in even smaller areas. But it provides a strong estimate of how individual sensors explain neighborhood-level pollution. 
+To estimate how the reading of an individual sensor might explain pollution across surrounding neighborhoods, we use a formula called Inverse Distance Weighting, or IDW. This is a popular interpolation technique, which makes use of the readings from all sensors at a given time and uses those readings, based on the sensor’s distance, to estimate the level of PM2.5 pollution in regions between sensors. Our IDW is set to a spatial resolution of 300 by 300 meters, which, in some cases, may oversimplify how air pollution varies in even smaller areas. But it provides a strong estimate of how individual sensors explain neighborhood-level pollution. 
 
 ##  How you can use the data
 #### Get the data 
@@ -83,7 +83,7 @@ To estimate how the reading of an individual sensor might explain pollution acro
         ├── interpolation_maps.gif
 ```
 
-### Data Dictionary
+### Data dictionary
 | column | description  
 |   :---    |    :---- |  
 | msr_device_nbr | a unique identifier given to each sensor  |
@@ -102,13 +102,14 @@ To estimate how the reading of an individual sensor might explain pollution acro
         - If you'd like to publish these maps, take a look below at [language for crediting us](#crediting-us) 
  
   
-  ### Crediting us 
+  ### Give us some credit 
+  #### Reach out 
   We work to have our reporting and analysis available to a wide audience, often through distribution partnerships and syndication. If you are interested in republishing or adapting our work and it does not explicitly note that it is allowable for republishing, or if you would like clarifications about restrictions or to learn more about the underlying information, please email us at news@muckrock.com.
-
+#### Cite us 
 We ask that all republication and citation of our materials include a note that the reporting was originally published by MuckRock and include a link back to the original version. When republishing, this credit should be included at the top of the piece.
 
 Sample language: This story was originally published by MuckRock, a nonprofit journalism organization.
-
+#### Republish our stories 
 We publish certain stories, data and other assets under a Creative Commons license and most code and data analysis scripts under an open source license. You are welcome and encouraged to reuse these under the terms of the given license, but please ensure that you understand any restrictions. For example, certain Creative Commons licenses allow reuse but only if you do not edit the underlying material.
 
 Sample language: This story was originally published by MuckRock, a nonprofit journalism organization. It is republished under a Creative Commons (BY-ND 4.0) license.
