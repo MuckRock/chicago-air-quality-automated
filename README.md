@@ -1,8 +1,8 @@
 # How You Can Monitor Chicago's Air Pollution Hotspots 
 
-**This repository contains tools to help Chicagoans stay up to date on air quality in Chicago** and is part of an ongoing project by MuckRock to help journalists and all Chicago residents monitor the city's air pollution. 
+**This repository contains tools to help Chicagoans stay up to date on the city's air quality** and is part of an ongoing project by MuckRock to help journalists and all Chicago residents monitor the Chicago's air pollution. 
 
-In May 2022, MuckRock, WBEZ, and the Chicago Sun-Times published [several articles about air pollution and what neighborhoods in Chicago experience the worst air quality.](https://www.wbez.org/stories/a-new-sensor-network-reveals-chicagos-air-quality-disparities/22398e94-982c-4dcc-8c13-ff0113ff95b6) We want to continue reporting. We also want to help you stay on top of air pollution in your neighborhood. We built these tools to get you new data every day, so take a look around and [don't hesistate to reach out](#feedback-or-questions).
+In May 2022, MuckRock, WBEZ, and the Chicago Sun-Times published [several articles about air pollution, mapping which neighborhoods in Chicago experience the worst air quality.](https://www.wbez.org/stories/a-new-sensor-network-reveals-chicagos-air-quality-disparities/22398e94-982c-4dcc-8c13-ff0113ff95b6) We want to continue reporting. We also want to help you stay on top of air pollution in your neighborhood. We built these tools to get you new data every day, so take a look around and [don't hesistate to reach out](#feedback-or-questions).
 
 
 ## What will you find in this repository?
