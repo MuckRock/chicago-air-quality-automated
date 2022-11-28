@@ -1,8 +1,7 @@
 name: Daily data pull
 
 on: 
-  schedule:
-    - cron: "15 5 * * *" # Every morning at 5:15 am 
+  workflow_dispatch:
 
 jobs:
   get_data:
