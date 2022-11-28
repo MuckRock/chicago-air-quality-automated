@@ -1,0 +1,1478 @@
+"Parameter Code","Parameter","Parameter Abbreviation","Parameter Alternate Name","CAS Number","Standard Units","Still Valid","Round or Truncate"
+"43834","1,1,1,2,2-Pentafluoroethane",,"HFC-125","354-33-6","Parts per billion Carbon","YES",R
+"43837","1,1,1,2-Tetrachloroethane",,,"630-20-6","Parts per billion Carbon","YES",R
+"43162","1,1,1-Trichloro-2,2-bis (p-chlorophenyl) ethane","TRICH",,"50-29-3","Nanograms/cubic meter (25 C)","YES",R
+"43818","1,1,2,2-Tetrachloroethane","4CLET","Ethane,1,1,2,2-tetrachloro-","79-34-5","Parts per billion Carbon","YES",R
+"43821","1,1,2-Trichloro-1,2,2-trifluoroethane",,,"76-13-1","Parts per billion Carbon","YES",R
+"43820","1,1,2-Trichloroethane","TCA1","Ethane,1,1,2-trichloro-","79-00-5","Parts per billion Carbon","YES",R
+"17809","1,1-Biphenyl, chloro (TSP) STP","PCB1",,"27323-18-8","Pg/cubic meter(25 C)","YES",R
+"43134","1,1-Bis(4-chlorophenyl)-2,2-dichloroethane","CHL-D",,"72-54-8","Nanograms/cubic meter (25 C)","YES",R
+"43813","1,1-Dichloroethane","DCETH","ELLRYLIDENE DICHLORIDE","75-34-3","Parts per billion Carbon","YES",R
+"43166","1,1-Dichloroethenylidene bis(4-chlorobenzene)","1","1DI","72-55-9","Nanograms/cubic meter (25 C)","YES",R
+"43826","1,1-Dichloroethylene","2CLET","Ethene,1,1-dichloro-","75-35-4","Parts per billion Carbon","YES",R
+"43854","1,1-Difluoroethane",,"HFC-152a","75-37-6","Parts per billion Carbon","YES",R
+"43139","1,2,3,4,5,6- Hexachlolocyclohexane, .beta.-","HEXBE",,"319-85-7","Nanograms/cubic meter (25 C)","YES",R
+"43138","1,2,3,4,5,6- Hexachlorocyclohexane","HEXCH",,"319-84-6","Nanograms/cubic meter (25 C)","YES",R
+"43140","1,2,3,4,5,6- Hexachlorocyclohexane, .delta.-","HEXDE",,"319-86-8","Nanograms/cubic meter (25 C)","YES",R
+"16931","1,2,3,4,6,7,8,9-Octachlorodibenzo-p-dioxin",,,"3268-87-9","Pg/cubic meter(25 C)","NO",
+"16928","1,2,3,4,6,7,8,9-Octachlorodibenzofuran",,,"39001-02-0","Pg/cubic meter(25 C)","NO",
+"16919","1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin (TSP) STP","HpCDD",,"35822-46-9","Pg/cubic meter(25 C)","YES",R
+"16926","1,2,3,4,6,7,8-Heptachlorodibenzofuran (TSP) STP","HPCDF","1,2,3,4,6,7,8-HPCDF","67562-39-4","Pg/cubic meter(25 C)","YES",R
+"16927","1,2,3,4,7,8,9-Heptachlorodibenzofuran (TSP) STP","5HCDF",,"55673-89-7","Pg/cubic meter(25 C)","YES",R
+"16930","1,2,3,4,7,8-Hexachlorodibenzo-p-dioxin",,,"39227-28-6","Pg/cubic meter(25 C)","NO",
+"16922","1,2,3,4,7,8-Hexachlorodibenzofuran (TSP) STP","HXCDF","1,2,3,4,7,8-HXCDF","70648-26-9","Pg/cubic meter(25 C)","YES",R
+"16917","1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin (TSP) STP","HxCDD",,"57653-85-7","Pg/cubic meter(25 C)","YES",R
+"16923","1,2,3,6,7,8-Hexachlorodibenzofuran (TSP) STP","2HCDF","1,2,3,6,7,8-HXCDF","57117-44-9","Pg/cubic meter(25 C)","YES",R
+"16918","1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin (TSP) STP","HxCDD",,"19408-74-3","Pg/cubic meter(25 C)","YES",R
+"16925","1,2,3,7,8,9-Hexachlorodibenzofuran (TSP) STP","4HCDF","1,2,3,7,8,9-HXCDF","72918-21-9","Pg/cubic meter(25 C)","YES",R
+"16929","1,2,3,7,8-Pentachlorodibenzo-p-dioxin",,,"40321-76-4","Pg/cubic meter(25 C)","NO",
+"16920","1,2,3,7,8-Pentachlorodibenzofuran (TSP) STP","PECDF","1,2,3,7,8-PECDF","57117-41-6","Pg/cubic meter(25 C)","YES",R
+"43604","1,2,3-Trichloropropane",,,"96-18-4","Parts per billion Carbon","YES",
+"45225","1,2,3-Trimethylbenzene","123TB",,"526-73-8","Parts per billion Carbon","YES",R
+"16724","1,2,4,5-Tetrachlorobenzene (TSP) STP",,,"95-94-3","Nanograms/cubic meter (25 C)","YES",R
+"45231","1,2,4,5-Tetramethylbenzene",,,"95-93-2","Parts per billion Carbon","YES",R
+"45810","1,2,4-Trichlorobenzene","TCBZ","Benzene, 1,2,4-trichloro-","120-82-1","Parts per billion Carbon","YES",R
+"16725","1,2,4-Trichlorobenzene (TSP) STP",,,"120-82-1","Nanograms/cubic meter (25 C)","YES",R
+"45208","1,2,4-Trimethylbenzene","124TB","Benzene,1,2,4-trimethyl-","95-63-6","Parts per billion Carbon","YES",R
+"43364","1,2,4-Trimethylbenzene & .beta.-pinene",,,,"Parts per billion Carbon","YES",R
+"43363","1,2,4-Trimethylbenzene & sec-butylbenzene","TM&BB",,,"Parts per billion Carbon","YES",R
+"43223","1,2-Butadiene",,,"590-19-2","Parts per billion Carbon","YES",R
+"45805","1,2-Dichlorobenzene",,"Benzene,1,2-dichloro-","95-50-1","Parts per billion Carbon","YES",R
+"16726","1,2-Dichlorobenzene (TSP) STP  ",,,"95-50-1","Nanograms/cubic meter (25 C)","YES",R
+"43840","1,2-Dichloroethene(total)",,,"540-59-0","Parts per billion Carbon","YES",R
+"43829","1,2-Dichloropropane","2CLPR","Propane,1,2-dichloro-","78-87-5","Parts per billion Carbon","YES",R
+"16822","1,2-Dichlorotetrafluoroethane",,,"76-14-2","Parts per billion Carbon","NO",R
+"17146","1,2-dimethylnaphthalene (TSP) STP",,,"573-98-8","Nanograms/cubic meter (25 C)","YES",R
+"17144","1,2-Dimethylnaphthalene (TSP) STP",,,"575-43-9","Nanograms/cubic meter (25 C)","YES",R
+"43566","1,2-Epoxybutane",,,"106-88-7","Parts per billion Carbon","YES",R
+"16601","1,2-Epoxybutane (TSP)STP","EPOBT",,"106-88-7","Parts per billion","YES",
+"43605","1,3,5-Trichlorobenzene",,,"108-70-3","Parts per billion Carbon","YES",
+"45207","1,3,5-Trimethylbenzene","135TB","Benzene, 1,3,5-trimethyl-","108-67-8","Parts per billion Carbon","YES",R
+"43218","1,3-Butadiene","13BUD",,"106-99-0","Parts per billion Carbon","YES",R
+"45806","1,3-Dichlorobenzene",,"M-DICHLOROBENZENE","541-73-1","Parts per billion Carbon","YES",R
+"16727","1,3-Dichlorobenzene (TSP) STP",,,"541-73-1","Nanograms/cubic meter (25 C)","YES",R
+"43841","1,3-Dichloropropene(total)","DCLPR",,"542-75-6","Parts per billion Carbon","YES",R
+"16728","1,3-Dinitrobenzene (TSP) STP",,,"99-65-0","Nanograms/cubic meter (25 C)","YES",R
+"17152","1,3-dinitropyrene (TSP) STP",,,"75321-20-9","Nanograms/cubic meter (25 C)","YES",R
+"43229","1,3-Hexadiene",,,"592-48-3","Parts per billion Carbon","YES",R
+"45807","1,4-Dichlorobenzene","14CBZ","p-Dichlorobenzene","106-46-7","Parts per billion Carbon","YES",R
+"16729","1,4-Dichlorobenzene (TSP) STP",,,"106-46-7","Nanograms/cubic meter (25 C)","YES",R
+"43847","1,4-Dichlorobutane",,,"110-56-5","Parts per billion Carbon","YES",R
+"46201","1,4-Dioxane","14DOX",,"123-91-1","Parts per billion Carbon","YES",R
+"16730","1,4-Naphthoquinone (TSP) STP",,,"130-15-4","Nanograms/cubic meter (25 C)","YES",R
+"17143","1,7-dimethylnaphthalene (TSP) STP",,,"575-37-1","Nanograms/cubic meter (25 C)","YES",R
+"43853","1-Bromopropane",,"N-Propyl bromide","106-94-5","Parts per billion Carbon","YES",R
+"43280","1-Butene","1BUTE","1-Butene","106-98-9","Parts per billion Carbon","YES",R
+"43298","1-Decene",,,"872-05-9","Parts per billion Carbon","YES",R
+"43328","1-Heptene","1HPTE",,"592-76-7","Parts per billion Carbon","YES",R
+"43344","1-Hexanol","1HXNL",,"111-27-3","Parts per billion Carbon","YES",R
+"43245","1-Hexene",,,"592-41-6","Parts per billion Carbon","YES",R
+"43173","1-Hexene & 2-Methyl-1-pentene",,,,"Parts per million Carbon","YES",R
+"43378","1-Methylcyclohexene","1MCHX",,"591-49-1","Parts per billion Carbon","YES",R
+"45851","1-Methylnaphthalene",,,"90-12-0","Parts per billion Carbon","YES",R
+"16938","1-Methylnapthalene",,,"90-12-0","Nanograms/cubic meter (25 C)","YES",R
+"17157","1-methylphenanthrene (TSP) STP",,,"832-69-9","Nanograms/cubic meter (25 C)","YES",R
+"16731","1-Naphthylamine (TSP) STP",,,"134-32-7","Nanograms/cubic meter (25 C)","YES",R
+"17153","1-nitropyrene (TSP) STP",,,"5522-43-0","Nanograms/cubic meter (25 C)","YES",R
+"88393","1-nitropyrene PM2.5 LC",,,"5522-43-0","Nanograms/cubic meter (LC)","YES",R
+"43279","1-Nonene",,,"124-11-8","Parts per billion Carbon","YES",R
+"43145","1-Octene",,,"111-66-0","Parts per billion Carbon","YES",R
+"43224","1-Pentene","1PNTE","1-Pentene","109-67-1","Parts per billion Carbon","YES",R
+"43842","1-Propene, 3-chloro",,,"107-05-1","Parts per billion Carbon","NO",R
+"43299","1-Undecene",,,"821-95-4","Parts per billion Carbon","YES",R
+"17013","2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl (TSP) STP",,"PCB 206","40186-72-9","Pg/cubic meter(25 C)","YES",R
+"17009","2,2',3,3',4,4',5,5'-Octachlorobiphenyl (TSP) STP",,"PCB 194","35694-08-7","Pg/cubic meter(25 C)","YES",R
+"17015","2,2',3,3',4,4',5,6'-Octachlorobiphenyl (TSP) STP",,"PCB 196","42740-50-1","Pg/cubic meter(25 C)","YES",R
+"17014","2,2',3,3',4,4',5,6-Octachlorobiphenyl (TSP) STP",,"PCB 195","52663-78-2","Pg/cubic meter(25 C)","YES",R
+"16936","2,2',3,3',4,4',5-Heptachlorobiphenyl (TSP) STP",,"PCB 170","35065-30-6","Pg/cubic meter(25 C)","YES",R
+"16999","2,2',3,3',4,4',6-Heptachlorobiphenyl (TSP) STP",,"PCB 171","52663-71-5","Pg/cubic meter(25 C)","YES",R
+"16989","2,2',3,3',4,4'-Hexachlorobiphenyl (TSP) STP",,"PCB 128","38380-07-3","Pg/cubic meter(25 C)","YES",R
+"17002","2,2',3,3',4,5',6'-Heptachlorobiphenyl (TSP) STP",,"PCB 177","52663-70-4","Pg/cubic meter(25 C)","YES",R
+"17011","2,2',3,3',4,5',6,6'-Octachlorobiphenyl (TSP) STP",,"PCB 201","40186-71-8","Pg/cubic meter(25 C)","YES",R
+"16990","2,2',3,3',4,5'-Hexachlorobiphenyl (TSP) STP",,"PCB 130","52663-66-8","Pg/cubic meter(25 C)","YES",R
+"17010","2,2',3,3',4,5,5',6'-Octachlorobiphenyl (TSP) STP",,"PCB 199","52663-75-9","Pg/cubic meter(25 C)","YES",R
+"17017","2,2',3,3',4,5,5',6,6'-Nonachlorobiphenyl (TSP) STP",,"PCB 208 ","52663-77-1","Pg/cubic meter(25 C)","YES",R
+"17000","2,2',3,3',4,5,5'-Heptachlorobiphenyl (TSP) STP",,"PCB 172","52663-74-8","Pg/cubic meter(25 C)","YES",R
+"17001","2,2',3,3',4,5,6'-Heptachlorobiphenyl (TSP) STP",,"PCB 174","38411-25-5","Pg/cubic meter(25 C)","YES",R
+"17046","2,2',3,3',4,6'-Hexachlorobiphenyl (TSP) STP",,"PCB 132","38380-05-1","Pg/cubic meter(25 C)","YES",R
+"17044","2,2',3,3',4-Pentachlorobiphenyl (TSP) STP",,"PCB 82","52663-62-4","Pg/cubic meter(25 C)","YES",R
+"17012","2,2',3,3',5,5',6,6'-Octachlorobiphenyl (TSP) STP",,"PCB 202","2136-99-4","Pg/cubic meter(25 C)","YES",R
+"17003","2,2',3,3',5,5',6-Heptachlorobiphenyl (TSP) STP",,"PCB 178","52663-67-9","Pg/cubic meter(25 C)","YES",R
+"16991","2,2',3,3',5,6'-Hexachlorobiphenyl (TSP) STP",,"PCB 135","52744-13-5","Pg/cubic meter(25 C)","YES",R
+"16978","2,2',3,3',5-Pentachlorobiphenyl (TSP) STP",,"PCB 83","60145-20-2","Pg/cubic meter(25 C)","YES",R
+"16979","2,2',3,3',6-Pentachlorobiphenyl (TSP) STP",,"PCB 84","52663-60-2","Pg/cubic meter(25 C)","YES",R
+"16964","2,2',3,3'-Tetrachlorobiphenyl (TSP) STP",,"PCB 40","38444-93-8","Pg/cubic meter(25 C)","YES",R
+"16995","2,2',3,4',5',6-Hexachlorobiphenyl (TSP) STP",,"PCB 149","38380-04-0","Pg/cubic meter(25 C)","YES",R
+"16986","2,2',3,4',5'-Pentachlorobiphenyl (TSP) STP",,"PCB 97","41464-51-1","Pg/cubic meter(25 C)","YES",R
+"17007","2,2',3,4',5,5',6-Heptachlorobiphenyl (TSP) STP",,"PCB 187","52663-68-0","Pg/cubic meter(25 C)","YES",R
+"16994","2,2',3,4',5,5'-Hexachlorobiphenyl (TSP) STP",,"PCB 146","51908-16-8","Pg/cubic meter(25 C)","YES",R
+"16983","2,2',3,4',6-Pentachlorobiphenyl (TSP) STP",,"PCB 91","68194-05-8","Pg/cubic meter(25 C)","YES",R
+"17040","2,2',3,4'-Tetrachlorobiphenyl (TSP) STP",,"PCB 42","36559-22-5","Pg/cubic meter(25 C)","YES",R
+"17005","2,2',3,4,4',5',6-Heptachlorobiphenyl (TSP) STP",,"PCB 183","52663-69-1","Pg/cubic meter(25 C)","YES",R
+"16992","2,2',3,4,4',5'-Hexachlorobiphenyl (TSP) STP",,"PCB 138","35065-28-2","Pg/cubic meter(25 C)","YES",R
+"17016","2,2',3,4,4',5,5',6-Octachlorobiphenyl (TSP) STP",,"PCB 203","52663-76-0","Pg/cubic meter(25 C)","YES",R
+"16937","2,2',3,4,4',5,5'-Heptachlorobiphenyl (TSP) STP",,"PCB 180","35065-29-3","Pg/cubic meter(25 C)","YES",R
+"17004","2,2',3,4,4',5,6'-Heptachlorobiphenyl (TSP) STP",,"PCB 182","60145-23-5","Pg/cubic meter(25 C)","YES",R
+"16980","2,2',3,4,4'-Pentachlorobiphenyl (TSP) STP",,"PCB 85","65510-45-4","Pg/cubic meter(25 C)","YES",R
+"17047","2,2',3,4,5',6-Hexachlorobiphenyl (TSP) STP",,"PCB 144","68194-14-9","Pg/cubic meter(25 C)","YES",R
+"16981","2,2',3,4,5'-Pentachlorobiphenyl (TSP) STP",,"PCB 87","38380-02-8","Pg/cubic meter(25 C)","YES",R
+"17006","2,2',3,4,5,5',6-Heptachlorobiphenyl (TSP) STP",,"PCB 185","52712-05-7","Pg/cubic meter(25 C)","YES",R
+"16993","2,2',3,4,5,5'-Hexachlorobiphenyl (TSP) STP",,"PCB 141","52712-04-6","Pg/cubic meter(25 C)","YES",R
+"16982","2,2',3,4,6'-Pentachlorobiphenyl (TSP) STP",,"PCB 89","73575-57-2","Pg/cubic meter(25 C)","YES",R
+"16965","2,2',3,4-Tetrachlorobiphenyl (TSP) STP",,"PCB 41","52663-59-9","Pg/cubic meter(25 C)","YES",R
+"16985","2,2',3,5',6-Pentachlorobiphenyl (TSP) STP",,"PCB 95","38379-99-6","Pg/cubic meter(25 C)","YES",R
+"16966","2,2',3,5'-Tetrachlorobiphenyl (TSP) STP",,"PCB 44","41464-39-5","Pg/cubic meter(25 C)","YES",R
+"16996","2,2',3,5,5',6-Hexachlorobiphenyl (TSP) STP",,"PCB 151","52663-63-5","Pg/cubic meter(25 C)","YES",R
+"16984","2,2',3,5,5'-Pentachlorobiphenyl (TSP) STP",,"PCB 92","52663-61-3","Pg/cubic meter(25 C)","YES",R
+"16968","2,2',3,6'-Tetrachlorobiphenyl (TSP) STP",,"PCB 46","41464-47-5","Pg/cubic meter(25 C)","YES",R
+"16967","2,2',3,6-Tetrachlorobiphenyl (TSP) STP",,"PCB 45","70362-45-7","Pg/cubic meter(25 C)","YES",R
+"16957","2,2',3-Trichlorobiphenyl (TSP) STP",,"PCB 16","38444-78-9","Pg/cubic meter(25 C)","YES",R
+"16997","2,2',4,4',5,5'-Hexachlorobiphenyl (TSP) STP",,"PCB 153","35065-27-1","Pg/cubic meter(25 C)","YES",R
+"16987","2,2',4,4',5-Pentachlorobiphenyl (TSP) STP",,"PCB 99","38380-01-7","Pg/cubic meter(25 C)","YES",R
+"16969","2,2',4,4'-Tetrachlorobiphenyl (TSP) STP",,"PCB 47","2437-79-8","Pg/cubic meter(25 C)","YES",R
+"16970","2,2',4,5'-Tetrachlorobiphenyl (TSP) STP",,"PCB 49","41464-40-8","Pg/cubic meter(25 C)","YES",R
+"16988","2,2',4,5,5'-Pentachlorobiphenyl (TSP) STP",,"PCB 101","37680-73-2","Pg/cubic meter(25 C)","YES",R
+"17037","2,2',4-Trichlorobiphenyl (TSP) STP",,"PCB 17","37680-66-3","Pg/cubic meter(25 C)","YES",R
+"16971","2,2',5,5'-Tetrachlorobiphenyl (TSP) STP",,"PCB 52","35693-99-3","Pg/cubic meter(25 C)","YES",R
+"16972","2,2',5,6'-Tetrachlorobiphenyl (TSP) STP",,"PCB 53","41464-41-9","Pg/cubic meter(25 C)","YES",R
+"16941","2,2',5-Trichlorobiphenyl (TSP) STP",,"PCB 18","37680-65-2","Pg/cubic meter(25 C)","YES",R
+"16958","2,2',6-Trichlorobiphenyl (TSP) STP",,"PCB 19","38444-73-4","Pg/cubic meter(25 C)","YES",R
+"16952","2,2'-Dichlorobiphenyl (TSP) STP",,"PCB 4","13029-08-8","Pg/cubic meter(25 C)","YES",R
+"43392","2,2,3-Trimethylbutane","223TM",,"464-06-2","Parts per billion Carbon","YES",R
+"43376","2,2,4-Trimethylhexane","224MT",,"16747-26-5","Parts per billion Carbon","YES",R
+"43250","2,2,4-Trimethylpentane","224TM","Pentane,2,2,4-trimethyl","540-84-1","Parts per billion Carbon","YES",R
+"43825","2,2-Dichloro-1,1,1-trifluoroethane",,"Freon 123","306-83-2","Parts per billion Carbon","YES",R
+"43244","2,2-Dimethylbutane","22DMB","Butane,2,2-dimethyl-","75-83-2","Parts per billion Carbon","YES",R
+"43375","2,2-Dimethylheptane","22DMT","Heptane, 2,2-dimethyl-","1071-26-7","Parts per billion Carbon","YES",R
+"43222","2,2-Dimethylpropane",,,"463-82-1","Parts per billion Carbon","YES",R
+"16975","2,3',4',5-Tetrachlorobiphenyl (TSP) STP",,"PCB 70","32598-11-1","Pg/cubic meter(25 C)","YES",R
+"16976","2,3',4',6-Tetrachlorobiphenyl (TSP) STP",,"PCB 71","41464-46-4","Pg/cubic meter(25 C)","YES",R
+"16962","2,3',4'-Trichlorobiphenyl (TSP) STP",,"PCB 33","38444-86-9","Pg/cubic meter(25 C)","YES",R
+"16946","2,3',4,4',5'-Pentachlorobiphenyl (TSP) STP",,"PCB 123","65510-44-3","Pg/cubic meter(25 C)","YES",R
+"16950","2,3',4,4',5,5',-Hexachlorobiphenyl (TSP) STP",,"PCB 167","52663-72-6","Pg/cubic meter(25 C)","YES",R
+"16933","2,3',4,4',5-Pentachlorobiphenyl (TSP) STP",,"PCB 118","31508-00-6","Pg/cubic meter(25 C)","YES",R
+"17043","2,3',4,4'-Tetrachlorobiphenyl (TSP) STP",,"PCB 66","32598-10-0","Pg/cubic meter(25 C)","YES",R
+"17038","2,3',4-Trichlorobiphenyl (TSP) STP",,"PCB 25","55712-37-3","Pg/cubic meter(25 C)","YES",R
+"16960","2,3',5-Trichlorobiphenyl (TSP) STP",,"PCB 26","38444-81-4","Pg/cubic meter(25 C)","YES",R
+"16961","2,3',6-Trichlorobiphenyl (TSP) STP",,"PCB 27","38444-76-7","Pg/cubic meter(25 C)","YES",R
+"16954","2,3'-Dichlorobiphenyl (TSP) STP",,"PCB 6","25569-80-6","Pg/cubic meter(25 C)","YES",R
+"17008","2,3,3',4',5,5',6-Heptachlorobiphenyl (TSP) STP",,"PCB 193","69782-91-8","Pg/cubic meter(25 C)","YES",R
+"17049","2,3,3',4',5,6-Hexachlorobiphenyl (TSP) STP ",,"PCB 163","74472-44-9","Pg/cubic meter(25 C)","YES",R
+"17045","2,3,3',4',6-Pentachlorobiphenyl (TSP) STP",,"PCB 110","38380-03-9","Pg/cubic meter(25 C)","YES",R
+"16973","2,3,3',4'-Tetrachlorobiphenyl (TSP) STP",,"PCB 56","41464-43-1","Pg/cubic meter(25 C)","YES",R
+"16949","2,3,3',4,4',5'-Hexachlorobiphenyl (TSP) STP",,"PCB 157","69782-90-7","Pg/cubic meter(25 C)","YES",R
+"16951","2,3,3',4,4',5,5'-Heptachlorobiphenyl",,"PCB 189","39635-31-9","Pg/cubic meter(25 C)","YES",R
+"16948","2,3,3',4,4',5-Hexachlorobiphenyl (TSP) STP",,"PCB 156","38380-08-4","Pg/cubic meter(25 C)","YES",R
+"16998","2,3,3',4,4',6-Hexachlorobiphenyl (TSP) STP",,"PCB 158","74472-42-7","Pg/cubic meter(25 C)","YES",R
+"16934","2,3,3',4,4'-Pentachlorobiphenyl (TSP) STP",,"PCB 105","32598-14-4","Pg/cubic meter(25 C)","YES",R
+"16974","2,3,4',5-Tetrachlorobiphenyl (TSP) STP",,"PCB 63","74472-34-7","Pg/cubic meter(25 C)","YES",R
+"17042","2,3,4',6-Tetrachlorobiphenyl (TSP) STP",,"PCB 64","52663-58-8","Pg/cubic meter(25 C)","YES",R
+"16959","2,3,4'-Trichlorobiphenyl (TSP) STP",,"PCB 22","38444-85-8","Pg/cubic meter(25 C)","YES",R
+"16945","2,3,4,4',5-Pentachlorobiphenyl (TSP) STP",,"PCB 114","74472-37-0","Pg/cubic meter(25 C)","YES",R
+"17041","2,3,4,4'-Tetrachlorobiphenyl (TSP) STP",,"PCB 60","33025-41-1","Pg/cubic meter(25 C)","YES",R
+"16924","2,3,4,6,7,8-Hexachlorodibenzofuran (TSP) STP","3HCDF","2,3,4,6,7,8-HXCDF","60851-34-5","Pg/cubic meter(25 C)","YES",R
+"16732","2,3,4,6-Tetrachlorophenol (TSP) STP",,,"58-90-2","Nanograms/cubic meter (25 C)","YES",R
+"16921","2,3,4,7,8-Pentachlorodibenzofuran (TSP) STP","2PCDF","2,3,4,7,8-PECDF","57117-31-4","Pg/cubic meter(25 C)","YES",R
+"43252","2,3,4-Trimethylpentane","234TM",,"565-75-3","Parts per billion Carbon","YES",R
+"17819","2,3,7,8,-Tetrachlorodibenzo-p-dioxin","DIOX1","2,3,7,8-TCDD","1746-01-6","Pg/cubic meter(25 C)","NO",R
+"17825","2,3,7,8-Tetrachlorodibenzofuran (TSP) STP","FURN1",,"51207-31-9","Pg/cubic meter(25 C)","YES",R
+"16953","2,3-Dichlorobiphenyl (TSP) STP",,"PCB 5","16605-91-7","Pg/cubic meter(25 C)","YES",R
+"43241","2,3-Dimethyl-2-pentene",,,"10574-37-5","Parts per billion Carbon","YES",R
+"43284","2,3-Dimethylbutane","23DMB","Butane,2,3-dimethyl-","79-29-8","Parts per billion Carbon","YES",R
+"43174","2,3-Dimethylbutane & 2-Methylpentane",,,,"Parts per billion Carbon","YES",R
+"43294","2,3-Dimethylhexane",,,"584-94-1","Parts per billion Carbon","YES",R
+"17145","2,3-dimethylnaphthalene (TSP) STP",,,"581-40-8","Nanograms/cubic meter (25 C)","YES",R
+"43291","2,3-Dimethylpentane","23DMP",,"565-59-3","Parts per billion Carbon","YES",R
+"16943","2,4',5-Trichlorobiphenyl (TSP) STP",,"PCB 31","16606-02-3","Pg/cubic meter(25 C)","YES",R
+"17039","2,4',6-Trichlorobiphenyl (TSP) STP",,"PCB 32","38444-77-8","Pg/cubic meter(25 C)","YES",R
+"16939","2,4'-Dichlorobiphenyl (TSP) STP",,"PCB 8","34883-43-7","Pg/cubic meter(25 C)","YES",R
+"16977","2,4,4',5-Tetrachlorobiphenyl (TSP) STP",,"PCB 74","32690-93-0","Pg/cubic meter(25 C)","YES",R
+"16942","2,4,4'-Trichlorobiphenyl (TSP) STP",,"PCB 28","7012-37-5","Pg/cubic meter(25 C)","YES",R
+"43274","2,4,4-Trimethyl-1-pentene",,"1-Pentene, 2,4,4-trimethyl","107-39-1","Parts per billion Carbon","YES",R
+"43275","2,4,4-Trimethyl-2-pentene",,"2-Pentene, 2,4,4-trimethyl","107-40-4","Parts per billion Carbon","YES",R
+"16733","2,4,5-Trichlorophenol (TSP) STP",,,"95-95-4","Nanograms/cubic meter (25 C)","YES",R
+"16734","2,4,6-Trichlorophenol (TSP) STP",,,"88-06-2","Nanograms/cubic meter (25 C)","YES",R
+"16955","2,4-Dichlorobiphenyl (TSP) STP",,"PCB 7","33284-50-3","Pg/cubic meter(25 C)","YES",R
+"16735","2,4-Dichlorophenol (TSP) STP",,,"120-83-2","Nanograms/cubic meter (25 C)","YES",R
+"43136","2,4-Dichlorophenoxyacetic acid methyl ester","DICME",,"1928-38-7","Nanograms/cubic meter (25 C)","YES",R
+"43293","2,4-Dimethylhexane",,,"589-43-5","Parts per billion Carbon","YES",R
+"43247","2,4-Dimethylpentane","24DMP","Pentane, 2,4-dimethyl-","108-08-7","Parts per billion Carbon","YES",R
+"16736","2,4-Dimethylphenol (TSP) STP",,,"105-67-9","Nanograms/cubic meter (25 C)","YES",R
+"16737","2,4-Dinitrophenol (TSP) STP",,,"51-28-5","Nanograms/cubic meter (25 C)","YES",R
+"16738","2,4-Dinitrotoluene (TSP) STP",,,"121-14-2","Nanograms/cubic meter (25 C)","YES",R
+"17906","2,4-Toluene Diisocyanate","TLCYN",,"584-84-9","Micrograms/cubic meter (LC)","YES",
+"17035","2,5-Dichlorobiphenyl (TSP) STP",,"PCB 9","34883-39-1","Pg/cubic meter(25 C)","YES",R
+"45503","2,5-Dimethylbenzaldehyde",,,"5779-94-2","Parts per billion Carbon","YES",R
+"43955","2,5-Dimethylhexane",,,"592-13-2","Parts per billion Carbon","YES",R
+"17036","2,6-Dichlorobiphenyl (TSP)STP",,"PCB 10","33146-45-1","Pg/cubic meter(25 C)","YES",R
+"16739","2,6-Dichlorophenol (TSP) STP",,,"87-65-0","Nanograms/cubic meter (25 C)","YES",R
+"17142","2,6-dimethylnaphthalene (TSP) STP",,,"581-42-0","Nanograms/cubic meter (25 C)","YES",R
+"16740","2,6-Dinitrotoluene (TSP) STP",,,"606-20-2","Nanograms/cubic meter (25 C)","YES",R
+"17140","2,7-dimethylnaphthalene (TSP) STP",,,"582-16-1","Nanograms/cubic meter (25 C)","YES",R
+"43292","2-2-3-Trimethylpentane",,,"564-02-3","Parts per billion Carbon","YES",R
+"17911","2-6-TOLUENEDIISOCYANATE",,,,"Micrograms/cubic meter (LC)","YES",
+"16741","2-Acetylaminofluorene (TSP) STP",,,"53-96-3","Nanograms/cubic meter (25 C)","YES",R
+"43833","2-Chloroethyl vinyl ether",,"Ethene, (2-chloroethoxy)-","110-75-8","Parts per billion Carbon","YES",R
+"16742","2-Chloronaphthalene (TSP) STP",,,"91-58-7","Nanograms/cubic meter (25 C)","YES",R
+"43331","2-Chloropentane","2CLPT",,"625-29-6","Parts per billion Carbon","YES",R
+"16743","2-Chlorophenol  (TSP) STP",,,"95-57-8","Nanograms/cubic meter (25 C)","YES",R
+"45811","2-chlorotoluene",,"o-chlorotoluene, 1-chloro-2-methylbenzene","95-49-8","Parts per billion Carbon","YES",
+"43236","2-Ethyl-1-butene",,"Pentane,3-methylene-","760-21-4","Parts per billion Carbon","YES",R
+"43225","2-Methyl-1-butene",,,"563-46-2","Parts per billion Carbon","YES",R
+"43246","2-Methyl-1-pentene","2M1PE","1-METHYL-1-PROPYLETHYLENE","763-29-1","Parts per billion Carbon","YES",R
+"43228","2-Methyl-2-butene","2M2BE",,"513-35-9","Parts per billion Carbon","YES",R
+"43343","2-Methyl-2-butene & 1-pentene","2M2BP",,,"Parts per billion Carbon","YES",R
+"43237","2-Methyl-2-pentene",,,"625-27-4","Parts per billion Carbon","YES",R
+"43564","2-Methyl-3-hexanone",,"Isopropyl N-propyl ketone","7379-12-6","Parts per billion Carbon","YES",R
+"43960","2-Methylheptane","2MHEP",,"592-27-8","Parts per billion Carbon","YES",R
+"43172","2-Methylheptane & 3-Methylheptane",,,,"Parts per billion Carbon","YES",R
+"43263","2-Methylhexane","2MHXA","Hexane,2-methyl-","591-76-4","Parts per billion Carbon","YES",R
+"43362","2-Methylhexane & 2,3-dimethylpentane ","MH&DM",,,"Parts per billion Carbon","YES",R
+"43347","2-Methylhexane & cyclohexane","2ME&C",,,"Parts per billion Carbon","YES",R
+"45852","2-Methylnaphthalene",,,"91-57-6","Parts per billion Carbon","YES",R
+"16915","2-Methylnaphthalene (TSP) STP","2MNAP","Napthalene,2-methyl-","91-57-6","Nanograms/cubic meter (25 C)","YES",R
+"43285","2-Methylpentane","2MPNA","Pentane, 2-methyl-","107-83-5","Parts per billion Carbon","YES",R
+"17156","2-methylphenanthrene (TSP) STP",,,"2531-84-2","Nanograms/cubic meter (25 C)","YES",R
+"16744","2-Naphthylamine  (TSP) STP",,,"91-59-8","Nanograms/cubic meter (25 C)","YES",R
+"16745","2-Nitroaniline  (TSP) STP",,,"88-74-4","Nanograms/cubic meter (25 C)","YES",R
+"16746","2-Nitrophenol  (TSP) STP",,,"88-75-5","Nanograms/cubic meter (25 C)","YES",R
+"43756","2-Nitropropane","2NTPR","Propane,2-nitro-","79-46-9","Parts per billion Carbon","YES",R
+"43562","2-Pentanone",,,"107-87-9","Parts per billion Carbon","YES",
+"16747","2-Picoline  (TSP) STP",,,"109-06-8","Nanograms/cubic meter (25 C)","YES",R
+"43312","2-Propanol",,,"67-63-0","Parts per billion Carbon","YES",R
+"16935","3,3',4,4',5,5'-Hexachlorobiphenyl (TSP) STP",,"PCB 169","32774-16-6","Pg/cubic meter(25 C)","YES",R
+"16947","3,3',4,4',5-Pentachlorobiphenyl (TSP) STP",,"PCB 126","57465-28-8","Pg/cubic meter(25 C)","YES",R
+"16932","3,3',4,4'-Tetrachlorobiphenyl (TSP) STP",,"PCB 77","32598-13-3","Pg/cubic meter(25 C)","YES",R
+"17716","3,3'-Dichlorobenzidene (TSP) STP","DCB","[1,1'-Biphenyl]-4,4'-diamine,3,3' dichloro-","91-94-1","Micrograms/cubic meter (25 C)","YES",R
+"16956","3,3'-Dichlorobiphenyl (TSP) STP",,"PCB 11","2050-67-1","Pg/cubic meter(25 C)","YES",R
+"16748","3,3'-Dimethoxybenzidine  (TSP) STP",,,"119-90-4","Nanograms/cubic meter (25 C)","YES",R
+"16944","3,4,4',5-Tetrachlorobiphenyl (TSP) STP",,"PCB 81","70362-50-4","Pg/cubic meter(25 C)","YES",R
+"16963","3,4,4'-Trichlorobiphenyl (TSP) STP",,"PCB 37","38444-90-5","Pg/cubic meter(25 C)","YES",R
+"43863","3-Bromopropene",,"1-Propene,3-bromo-","106-95-6","Parts per billion Carbon","YES",R
+"43335","3-Chloropropene","3CLPR","1-Propene,3-chloro-","107-05-1","Parts per billion Carbon","YES",R
+"43295","3-Ethylhexane",,,"619-99-8","Parts per billion Carbon","YES",R
+"43563","3-Heptanone",,"Ethyl Butyl Ketone","106-35-4","Parts per billion Carbon","YES",R
+"43557","3-Hexanone",,"ETHYL PROPYL KETONE","589-38-8","Parts per billion Carbon","YES",R
+"43282","3-Methyl-1-butene","3M1BE",,"563-45-1","Parts per billion Carbon","YES",R
+"43122","3-Methyl-1-butene & Cyclopentene",,,,"Parts per billion Carbon","NO",R
+"43342","3-Methyl-1-butene & cyclopentene","3M1BC",,,"Parts per billion Carbon","YES",R
+"16749","3-Methylcholanthrene  (TSP) STP",,,"56-49-5","Nanograms/cubic meter (25 C)","YES",R
+"43253","3-Methylheptane","3MHEP",,"589-81-1","Parts per billion Carbon","YES",R
+"43249","3-Methylhexane","3MHXA",,"589-34-4","Parts per billion Carbon","YES",R
+"43230","3-Methylpentane","3MPNA","Pentane,3-methyl-","96-14-0","Parts per billion Carbon","YES",R
+"16750","3-Nitroaniline  (TSP) STP",,,"99-09-2","Nanograms/cubic meter (25 C)","YES",R
+"17155","3-nitrofluoranthene (TSP) STP",,,"892-21-7","Nanograms/cubic meter (25 C)","YES",R
+"43553","3-Pentanone",,,"96-22-0","Parts per billion Carbon","YES",R
+"16940","4,4'-Dichlorobiphenyl (TSP) STP",,"PCB 15","2050-68-2","Pg/cubic meter(25 C)","YES",R
+"45704","4,4-Methylenedianiline","DMANL",,"101-77-9","Micrograms/cubic meter (25 C)","YES",
+"45732","4,4-Methylenediphenyl Diisocyanate (MDI)","MDI",,"101-68-8","Micrograms/cubic meter (LC)","YES",
+"16751","4,6-Dinitro-2-methylphenol  (TSP) STP",,,"534-52-1","Nanograms/cubic meter (25 C)","YES",R
+"16752","4-Aminobiphenyl  (TSP) STP",,,"92-67-1","Nanograms/cubic meter (25 C)","YES",R
+"16753","4-Bromophenyl phenyl ether  (TSP) STP",,,"101-55-3","Nanograms/cubic meter (25 C)","YES",R
+"16754","4-Chloro-3-methylphenol  (TSP) STP",,,"59-50-7","Nanograms/cubic meter (25 C)","YES",R
+"16755","4-Chloroaniline  (TSP) STP",,,"106-47-8","Nanograms/cubic meter (25 C)","YES",R
+"16756","4-Chlorophenyl-phenyl ether  (TSP) STP",,,"7005-72-3","Nanograms/cubic meter (25 C)","YES",R
+"16757","4-Dimethylaminoazobenzene  (TSP) STP",,,"60-11-7","Nanograms/cubic meter (25 C)","YES",R
+"43234","4-Methyl-1-pentene","4M1PE",,"691-37-2","Parts per billion Carbon","YES",R
+"43395","4-Methylheptane","4MEHE",,"589-53-7","Parts per billion Carbon","YES",R
+"43391","4-Methylpentene & 3-methylpentene","43MPN",,,"Parts per billion Carbon","YES",R
+"16758","4-Nitroaniline  (TSP) STP",,,"100-01-6","Nanograms/cubic meter (25 C)","YES",R
+"16759","4-Nitrophenol  (TSP) STP",,,"100-02-7","Nanograms/cubic meter (25 C)","YES",R
+"16212","4-Phenylcyclohexene",,,"4994-16-5","Micrograms/cubic meter (25 C)","YES",R
+"17257","5-Methylchrysene",,,"3697-24-3","Nanograms/cubic meter (25 C)","YES",
+"16760","5-Nitro-o-toluidine  (TSP) STP",,,"99-55-8","Nanograms/cubic meter (25 C)","YES",R
+"16761","7,12-Dimethylbenz[a]anthracene  (TSP) STP",,,"57-97-6","Nanograms/cubic meter (25 C)","YES",R
+"17250","7H-Dibenzo[c,g]carbazole",,,"194-59-2","Nanograms/cubic meter (25 C)","YES",
+"17159","9-fluorenone (TSP) STP",,,"486-25-9","Nanograms/cubic meter (25 C)","YES",R
+"16127",">=C10 Alkenes",,,,"Picocuries/cubic meter","NO",R
+"86502","Acceptable PM10-2.5 - Local Conditions",,,,"Micrograms/cubic meter (LC)","NO",T
+"88502","Acceptable PM2.5 AQI & Speciation Mass","PM2.5",,,"Micrograms/cubic meter (LC)","YES",T
+"17147","Acenaphthene (TSP) STP","PAH2",,"83-32-9","Nanograms/cubic meter (25 C)","YES",R
+"17148","Acenaphthylene (TSP) STP","PAH3",,"208-96-8","Nanograms/cubic meter (25 C)","YES",R
+"43503","Acetaldehyde","ACETA","ACETIC ALDEHYDE","75-07-0","Parts per billion Carbon","YES",R
+"43551","Acetone","ACET","2-Propanone","67-64-1","Parts per billion Carbon","YES",R
+"43702","Acetonitrile","ACENT",,"75-05-8","Parts per billion Carbon","YES",R
+"43565","Acetophenone",,,"98-86-2","Parts per billion Carbon","YES",R
+"16762","Acetophenone  (TSP) STP",,,"98-86-2","Nanograms/cubic meter (25 C)","YES",R
+"16526","Acetophenone(Duplicate)","ACEPH",,"98-86-2","Parts per billion Carbon","NO",
+"43206","Acetylene","ACETE","Ethyne","74-86-2","Parts per billion Carbon","YES",R
+"65330","Acidity (precip)","PACID",,,"Milligrams/liter as CACO3","YES",R
+"99999","Acrolein ",,,,"Micrograms/cubic meter (25 C)","NO",
+"43505","Acrolein - Unverified","ACREN","2-Propenal","107-02-8","Parts per billion Carbon","YES",R
+"43509","Acrolein - Verified",,"2-Propenal","107-02-8","Parts per billion Carbon","YES",R
+"43704","Acrylonitrile","ACRNT","2-Propenenitrile","107-13-1","Parts per billion Carbon","YES",R
+"88341","Aerosol Extinction PM2.5 LC",,,,"Inverse Megameters","YES",
+"43501","Aldehydes","ALDHY",,,"Parts per billion Carbon","YES",R
+"43159","Aldrin","ALD",,"309-00-2","Nanograms/cubic meter (25 C)","YES",R
+"65331","Alkalinity (precip)","PALKA",,,"Microequivalence/liter","YES",R
+"11301","Alpha radiation (TSP)","GALP",,"12587-46-1","Picocuries/cubic meter","YES",R
+"17835","Alpha-terpinene (TSP) STP",,,"99-86-5","Nanograms/cubic meter (25 C)","YES",R
+"43256","alpha.-Pinene","APINE","Bicyclo[3.1.1]hept-2-ene,2,6,6-trimethyl-","80-56-8","Parts per billion Carbon","YES",R
+"65342","Aluminum (precip)","PALU",,"7429-90-5","Milligrams/liter","YES",R
+"14101","Aluminum (TSP) LC",,,"7429-90-5","Micrograms/cubic meter (LC)","YES",R
+"12101","Aluminum (TSP) STP","AL-PT",,"7429-90-5","Micrograms/cubic meter (25 C)","YES",R
+"85104","Aluminum PM10 LC",,,"7429-90-5","Nanograms/cubic meter (LC)","YES",R
+"82101","Aluminum PM10 STP","AL-PM",,"7429-90-5","Nanograms/cubic meter (25 C)","YES",R
+"86104","Aluminum PM10-2.5 LC",,,"7429-90-5","Micrograms/cubic meter (LC)","YES",R
+"83101","Aluminum PM10-2.5 STP","ALPMC",,"7429-90-5","Micrograms/cubic meter (25 C)","YES",R
+"88104","Aluminum PM2.5 LC",,,"7429-90-5","Micrograms/cubic meter (LC)","YES",R
+"84101","Aluminum PM2.5 STP","ALFMC",,"7429-90-5","Micrograms/cubic meter (25 C)","YES",R
+"68104","Ambient Max Temperature",,,,"Degrees Centigrade","YES",R
+"68103","Ambient Min Temperature",,,,"Degrees Centigrade","YES",R
+"42604","Ammonia","NH3",,"7664-41-7","Parts per million","YES",R
+"62604","Ammonia (precip)","NH3PC",,"7664-41-7","Milligrams/liter","YES",R
+"22604","Ammonia (SP)","NH3SP",,"7664-41-7","Micrograms/cubic meter (25 C)","YES",R
+"81301","AMMONIUM (PM10) use 82301","NH4PMa",,,"Micrograms/cubic meter (25 C)","NO",R
+"65318","Ammonium (precip)","PNH4-",,"14798-03-9","Milligrams/liter","YES",R
+"22301","Ammonium (SP)","NH4+S",,"14798-03-9","Grams/sq meter/month","YES",R
+"12301","Ammonium (TSP) STP","NH4+P","Ammonium ion (NH4)","14798-03-9","Micrograms/cubic meter (25 C)","YES",R
+"85301","Ammonium Ion PM10 LC",,,"14798-03-9","Micrograms/cubic meter (LC)","YES",R
+"86301","Ammonium Ion PM10-2.5 LC",,,"14798-03-9","Micrograms/cubic meter (LC)","YES",R
+"88301","Ammonium Ion PM2.5 LC","NH4+",,"14798-03-9","Micrograms/cubic meter (LC)","YES",R
+"88345","Ammonium Nitrate Extinction PM2.5 LC",,,,"Inverse Megameters","YES",
+"88344","Ammonium Nitrate PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",
+"82301","Ammonium PM10 STP","NH4PM",,"14798-03-9","Micrograms/cubic meter (25 C)","YES",R
+"88340","Ammonium Sulfate Extinction PM2.5 LC",,,,"Inverse Megameters","YES",
+"88339","Ammonium Sulfate PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",
+"16763","Aniline  (TSP) STP",,,"62-53-3","Nanograms/cubic meter (25 C)","YES",R
+"17210","Anthanthrene (TSP) STP","POLY4",,"191-26-4","Nanograms/cubic meter (25 C)","YES",R
+"17151","Anthracene (TSP) STP","PAH6",,"120-12-7","Nanograms/cubic meter (25 C)","YES",R
+"65344","Antimony (precip)","SB PC",,"7440-36-0","Milligrams/liter","YES",R
+"22102","Antimony (SP)","SBSP",,"7440-36-0","Grams/sq meter/month","YES",R
+"14102","Antimony (TSP) LC",,,"7440-36-0","Micrograms/cubic meter (LC)","YES",R
+"12102","Antimony (TSP) STP","SB-PT",,"7440-36-0","Micrograms/cubic meter (25 C)","YES",R
+"11343","Antimony - 121 (TSP)",,,"14265-72-6","Micrograms/cubic meter (25 C)","YES",R
+"85102","Antimony PM10 LC",,,"7440-36-0","Nanograms/cubic meter (LC)","YES",R
+"82102","Antimony PM10 STP","SB-PM",,"7440-36-0","Nanograms/cubic meter (25 C)","YES",R
+"86102","Antimony PM10-2.5 LC",,,"7440-36-0","Micrograms/cubic meter (LC)","YES",R
+"83102","Antimony PM10-2.5 STP","SBPMC",,"7440-36-0","Micrograms/cubic meter (25 C)","YES",R
+"88102","Antimony PM2.5 LC",,,"7440-36-0","Micrograms/cubic meter (LC)","YES",R
+"84102","Antimony PM2.5 STP","SBFMC",,"7440-36-0","Micrograms/cubic meter (25 C)","YES",R
+"16118","Aroclor 1060",,,,"Picocuries/cubic meter","NO",R
+"16120","Aroclor 1232",,,"11141-16-5","Picocuries/cubic meter","NO",R
+"16121","Aroclor 1242",,,"53469-21-9","Picocuries/cubic meter","NO",R
+"16122","Aroclor 1248",,,"12672-29-6","Picocuries/cubic meter","NO",R
+"16123","Aroclor 1254",,,"11097-69-1","Picocuries/cubic meter","NO",R
+"16124","Aroclor 1260",,,"11096-82-5","Picocuries/cubic meter","NO",R
+"16119","Aroclor1221",,,"11104-28-2","Picocuries/cubic meter","NO",R
+"65339","Arsenic (precip)","PAS",,"7440-38-2","Ug/sq meter/hour","YES",R
+"22103","Arsenic (SP)","ASSP",,"7440-38-2","Grams/sq meter/month","YES",R
+"14103","Arsenic (TSP) LC",,,"7440-38-2","Micrograms/cubic meter (LC)","YES",R
+"12103","Arsenic (TSP) STP","AS",,"7440-38-2","Micrograms/cubic meter (25 C)","YES",R
+"11344","Arsenic - 75 (TSP)",,,"7440-38-2","Micrograms/cubic meter (25 C)","YES",R
+"85103","Arsenic PM10 LC",,,"7440-38-2","Nanograms/cubic meter (LC)","YES",R
+"82103","Arsenic PM10 STP","AS-PM",,"7440-38-2","Nanograms/cubic meter (25 C)","YES",R
+"86103","Arsenic PM10-2.5 LC",,,"7440-38-2","Micrograms/cubic meter (LC)","YES",R
+"83103","Arsenic PM10-2.5 STP","ASPMC",,"7440-38-2","Micrograms/cubic meter (25 C)","YES",R
+"88103","Arsenic PM2.5 LC",,,"7440-38-2","Micrograms/cubic meter (LC)","YES",R
+"84103","Arsenic PM2.5 STP","ASFMC",,"7440-38-2","Micrograms/cubic meter (25 C)","YES",R
+"11124","Asbestos > 0.5um",,,,"Structures/Cu Cm","YES",R
+"11123","Asbestos > 5um",,,"1332-21-4","Structures/Cu Cm","YES",R
+"12803","Asbestos amphibole (TSP)","AB",,"1318-09-8","Micrograms/cubic meter (25 C)","YES",R
+"61120","Atmospheric Stability","ATST",,,"Pasquill-Gifford stability class","YES",R
+"43155","Atrazine","ATRAZ",,"1912-24-9","Nanograms/cubic meter (25 C)","YES",R
+"68108","Average Ambient Pressure","BP",,,"Millimeters (mercury)","YES",R
+"68118","Average Ambient Pressure for URG3000N","BP",,,"Millimeters (mercury)","YES",R
+"68105","Average Ambient Temperature","Temp",,,"Degrees Centigrade","YES",R
+"68117","Average Ambient Temperature for URG3000N","Temp",,,"Degrees Centigrade","YES",R
+"16764","Azobenzene  (TSP) STP",,,"103-33-3","Nanograms/cubic meter (25 C)","YES",R
+"65107","Barium (precip)","BA PC",,"7440-39-3","Milligrams/liter","YES",R
+"14107","Barium (TSP) LC",,,"7440-39-3","Micrograms/cubic meter (LC)","YES",R
+"12107","Barium (TSP) STP","BA-PT",,"7440-39-3","Micrograms/cubic meter (25 C)","YES",R
+"85107","Barium PM10 LC",,,"7440-39-3","Nanograms/cubic meter (LC)","YES",R
+"82107","Barium PM10 STP","BA-PM",,"7440-39-3","Nanograms/cubic meter (25 C)","YES",R
+"86107","Barium PM10-2.5 LC",,,"7440-39-3","Micrograms/cubic meter (LC)","YES",R
+"83107","Barium PM10-2.5 STP","BAPMC",,"7440-39-3","Micrograms/cubic meter (25 C)","YES",R
+"88107","Barium PM2.5 LC",,,"7440-39-3","Micrograms/cubic meter (LC)","YES",R
+"84107","Barium PM2.5 STP","BAFMC",,"7440-39-3","Micrograms/cubic meter (25 C)","YES",R
+"64101","Barometric pressure","BPRES",,,"Millibars","YES",R
+"45501","Benzaldehyde",,,"100-52-7","Parts per billion Carbon","YES",R
+"17502","Benzanthrone (TSP) STP","POLY7","7H-Benz[de]anthracen-7-one","82-05-3","Nanograms/cubic meter (25 C)","YES",R
+"45201","Benzene","BZ",,"71-43-2","Parts per billion Carbon","YES",R
+"45115","Benzene & 1,2-dichloroethane",,,,"Parts per billion Carbon","YES",R
+"21103","Benzene Sol Org (SP)","BZSOL",,,"Grams/sq meter/month","YES",R
+"11103","Benzene soluble organics (TSP)","BZSOP",,,"Micrograms/cubic meter (25 C)","YES",R
+"45815","Benzene, 1,2,3-trichloro-",,,"87-61-6","Parts per billion Carbon","YES",R
+"45228","Benzene, 1-ethenyl-4-methyl","4ETOL","P-ETHYLTOLUENE","622-97-9","Parts per billion Carbon","YES",R
+"45221","Benzene,(1-methylethenyl)-",,"Methylstyrene","98-83-9","Parts per billion Carbon","YES",R
+"16765","Benzidine  (TSP) STP",,,"92-87-5","Nanograms/cubic meter (25 C)","YES",R
+"82242","Benzo(a)Pyrene PM10 STP","BAP10",,"50-32-8","Micrograms/cubic meter (25 C)","YES",R
+"82220","Benzo(b)Fluranthene PM10 STP","BBF",,"205-99-2","Micrograms/cubic meter (25 C)","YES",R
+"82237","Benzo(g,h,i)Perylene PM10 STP","BGHIP",,"191-24-2","Micrograms/cubic meter (25 C)","YES",R
+"82223","Benzo(k)Fluoranthene PM10 STP","BKF",,"207-08-9","Micrograms/cubic meter (25 C)","YES",R
+"17215","Benzo[a]anthracene (TSP) STP","BAA",,"56-55-3","Nanograms/cubic meter (25 C)","YES",R
+"17242","Benzo[a]pyrene (TSP) STP","BAP",,"50-32-8","Nanograms/cubic meter (25 C)","YES",R
+"17241","Benzo[a]pyrene-D12 (TSP) STP",,,"63466-71-7","Nanograms/cubic meter (25 C)","YES",R
+"17225","Benzo[b,k]fluoranthene (TSP) STP","PAH9",,,"Nanograms/cubic meter (25 C)","YES",R
+"17220","Benzo[b]fluoranthene (TSP) STP","PAH7",,"205-99-2","Nanograms/cubic meter (25 C)","YES",R
+"17256","Benzo[b]naphtho[2,1-d]thiophene",,,"239-35-0","Nanograms/cubic meter (25 C)","YES",
+"17251","Benzo[c]fluorene",,,"205-12-9","Nanograms/cubic meter (25 C)","YES",
+"17224","Benzo[e]pyrene (TSP) STP","BEP",,"192-97-2","Nanograms/cubic meter (25 C)","YES",R
+"17237","Benzo[g,h,i]perylene (TSP) STP","BGHP",,"191-24-2","Nanograms/cubic meter (25 C)","YES",R
+"17252","Benzo[j]fluoranthene",,,"205-82-3","Nanograms/cubic meter (25 C)","YES",
+"17223","Benzo[k]fluoranthene (TSP) STP","PAH8",,"207-08-9","Nanograms/cubic meter (25 C)","YES",R
+"16766","Benzyl alcohol  (TSP) STP",,,"100-51-6","Nanograms/cubic meter (25 C)","YES",R
+"45809","Benzyl chloride","BZCL","Benzene,(chloromethyl)-","100-44-7","Parts per billion Carbon","YES",R
+"65105","Beryllium (precip)","BE PC",,"7440-41-7","Milligrams/liter","YES",R
+"14105","Beryllium (TSP) LC",,,"7440-41-7","Nanograms/cubic meter (LC)","YES",R
+"12105","Beryllium (TSP) STP","BE",,"7440-41-7","Nanograms/cubic meter (25 C)","YES",R
+"85105","Beryllium PM10 LC",,,"7440-41-7","Nanograms/cubic meter (LC)","YES",R
+"82105","Beryllium PM10 STP","BE-PM",,"7440-41-7","Nanograms/cubic meter (25 C)","YES",R
+"88105","Beryllium PM2.5 LC",,,"7440-41-7","Micrograms/cubic meter (LC)","YES",R
+"11302","Beta radiation (TSP)","GBTA",,"12587-47-2","Picocuries/cubic meter","YES",R
+"43257","beta.-Pinene","BPINE",,"127-91-3","Parts per billion Carbon","YES",R
+"43189","beta.Pinene & 1,2,3- trimethylbenzene","BPI",,,"Parts per billion Carbon","YES",R
+"45301","Biphenyl","BIPH",,"92-52-4","Nanograms/cubic meter (25 C)","YES",R
+"43135","Birdin","BIRD",,,"Nanograms/cubic meter (25 C)","NO",R
+"16767","bis (2-chloroethyl)ether  (TSP) STP",,,"111-44-4","Nanograms/cubic meter (25 C)","YES",R
+"16768","bis(2-chloroethoxy)methane  (TSP) STP",,,"111-91-1","Nanograms/cubic meter (25 C)","YES",R
+"16769","bis(2-chloroisopropyl)ether  (TSP) STP",,,"108-60-1","Nanograms/cubic meter (25 C)","YES",R
+"16770","bis(2-ethylhexyl)phthalate  (TSP) STP",,,"117-81-7","Nanograms/cubic meter (25 C)","YES",R
+"88129","Bismuth",,,,"Micrograms/cubic meter (LC)","YES",
+"14130","Bismuth (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12106","Bismuth (TSP) STP","BI-PT",,"7440-69-9","Micrograms/cubic meter (25 C)","YES",R
+"85130","Bismuth PM10 LC",,,,"Nanograms/cubic meter (LC)","YES",
+"88317","Black Carbon  PM2.5 Corrected",,,,"Micrograms/cubic meter (LC)","YES",
+"85313","Black Carbon PM10 LC",,,"1333-86-4","Micrograms/cubic meter (LC)","YES",R
+"88313","Black Carbon PM2.5 at 880 nm",,,"1333-86-4","Micrograms/cubic meter (LC)","YES",R
+"84313","Black carbon PM2.5 STP",,,"1333-86-4","Micrograms/cubic meter (25 C)","YES",R
+"65190","Boron (precip)","BO PC",,"7440-42-8","Milligrams/liter","YES",R
+"12190","Boron (TSP) STP","BOTSP",,"7440-42-8","Micrograms/cubic meter (25 C)","YES",R
+"82190","Boron PM10 STP","BO PM",,"7440-42-8","Micrograms/cubic meter (25 C)","YES",R
+"12201","Bromide (TSP) STP","BR-PT",,"24959-67-9","Micrograms/cubic meter (25 C)","YES",R
+"82109","Bromide PM10 STP","BNPM1",,"24959-67-9","Micrograms/cubic meter (25 C)","YES",R
+"14109","Bromine (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12109","Bromine (TSP) STP",,,"7726-95-6","Micrograms/cubic meter (25 C)","YES",R
+"85109","Bromine PM10 LC",,,"7726-95-6","Micrograms/cubic meter (LC)","YES",R
+"86109","Bromine PM10-2.5 LC",,,"7726-95-6","Micrograms/cubic meter (LC)","YES",R
+"83109","Bromine PM10-2.5 STP","BNPMC",,"7726-95-6","Micrograms/cubic meter (25 C)","YES",R
+"88109","Bromine PM2.5 LC",,,"7726-95-6","Micrograms/cubic meter (LC)","YES",R
+"84109","Bromine PM2.5 STP","BNPMF",,"7726-95-6","Micrograms/cubic meter (25 C)","YES",R
+"43836","Bromochloromethane",,"Methane,bromochloro-","74-97-5","Parts per billion Carbon","YES",R
+"43828","Bromodichloromethane",,"Methane,bromodichloro-","75-27-4","Parts per billion Carbon","YES",R
+"45808","Bromofluorobenzene",,,"460-00-4","Parts per billion Carbon","YES",R
+"43806","Bromoform","BRFM","Methane,tribromo-","75-25-2","Parts per billion Carbon","YES",R
+"43819","Bromomethane","BRMT","METHYL BROMIDE","74-83-9","Parts per billion Carbon","YES",R
+"43339","Butryl-aldehyde & Methyl Ethyl Ketone","BAMEK",,,"Parts per billion Carbon","YES",R
+"43514","Butyl acetate",,"Acetic acid, butyl ester","123-86-4","Parts per billion Carbon","YES",R
+"45233","Butyl benzene",,,"104-51-8","Parts per billion Carbon","YES",R
+"16771","Butyl benzyl phthalate  (TSP) STP",,,"85-68-7","Nanograms/cubic meter (25 C)","YES",R
+"45232","Butylbenzene",,,"68411-44-9","Parts per billion Carbon","YES",R
+"43510","Butyraldehyde",,"Butanal","123-72-8","Parts per billion Carbon","YES",R
+"43329","Butyraldehyde & isobutyraldehyde","B/IRL",,,"Parts per billion Carbon","YES",R
+"17131","C2 Alkylbenzenes",,,,"Picocuries/cubic meter","YES",R
+"16128","C4-C9 Alkenes",,,,"Picocuries/cubic meter","NO",R
+"65332","Cadmium (precip)","PCD",,"7440-43-9","Ug/sq meter/hour","YES",R
+"22110","Cadmium (SP)","CDSP",,"7440-43-9","Grams/sq meter/month","YES",R
+"14110","Cadmium (TSP) LC",,,"7440-43-9","Micrograms/cubic meter (LC)","YES",R
+"12110","Cadmium (TSP) STP","CD",,"7440-43-9","Micrograms/cubic meter (25 C)","YES",R
+"85110","Cadmium PM10 LC",,,"7440-43-9","Nanograms/cubic meter (LC)","YES",R
+"82110","Cadmium PM10 STP","CD-PM",,"7440-43-9","Nanograms/cubic meter (25 C)","YES",R
+"86110","Cadmium PM10-2.5 LC",,,"7440-43-9","Micrograms/cubic meter (LC)","YES",R
+"83110","Cadmium PM10-2.5 STP","CDPMC",,"7440-43-9","Micrograms/cubic meter (25 C)","YES",R
+"88110","Cadmium PM2.5 LC",,,"7440-43-9","Micrograms/cubic meter (LC)","YES",R
+"84110","Cadmium PM2.5 STP","CDFMC",,"7440-43-9","Micrograms/cubic meter (25 C)","YES",R
+"65314","Calcium (precip)","PCA",,"7440-70-2","Milligrams/liter","YES",R
+"22111","Calcium (SP)","CASP",,"7440-70-2","Grams/sq meter/month","YES",R
+"14111","Calcium (TSP) LC",,,"7440-70-2","Micrograms/cubic meter (LC)","YES",R
+"12111","Calcium (TSP) STP","CA-PT",,"7440-70-2","Micrograms/cubic meter (25 C)","YES",R
+"85111","Calcium PM10 LC",,,"7440-70-2","Nanograms/cubic meter (LC)","YES",R
+"82111","Calcium PM10 STP","CA PM",,"7440-70-2","Nanograms/cubic meter (25 C)","YES",R
+"86111","Calcium PM10-2.5 LC",,,"7440-70-2","Micrograms/cubic meter (LC)","YES",R
+"83111","Calcium PM10-2.5 STP","CAPMC",,"7440-70-2","Micrograms/cubic meter (25 C)","YES",R
+"88111","Calcium PM2.5 LC",,,"7440-70-2","Micrograms/cubic meter (LC)","YES",R
+"84111","Calcium PM2.5 STP","CAFMC",,"7440-70-2","Micrograms/cubic meter (25 C)","YES",R
+"16772","Carbazole (TSP) STP",,,"86-74-8","Nanograms/cubic meter (25 C)","YES",R
+"16111","Carbon black (TSP)",,,"1333-86-4","Micrograms/cubic meter (25 C)","YES",R
+"42102","Carbon dioxide","CO2",,"124-38-9","Parts per million","YES",R
+"42153","Carbon disulfide","CS2",,"75-15-0","Parts per billion Carbon","YES",R
+"42101","Carbon monoxide","CO",,"630-08-0","Parts per million","YES",R
+"43804","Carbon tetrachloride","CTETL",,"56-23-5","Parts per billion Carbon","YES",R
+"43827","Carbon Tetrafluoride",,"Perfluoromethane","75-73-0","Parts per billion Carbon","YES",R
+"88308","Carbonate Carbon CSN PM2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"43500","Carbonyls",,,,"Liters/minute STP","YES",
+"16320","Cellulose (TSP)","CELL","Cellulose","9004-34-6","Micrograms/cubic meter (25 C)","YES",R
+"12117","Cerium (TSP) STP",,,"7440-45-1","Micrograms/cubic meter (25 C)","YES",R
+"85117","Cerium Pm10 Lc",,,"7440-45-1","Nanograms/cubic meter (LC)","YES",R
+"86117","Cerium PM10-2.5 LC",,,"7440-45-1","Micrograms/cubic meter (LC)","YES",R
+"88117","Cerium PM2.5 LC",,,"7440-45-1","Micrograms/cubic meter (LC)","YES",R
+"12118","Cesium (TSP) STP",,,"7440-46-2","Micrograms/cubic meter (25 C)","YES",R
+"85118","Cesium Pm10 Lc",,,"7440-46-2","Nanograms/cubic meter (LC)","YES",R
+"86118","Cesium PM10-2.5 LC",,,"7440-46-2","Micrograms/cubic meter (LC)","YES",R
+"88118","Cesium PM2.5 LC",,,"7440-46-2","Micrograms/cubic meter (LC)","YES",R
+"65316","Chloride (precip)","PCL-",,"16887-00-6","Milligrams/liter","YES",R
+"12203","Chloride (TSP) STP","CL-PT",,"16887-00-6","Micrograms/cubic meter (25 C)","YES",R
+"82203","Chloride PM10 STP","CL-PM",,"16887-00-6","Micrograms/cubic meter (25 C)","YES",R
+"88203","Chloride PM2.5 LC","Cl-",,,"Micrograms/cubic meter (LC)","YES",
+"84203","Chloride PM2.5 STP","CLFMC",,,"Micrograms/cubic meter (25 C)","YES",
+"22203","Chloride(SP)","SPCLS",,"16887-00-6","Grams/sq meter/month","YES",R
+"42215","Chlorine","CL",,"7782-50-5","Parts per million","YES",R
+"13115","Chlorine (TSP)",,,"7782-50-5","Micrograms/cubic meter (25 C)","YES",R
+"12191","Chlorine (TSP) STP",,,"7782-50-5","Micrograms/cubic meter (25 C)","YES",R
+"85115","Chlorine PM10 LC",,,"7782-50-5","Micrograms/cubic meter (LC)","YES",R
+"82115","Chlorine PM10 STP","CNPM1",,"7782-50-5","Micrograms/cubic meter (25 C)","YES",R
+"86115","Chlorine PM10-2.5 LC",,,"7782-50-5","Micrograms/cubic meter (LC)","YES",R
+"83115","Chlorine PM10-2.5 STP","CNPMC",,"7782-50-5","Micrograms/cubic meter (25 C)","YES",R
+"88115","Chlorine PM2.5 LC",,,"7782-50-5","Micrograms/cubic meter (LC)","YES",R
+"84115","Chlorine PM2.5 STP","CLPM2",,"7782-50-5","Micrograms/cubic meter (25 C)","YES",R
+"45801","Chlorobenzene","CLBZ","Benzene, chloro-","108-90-7","Parts per billion Carbon","YES",R
+"16773","Chlorobenzilate  (TSP) STP",,,"510-15-6","Nanograms/cubic meter (25 C)","YES",R
+"43359","Chlorodifluoromethane","CHDIF","Mehtane,chlorodifluoro-","75-45-6","Parts per billion Carbon","YES",R
+"43812","Chloroethane","CLEHN","Ethane,chloro-","75-00-3","Parts per billion Carbon","YES",R
+"43803","Chloroform","CLFM","Methane,trichloro","67-66-3","Parts per billion Carbon","YES",R
+"43801","Chloromethane","CLMT","Methane,chloro-","74-87-3","Parts per billion Carbon","YES",R
+"43835","Chloroprene","CLPRE","1,3-Butadiene,2-chloro-","126-99-8","Parts per billion Carbon","YES",R
+"65112","Chromium (Precip)","CR PC",,"7440-47-3","Milligrams/liter","YES",R
+"22112","Chromium (SP)","CRSP",,"7440-47-3","Grams/sq meter/month","YES",R
+"14112","Chromium (TSP) LC",,,"7440-47-3","Micrograms/cubic meter (LC)","YES",R
+"12112","Chromium (TSP) STP","CR-PT",,"7440-47-3","Micrograms/cubic meter (25 C)","YES",R
+"11345","Chromium - 50 (TSP)",,,"14304-94-0","Micrograms/cubic meter (25 C)","YES",R
+"11346","Chromium - 52 (TSP)",,,"14092-98-9","Micrograms/cubic meter (25 C)","YES",R
+"11347","Chromium - 53 (TSP)",,,"13981-78-7","Micrograms/cubic meter (25 C)","YES",R
+"85112","Chromium PM10 LC",,,"7440-47-3","Nanograms/cubic meter (LC)","YES",R
+"82112","Chromium PM10 STP","CR-PM",,"7440-47-3","Nanograms/cubic meter (25 C)","YES",R
+"86112","Chromium PM10-2.5 LC",,,"7440-47-3","Micrograms/cubic meter (LC)","YES",R
+"83112","Chromium PM10-2.5 STP","CRPMC",,"7440-47-3","Micrograms/cubic meter (25 C)","YES",R
+"88112","Chromium PM2.5 LC",,,"7440-47-3","Micrograms/cubic meter (LC)","YES",R
+"84112","Chromium PM2.5 STP","CRFMC",,"7440-47-3","Micrograms/cubic meter (25 C)","YES",R
+"14115","Chromium VI (TSP) LC","CR6PT",,"18540-29-9","Micrograms/cubic meter (LC)","YES",R
+"12115","Chromium VI (TSP) STP","CR6PT",,"18540-29-9","Micrograms/cubic meter (25 C)","YES",R
+"85119","Chromium VI PM10 LC",,,"18540-29-9","Nanograms/cubic meter (LC)","YES",R
+"82119","Chromium VI PM10 STP",,,"18540-29-9","Nanograms/cubic meter (25 C)","YES",R
+"88119","Chromium VI PM2.5 LC",,,"18540-29-9","Micrograms/cubic meter (LC)","YES",R
+"17208","Chrysene (TSP) STP","POLY3",,"218-01-9","Nanograms/cubic meter (25 C)","YES",R
+"43839","cis-1,2-Dichloroethene",,"Ethene, 1,2-dichloro-,(1Z)-","156-59-2","Parts per billion Carbon","YES",R
+"43393","cis-1,2-Dimethylcyclopentane","C13DM",,"2532-58-3","Parts per billion Carbon","YES",R
+"43831","cis-1,3-Dichloropropene",,"1-Propene,1,3-dichloro-,(Z)-","10061-01-5","Parts per billion Carbon","YES",R
+"43217","cis-2-Butene","C2BTE",,"590-18-1","Parts per billion Carbon","YES",R
+"43290","cis-2-Hexene","C2HEX",,"7688-21-3","Parts per billion Carbon","YES",R
+"43227","cis-2-Pentene","C2PNE","2-Pentene, (2Z)-","627-20-3","Parts per billion Carbon","YES",R
+"43349","cis-2-Pentene & 2-methylpentane","P&MPT",,,"Parts per billion Carbon","YES",R
+"43254","cis-3-Hexene",,,"7642-09-3","Parts per billion Carbon","YES",R
+"43286","cis-4-Methyl-2-pentene",,,"691-38-3","Parts per billion Carbon","YES",R
+"43520","cis-Crotonaldehyde",,,"15798-64-8","Parts per billion Carbon","YES",R
+"43148","cis/trans-2-Butene","CT2BU",,"107-01-7","Parts per billion Carbon","YES",R
+"43149","cis/trans-2-Hexene","CT2HE",,"592-43-8","Parts per billion Carbon","YES",R
+"43150","cis/trans-2-Pentene","CT2PE",,"109-68-2","Parts per billion Carbon","YES",R
+"66101","Cloud cover","CLDC",,,"Tenths of sky cover","YES",R
+"88342","Coarse Mass Extinction PM2.5 LC",,,,"Inverse Megameters","YES",
+"65113","Cobalt (precip)","CO PC",,"7440-48-4","Milligrams/liter","YES",R
+"14113","Cobalt (TSP) LC",,,"7440-48-4","Micrograms/cubic meter (LC)","YES",R
+"12113","Cobalt (TSP) STP","CO-PT",,"7440-48-4","Micrograms/cubic meter (25 C)","YES",R
+"11348","Cobalt - 59 (TSP)",,,"7440-48-4","Micrograms/cubic meter (25 C)","YES",R
+"85113","Cobalt PM10 LC",,,"7440-48-4","Nanograms/cubic meter (LC)","YES",R
+"82113","Cobalt PM10 STP","CO-PM",,"7440-48-4","Nanograms/cubic meter (25 C)","YES",R
+"86113","Cobalt PM10-2.5 LC",,,"7440-48-4","Micrograms/cubic meter (LC)","YES",R
+"83113","Cobalt PM10-2.5 STP","COPMC",,"7440-48-4","Micrograms/cubic meter (25 C)","YES",R
+"88113","Cobalt PM2.5 LC",,,"7440-48-4","Micrograms/cubic meter (LC)","YES",R
+"84113","Cobalt PM2.5 STP","COFMC",,"7440-48-4","Micrograms/cubic meter (25 C)","YES",R
+"25303","Conductance (SP)","CONDT",,,"Microsiemens/centimeter","YES",R
+"65303","Conductivity (precip)","PCDTV",,,"Microsiemens/centimeter","YES",R
+"22114","Copper (SP)","CUSP",,"7440-50-8","Grams/sq meter/month","YES",R
+"12114","Copper (TSP) STP","CU-PT",,"7440-50-8","Micrograms/cubic meter (25 C)","YES",R
+"11349","Copper - 63 (TSP)",,,"14191-84-5","Micrograms/cubic meter (25 C)","YES",R
+"85114","Copper PM10 LC",,,"7440-50-8","Nanograms/cubic meter (LC)","YES",R
+"82114","Copper PM10 STP","CU-PM",,"7440-50-8","Nanograms/cubic meter (25 C)","YES",R
+"86114","Copper PM10-2.5 LC",,,"7440-50-8","Micrograms/cubic meter (LC)","YES",R
+"83114","Copper PM10-2.5 STP","CUCPM",,"7440-50-8","Micrograms/cubic meter (25 C)","YES",R
+"88114","Copper PM2.5 LC",,,"7440-50-8","Micrograms/cubic meter (LC)","YES",R
+"84114","Copper PM2.5 STP","CUFMC",,"7440-50-8","Micrograms/cubic meter (25 C)","YES",R
+"65333","Copper(precip)","PCU",,"7440-50-8","Milligrams/liter","YES",R
+"14114","Copper(TSP) LC",,,"7440-50-8","Micrograms/cubic meter (LC)","YES",R
+"17211","Coronene (TSP) STP","POLY5",,"191-07-1","Nanograms/cubic meter (25 C)","YES",R
+"11122","Cristabalite",,,"14464-46-1","Picocuries/cubic meter","YES",R
+"43528","Crotonaldehyde",,"2-Butenal","4170-30-3","Parts per billion Carbon","YES",R
+"11121","Crystalline quartz",,,"14808-60-7","Picocuries/cubic meter","YES",R
+"43248","Cyclohexane","CYHXA",,"110-82-7","Parts per billion Carbon","YES",R
+"43269","Cyclohexene",,,"110-83-8","Parts per billion Carbon","YES",R
+"43242","Cyclopentane","CYPNA","PENTAMETHYLENE","287-92-3","Parts per billion Carbon","YES",R
+"43171","Cyclopentane & 2,3-dimethylbutane",,,,"Parts per billion Carbon","YES",R
+"17160","Cyclopenta[cd]pyrene (TSP) STP",,,"27208-37-3","Nanograms/cubic meter (25 C)","YES",R
+"43283","Cyclopentene","CYPNE",,"142-29-0","Parts per billion Carbon","YES",R
+"43251","Cyclopropane",,,"75-19-4","Parts per billion Carbon","YES",R
+"17907","D-limonene",,"Cyclohexene,1-methyl-4-(1-methylethenyl)-(4R)","5989-27-5","Parts per billion Carbon","YES",R
+"43156","Dacthal","DAC",,"1861-32-1","Nanograms/cubic meter (25 C)","YES",R
+"17818","Decachlorobiphenyl (TSP) STP"," ",,"2051-24-3","Pg/cubic meter(25 C)","YES",R
+"43521","Decanal",,"n-decylaldehyde","112-31-2","Parts per billion Carbon","YES",R
+"11208","Deciview",,,,"No Units","YES",
+"88315","Delta Carbon PM2.5 LC",,,,"Micrograms/cubic meter (LC)","NO",R
+"84315","Delta Carbon PM2.5 STP",,,,"Micrograms/cubic meter (25 C)","NO",R
+"62103","Dew Point","DEPT",,,"Degrees Fahrenheit","YES",R
+"16777","Di-n-butyl phthalate  (TSP) STP",,,"84-74-2","Nanograms/cubic meter (25 C)","YES",R
+"16778","Di-n-octyl phthalate  (TSP) STP",,,"117-84-0","Nanograms/cubic meter (25 C)","YES",R
+"16774","Diallate  (TSP) STP",,,"2303-16-4","Nanograms/cubic meter (25 C)","YES",R
+"82151","Dibenz(A-H)Anthracene PM10 STP","DAHA",,"53-70-3","Micrograms/cubic meter (25 C)","YES",R
+"18202","Dibenzofuran (TSP) STP","DBZFR",,"132-64-9","Nanograms/cubic meter (25 C)","YES",R
+"17245","Dibenzothiophene",,,"132-65-0","Nanograms/cubic meter (25 C)","YES",
+"17244","Dibenzothiophene sulfone",,,"1016-05-3","Nanograms/cubic meter (25 C)","YES",
+"17258","Dibenzo[a,e]fluoranthene",,,"5385-75-1","Nanograms/cubic meter (25 C)","YES",
+"17249","Dibenzo[a,e]pyrene",,,"192-65-4","Nanograms/cubic meter (25 C)","YES",
+"17231","Dibenzo[a,h]anthracene (TSP) STP","PAH10",,"53-70-3","Nanograms/cubic meter (25 C)","YES",R
+"17247","Dibenzo[a,h]pyrene",,,"189-64-0","Nanograms/cubic meter (25 C)","YES",
+"17246","Dibenzo[a,i]pyrene",,,"189-55-9","Nanograms/cubic meter (25 C)","YES",
+"17248","Dibenzo[a,l]pyrene",,,"191-30-0","Nanograms/cubic meter (25 C)","YES",
+"17902","Dibenzo[b,e][1,4]dioxin,2,3,7,8-tetrachloro (TSP) STP","4CLBD",,"1746-01-6","Pg/cubic meter(25 C)","YES",R
+"17255","Dibenz[a,h]acridine",,,"226-36-8","Nanograms/cubic meter (25 C)","YES",
+"17254","Dibenz[a,j]acridine",,,"224-42-0","Nanograms/cubic meter (25 C)","YES",
+"43832","Dibromochloromethane",,"Methane,dibromochloro-","124-48-1","Parts per billion Carbon","YES",R
+"43805","Dibromomethane",,"Methane,dibromo","74-95-3","Parts per billion Carbon","YES",R
+"17810","Dichlorobiphenyl (TSP) STP","  ",,"25512-42-9","Pg/cubic meter(25 C)","YES",R
+"43823","Dichlorodifluoromethane",,"Methane,dichlorodifluoro-","75-71-8","Parts per billion Carbon","YES",R
+"43352","Dichloroethyl ether","CLETH","Ethane,1,1'-oxybis[2-chloro-","111-44-4","Parts per billion Carbon","YES",R
+"43360","dichlorofluoromethane","DICHF","R21","75-43-4","Parts per billion Carbon","YES",
+"43802","Dichloromethane","MC","Methane,dichloro-","75-09-2","Parts per billion Carbon","YES",R
+"17805","Dichlorophenol (TSP) STP","CLP5",,"25167-81-1","Nanograms/cubic meter (25 C)","YES",R
+"43852","Dichlorotetrafluoroethane",,"1, 2 - dichlorotetrafluoroethane, 1,2-Dichloro-1,1,2,2-tetrafluoroethane","1320-37-2","Parts per billion Carbon","YES",R
+"43165","Dieldrin","DELRI",,"60-57-1","Nanograms/cubic meter (25 C)","YES",R
+"16775","Diethyl phthalate  (TSP) STP",,,"84-66-2","Nanograms/cubic meter (25 C)","YES",R
+"43356","Diethylene glycol",,"Ethanol, 2,2'-oxybis-","111-46-6","Parts per billion Carbon","YES",R
+"16776","Dimethyl phthalate  (TSP) STP",,,"131-11-3","Nanograms/cubic meter (25 C)","YES",R
+"43915","DIMETHYL SULFIDE",,,,"Parts per billion Carbon","YES",
+"16779","Dinoseb  (TSP) STP",,,"88-85-7","Nanograms/cubic meter (25 C)","YES",R
+"16780","Diphenylamine  (TSP) STP",,,"122-39-4","Nanograms/cubic meter (25 C)","YES",R
+"43522","Dodecanal",,"Lauraldehyde","112-54-9","Parts per billion Carbon","YES",R
+"43330","Dodecene",,"1-Dodecene","112-41-4","Parts per billion Carbon","YES",R
+"65401","Dry deposition","DRYDP",,,"Percent hours with precip","YES",R
+"43816","Duplicate use 43839",,,,"Parts per billion Carbon","NO",R
+"43158","Dursban","DUR",,"2921-88-2","Nanograms/cubic meter (25 C)","YES",R
+"25101","Dustfall Combustible (SP)","DCOMS",,,"Grams/sq meter/month","YES",R
+"72301","Dyed fabric #1","DF#1",,,"NBS color difference units","YES",R
+"72302","Dyed fabric #2","DF#2",,,"NBS color difference units","YES",R
+"72303","Dyed fabric #3","DF#3",,,"NBS color difference units","YES",R
+"72304","Dyed fabric #4","DF#4",,,"NBS color difference units","YES",R
+"72305","Dyed fabric #5","DF#5",,,"NBS color difference units","YES",R
+"72306","Dyed fabric #6","DF#6",,,"NBS color difference units","YES",R
+"72307","Dyed fabric #7","DF#7",,,"NBS color difference units","YES",R
+"72308","Dyed fabric #8","DF#8",,,"NBS color difference units","YES",R
+"72309","Dyed fabric #9","DF#9",,,"NBS color difference units","YES",R
+"88307","EC CSN PM2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"84307","EC CSN PM2.5 STP TOT",,,,"Micrograms/cubic meter (20 C)","YES",
+"85380","EC CSN_rev Unadjusted PM10 LC TOR",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"85357","EC CSN_rev Unadjusted PM10 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86380","EC CSN_rev Unadjusted PM10-2.5 LC TOR",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86357","EC CSN_rev Unadjusted PM10-2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88380","EC CSN_Rev Unadjusted PM2.5 LC TOR","ECTR_r",,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88357","EC CSN_Rev Unadjusted PM2.5 LC TOT","ECTT_r",,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88321","EC PM2.5 LC TOR",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88381","EC PM2.5 LC TOT","ECTT",,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"85383","EC1 CSN_rev Unadjusted PM10 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86383","EC1 CSN_rev Unadjusted PM10-2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88383","EC1 CSN_Rev Unadjusted PM2.5 LC","EC1raw",,"7440-44-0","Micrograms/cubic meter (LC)","YES",
+"88329","EC1 PM2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"85384","EC2 CSN_rev Unadjusted PM10 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86384","EC2 CSN_rev Unadjusted PM10-2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88384","EC2 CSN_Rev Unadjusted PM2.5 LC","EC2raw",,"7440-44-0","Micrograms/cubic meter (LC)","YES",
+"88330","EC2 PM2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"85385","EC3 CSN_rev Unadjusted PM10 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86385","EC3 CSN_rev Unadjusted PM10-2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88385","EC3 CSN_Rev Unadjusted PM2.5 LC","EC3raw",,"7440-44-0","Micrograms/cubic meter (LC)","YES",
+"88331","EC3 PM2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88323","EH IMPROVE PM2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"68109","Elapsed Sample Time",,,,"Minutes","YES",R
+"88343","Elemental Carbon Extinction PM2.5 LC",,,,"Inverse Megameters","YES",
+"82307","Elemental Carbon PM10 STP",,,"7440-44-0","Micrograms/cubic meter (25 C)","YES",R
+"43157","Endosulfan","SUL",,"115-29-7","Nanograms/cubic meter (25 C)","YES",R
+"43175","Endosulfan 1 (alpha)",,,"959-98-8","Nanograms/cubic meter (25 C)","YES",R
+"43163","Endosulfan 2","ENS2",,"33213-65-9","Nanograms/cubic meter (25 C)","YES",R
+"43168","Endosulfan sulfate","ENSFA",,"1031-07-8","Nanograms/cubic meter (25 C)","YES",R
+"43164","Endrin","ENDRI",,"72-20-8","Nanograms/cubic meter (25 C)","YES",R
+"43161","Endrin aldehyde","ENALD",,"7421-93-4","Nanograms/cubic meter (25 C)","YES",R
+"43152","Endrin ketone","ENDRK",,"53494-70-5","Nanograms/cubic meter (25 C)","YES",R
+"43607","Epichlorohydrin",,,"106-89-8","Parts per billion Carbon","YES",R
+"16901","Epichlorohydrin(DUP)","ECLHY","1-CHLORO-2-3-EPOXYPROPANE","106-89-8","Parts per billion","YES",
+"43202","Ethane","ETHAN","METHYLMETHANE","74-84-0","Parts per billion Carbon","YES",R
+"43599","Ethane & acetylene","ET&AC",,,"Parts per billion Carbon","YES",R
+"43209","Ethyl acetate",,"Acetic acid ethyl ester","141-78-6","Parts per billion Carbon","YES",R
+"43438","Ethyl acrylate","ETHRY","2-Propenoic acid, ethyl ester","140-88-5","Parts per billion Carbon","YES",R
+"43302","Ethyl alcohol",,"Ethanol","64-17-5","Parts per billion Carbon","YES",R
+"43862","Ethyl bromide",,"Ethane,bromo-","74-96-4","Parts per billion Carbon","YES",R
+"43442","Ethyl methacrylate",,"2-Methyl-2-propenoic Acid ethyl ester, Ethyl 2-methyl-2-propenoate","97-63-2","Parts per billion Carbon","YES",R
+"16781","Ethyl methanesulfonate  (TSP) STP",,,"62-50-0","Nanograms/cubic meter (25 C)","YES",R
+"43219","Ethylacetylene",,"1-Butyne","107-00-6","Parts per billion Carbon","NO",R
+"45203","Ethylbenzene","EBENZ","Benzene,ethyl-","100-41-4","Parts per billion Carbon","YES",R
+"43296","Ethylcyclohexane",,,"1678-91-7","Parts per billion Carbon","YES",R
+"43203","Ethylene","ETHYL","Ethene","74-85-1","Parts per billion Carbon","YES",R
+"43126","Ethylene & acetylene",,,,"Parts per billion Carbon","YES",R
+"43843","Ethylene dibromide","DBRMT","Ethane,1,2-dibromo-","106-93-4","Parts per billion Carbon","YES",R
+"43815","Ethylene dichloride","ETHCL","Ethane,1,2-dichloro-","107-06-2","Parts per billion Carbon","YES",R
+"43601","Ethylene oxide","EO",,"75-21-8","Parts per billion Carbon","YES",R
+"43340","Ethyne & isobutane","ETH&I",,,"Parts per billion Carbon","YES",R
+"12121","Europium (TSP) STP",,,"7440-53-1","Micrograms/cubic meter (25 C)","YES",R
+"88121","Europium PM2.5 LC",,,"7440-53-1","Micrograms/cubic meter (LC)","YES",R
+"17201","Fluoranthene (TSP) STP","POLY1",,"206-44-0","Nanograms/cubic meter (25 C)","YES",R
+"17162","Fluoranthene-D10 (TSP) STP",,,"93951-69-0","Nanograms/cubic meter (25 C)","YES",R
+"17149","Fluorene (TSP) STP","PAH4",,"86-73-7","Nanograms/cubic meter (25 C)","YES",R
+"17161","Fluorene-D10 (TSP) STP",,,"81103-79-9","Nanograms/cubic meter (25 C)","YES",R
+"12209","Fluoride (paper samplers)",,,"16984-48-8","Ug/sq cm/30 days","YES",R
+"65315","Fluoride (precip)","PF-",,"16984-48-8","Milligrams/liter","YES",R
+"12202","Fluoride (TSP) STP","FL",,"16984-48-8","Micrograms/cubic meter (25 C)","YES",R
+"12208","Fluoride (vegation)",,,"16984-48-8","Parts per million","YES",R
+"42513","Fluoride ion","FL-",,"16984-48-8","Parts per billion","YES",R
+"82202","Fluoride PM10 STP","FL-PM",,"16984-48-8","Micrograms/cubic meter (25 C)","YES",R
+"43502","Formaldehyde","FORM","OXYMETHYLENE","50-00-0","Parts per billion Carbon","YES",R
+"43207","Freon 113","FR113",,"76-13-1","Parts per billion Carbon","YES",R
+"43208","Freon 114","FR114",,"76-14-2","Parts per billion Carbon","YES",R
+"16916","Freon 12","FRE12","Methane,dichlorodifluoro","75-71-8","Parts per billion Carbon","NO",R
+"43849","Freon 23",,"Methane,trifluoro-","75-46-7","Parts per billion Carbon","YES",R
+"46401","Furan, tetrahydro-",,,"109-99-9","Parts per billion Carbon","YES",R
+"88392","Galactosan PM2.5 LC",,,"644-76-8","Micrograms/cubic meter (LC)","YES",R
+"83130","Gallium (PM10)",,,,"Micrograms/cubic meter (25 C)","NO",
+"14124","Gallium (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12124","Gallium (TSP) STP",,,"7440-55-3","Micrograms/cubic meter (25 C)","YES",R
+"85124","Gallium PM10 LC",,,,"Nanograms/cubic meter (LC)","YES",
+"82124","Gallium PM10 STP",,,"7440-55-3","Nanograms/cubic meter (25 C)","YES",R
+"88124","Gallium PM2.5 LC",,,"7440-55-3","Micrograms/cubic meter (LC)","YES",R
+"14125","Germanium (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12125","Germanium (TSP) STP","GE-PT",,"7440-56-4","Micrograms/cubic meter (25 C)","YES",R
+"85125","Germanium PM10 LC",,,,"Nanograms/cubic meter (LC)","YES",
+"88125","Germanium PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",
+"14143","Gold (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12143","Gold (TSP) STP",,,"7440-57-5","Micrograms/cubic meter (25 C)","YES",R
+"85143","Gold PM10 LC",,,,"Nanograms/cubic meter (LC)","YES",
+"88143","Gold PM2.5 LC",,,"7440-57-5","Micrograms/cubic meter (LC)","YES",R
+"43154","Guthion","GUT",,"86-50-0","Nanograms/cubic meter (25 C)","YES",R
+"12127","Hafnium (TSP) STP",,,"7440-58-6","Micrograms/cubic meter (25 C)","YES",R
+"88127","Hafnium PM2.5 LC",,,"7440-58-6","Micrograms/cubic meter (LC)","YES",R
+"43848","Halocarbon 134a",,"Ethane,1,1,1,2-tetrafluoro-","811-97-2","Parts per billion Carbon","YES",R
+"43170","Heptachlor","HEPCH",,"76-44-8","Nanograms/cubic meter (25 C)","YES",R
+"43151","Heptachlor epoxide","HEPT",,"1024-57-3","Nanograms/cubic meter (25 C)","YES",R
+"17815","Heptachlorobiphenyl (TSP) STP"," ",,"28655-71-2","Pg/cubic meter(25 C)","YES",R
+"43950","Heptanal",,,"111-71-7","Parts per billion Carbon","YES",R
+"43264","Heptane",,,"25339-56-4","Parts per billion Carbon","YES",R
+"17804","Hexachlorobenzene (TSP) STP","CLB4","Benzene,hexachloro-","118-74-1","Nanograms/cubic meter (25 C)","YES",R
+"17814","Hexachlorobiphenyl (TSP) STP"," ",,"26601-64-9","Pg/cubic meter(25 C)","YES",R
+"43844","Hexachlorobutadiene","6CLBD","1,3-Butadiene,1,1,2,3,4,4-hexachloro-","87-68-3","Parts per billion Carbon","YES",R
+"16782","Hexachlorobutadiene  (TSP) STP",,,"87-68-3","Nanograms/cubic meter (25 C)","YES",R
+"16826","Hexachlorocyclopentadiene (TSP) STP","6CCPD",,"77-47-4","Nanograms/cubic meter (25 C)","YES",R
+"16807","Hexachloroethane (TSP) STP","6CLET",,"67-72-1","Nanograms/cubic meter (25 C)","YES",R
+"16783","Hexachloropropene  (TSP) STP",,,"1888-71-7","Nanograms/cubic meter (25 C)","YES",R
+"16714","Hexamethylene diisocyanate","6MCYN",,"822-06-0","Micrograms/cubic meter (LC)","YES",
+"43511","HEXANAL",,,,"Parts per billion Carbon","NO",R
+"43517","Hexanaldehyde",,"Hexanal","66-25-1","Parts per billion Carbon","YES",R
+"42301","Hydrobromic acid","HBR",,"10035-10-6","Micrograms/cubic meter (25 C)","YES",R
+"42302","Hydrochloric acid","HCL","HYDROGEN CHLORIDE (GAS ONLY)","7647-01-0","Micrograms/cubic meter (25 C)","YES",R
+"42303","Hydrofluoric acid","HF",,"7664-39-3","Micrograms/cubic meter (25 C)","YES",R
+"42607","Hydrogen cyanide","HCN","Hydrocyanic acid","74-90-8","Parts per million","YES",R
+"12602","Hydrogen ion conc (TSP) STP","H+P",,"12408-02-5","pH Units","YES",R
+"88337","Hydrogen PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",
+"42402","Hydrogen sulfide","H2S",,"7783-06-4","Parts per million","YES",R
+"42304","Hydronium ion","HYDRI",,"13968-08-6","Micrograms/cubic meter (25 C)","YES",R
+"43952","Indan",,,"496-11-7","Parts per billion Carbon","YES",R
+"82243","Indeno[1,2,3-cd] pyrene PM10 STP","ICDP",,"193-39-5","Micrograms/cubic meter (25 C)","YES",R
+"17243","Indeno[1,2,3-cd]pyrene (TSP) STP","PAH11",,"193-39-5","Nanograms/cubic meter (25 C)","YES",R
+"83129","Indium (PM10)",,,,"Micrograms/cubic meter (25 C)","NO",
+"14131","Indium (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12131","Indium (TSP) STP",,,"7440-74-6","Micrograms/cubic meter (25 C)","YES",R
+"85131","Indium Pm10 Lc",,,"7440-74-6","Nanograms/cubic meter (LC)","YES",R
+"82131","Indium PM10 STP",,,"7440-74-6","Nanograms/cubic meter (25 C)","YES",R
+"86131","Indium PM10-2.5 LC",,,"7440-74-6","Micrograms/cubic meter (LC)","YES",R
+"88131","Indium PM2.5 LC",,,"7440-74-6","Micrograms/cubic meter (LC)","YES",R
+"62107","Indoor Temperature","TEMPI",,,"Degrees Fahrenheit","YES",R
+"88364","Infrared PM 2.5 Carbon at 950 nm",,,,"Micrograms/cubic meter (LC)","YES",
+"63303","Infrared Radiation","IRSO",,,"Langleys/minute","YES",R
+"21113","Inorganic Fractn (SP)","INOR",,,"Grams/sq meter/month","YES",R
+"12204","Iodide (TSP) STP","I-PT",,"20461-54-5","Micrograms/cubic meter (25 C)","YES",R
+"12133","Iridium (TSP) STP",,,"7439-88-5","Micrograms/cubic meter (25 C)","YES",R
+"88133","Iridium PM2.5 LC",,,"7439-88-5","Micrograms/cubic meter (LC)","YES",R
+"65334","Iron (precip)","PFE",,"7439-89-6","Milligrams/liter","YES",R
+"22126","Iron (SP)","FESP",,"7439-89-6","Grams/sq meter/month","YES",R
+"14126","Iron (TSP) LC",,,"7439-89-6","Micrograms/cubic meter (LC)","YES",R
+"12126","Iron (TSP) STP","FE-PT",,"7439-89-6","Micrograms/cubic meter (25 C)","YES",R
+"11350","Iron - 56 (TSP)",,,"14093-02-8","Micrograms/cubic meter (25 C)","YES",R
+"11358","Iron - 57 (TSP)",,,"14762-69-7","Micrograms/cubic meter (25 C)","YES",R
+"85126","Iron PM10 LC",,,"7439-89-6","Nanograms/cubic meter (LC)","YES",R
+"82126","Iron PM10 STP","FE-PM",,"7439-89-6","Nanograms/cubic meter (25 C)","YES",R
+"86126","Iron PM10-2.5 LC",,,"7439-89-6","Micrograms/cubic meter (LC)","YES",R
+"83126","Iron PM10-2.5 STP","FEPMC",,"7439-89-6","Micrograms/cubic meter (25 C)","YES",R
+"88126","Iron PM2.5 LC",,,"7439-89-6","Micrograms/cubic meter (LC)","YES",R
+"84126","Iron PM2.5 STP","FEFMC",,"7439-89-6","Micrograms/cubic meter (25 C)","YES",R
+"43214","Isobutane","ISBTA","Propane, 2-methyl-","75-28-5","Parts per billion Carbon","YES",R
+"43270","Isobutene",,"1-Propene, 2-methyl-","115-11-7","Parts per billion Carbon","YES",R
+"43127","Isobutene & 1-butene",,,,"Parts per billion Carbon","YES",R
+"43512","Isobutyraldehyde",,"Propanal,2-methyl-","78-84-2","Parts per billion Carbon","YES",R
+"16784","Isodrin  (TSP) STP",,,"465-73-6","Nanograms/cubic meter (25 C)","YES",R
+"43111","Isomers of dodecane",,,,"Parts per billion Carbon","YES",R
+"45104","Isomers of ethyltoluene",,,"25550-14-5","Parts per billion Carbon","YES",R
+"43121","Isomers of pentene",,,,"Parts per billion Carbon","YES",R
+"43221","Isopentane","ISPNA","Butane, 2-methyl-","78-78-4","Parts per billion Carbon","YES",R
+"43341","Isopentane & cyclopentane","ISO&C",,,"Parts per billion Carbon","YES",R
+"16914","Isophorone (TSP) STP","ISPHR",,"78-59-1","Nanograms/cubic meter (25 C)","YES",R
+"43243","Isoprene","ISPRE","1,3-Butadiene,2-methyl-","78-79-5","Parts per billion Carbon","YES",R
+"45210","Isopropylbenzene","ISPBZ","Benzene,(1-methylethyl)-","98-82-8","Parts per billion Carbon","YES",R
+"16785","Isosafrole  (TSP) STP",,,"120-58-1","Nanograms/cubic meter (25 C)","YES",R
+"43513","Isovaleraldehyde",,"Butanal,3-methyl-","590-86-3","Parts per billion Carbon","YES",R
+"83147","Lanthanum (PM10)",,,,"Micrograms/cubic meter (25 C)","NO",
+"12146","Lanthanum (TSP) STP","LA-PT",,"7439-91-0","Micrograms/cubic meter (25 C)","YES",R
+"82146","Lanthanum PM10 STP",,,"7439-91-0","Nanograms/cubic meter (25 C)","YES",R
+"88146","Lanthanum PM2.5 LC",,,"7439-91-0","Micrograms/cubic meter (LC)","YES",R
+"61202","Lapse Rate","LAPS",,,"Degrees Centigrade/100m","YES",R
+"65337","Lead (precip)","PPB",,"7439-92-1","Ug/sq meter/hour","YES",R
+"22128","Lead (SP)","PBSP",,"7439-92-1","Grams/sq meter/month","YES",R
+"14129","Lead (TSP) LC",,,"7439-92-1","Micrograms/cubic meter (LC)","YES",T
+"14128","Lead (TSP) LC Non-FRM/FEM","Pb",,"7439-92-1","Micrograms/cubic meter (LC)","YES",T
+"12128","Lead (TSP) STP","PB",,"7439-92-1","Micrograms/cubic meter (25 C)","YES",T
+"11351","Lead - 208 (TSP)",,,"13966-28-4","Micrograms/cubic meter (25 C)","YES",R
+"85128","Lead PM10 LC",,,"7439-92-1","Micrograms/cubic meter (LC)","YES",T
+"85129","Lead PM10 LC FRM/FEM",,,"7439-92-1","Micrograms/cubic meter (LC)","YES",T
+"82128","Lead PM10 STP","PB-PM",,"7439-92-1","Micrograms/cubic meter (25 C)","YES",T
+"86128","Lead PM10-2.5 LC",,,"7439-92-1","Micrograms/cubic meter (LC)","YES",R
+"83128","Lead PM10-2.5 STP","PBPMC",,"7439-92-1","Micrograms/cubic meter (25 C)","YES",R
+"88128","Lead PM2.5 LC",,,"7439-92-1","Micrograms/cubic meter (LC)","YES",R
+"84128","Lead PM2.5 STP","PBFMC",,"7439-92-1","Micrograms/cubic meter (25 C)","YES",R
+"12129","Lead-210 (TSP) STP","PB210",,"14255-04-0","Micrograms/cubic meter (25 C)","YES",R
+"88390","Levoglucosan PM2.5 LC",,,"498-07-7","Micrograms/cubic meter (LC)","YES",R
+"63102","Light Absorption Coeffiecient","Fabs",,,"Inverse 100 Megameters","YES",
+"11203","Light scatter","LTSC",,,"Beta Scatter","YES",R
+"11207","Light scatter (miles visibility)",,,,"Miles (visibility)","YES",R
+"11206","Light scatter (ug/m3)",,,,"Micrograms/cubic meter (25 C)","YES",R
+"43255","Limonene",,,"138-86-3","Parts per billion Carbon","YES",R
+"43137","Lindane","LIN",,"58-89-9","Nanograms/cubic meter (25 C)","YES",R
+"45506","m & p-Tolualdehyde","MPTOL",,,"Parts per billion Carbon","YES",R
+"16786","m and p-Cresol  (TSP) STP",,,,"Nanograms/cubic meter (25 C)","YES",R
+"43379","m(and p)-Ethyltoluene","MET&P",,,"Parts per billion Carbon","YES",R
+"45111","m(and p)-Xylene & bromoform",,,,"Parts per billion Carbon","YES",R
+"17302","m-Cresol (TSP) STP","MCRE",,"108-39-4","Nanograms/cubic meter (25 C)","YES",
+"45218","m-Diethylbenzene","MDEB","Benzene, 1,3-diehtyl-","141-93-5","Parts per billion Carbon","YES",R
+"45212","m-Ethyltoluene","METOL","Benzene,1-ethyl-3-methyl-","620-14-4","Parts per billion Carbon","YES",R
+"45508","m-Tolualdehyde",,,"620-23-5","Parts per billion Carbon","YES",R
+"45205","m-Xylene","MXYL","Benzene, 1,3-dimethyl-","108-38-3","Parts per billion Carbon","YES",R
+"45116","m/p Ethyltoluene",,,,"Parts per billion Carbon","YES",R
+"45109","m/p Xylene","M/PXY",,,"Parts per billion Carbon","YES",R
+"65313","Magnesium (precip)","PMG",,"7439-95-4","Milligrams/liter","YES",R
+"14140","Magnesium (TSP) LC",,,"7439-95-4","Micrograms/cubic meter (LC)","YES",R
+"12140","Magnesium (TSP) STP","MG-PT",,"7439-95-4","Micrograms/cubic meter (25 C)","YES",R
+"85140","Magnesium PM10 LC",,,"7439-95-4","Nanograms/cubic meter (LC)","YES",R
+"82140","Magnesium PM10 STP","MG-PM",,"7439-95-4","Nanograms/cubic meter (25 C)","YES",R
+"86140","Magnesium PM10-2.5 LC",,,"7439-95-4","Micrograms/cubic meter (LC)","YES",R
+"88140","Magnesium PM2.5 LC",,,"7439-95-4","Micrograms/cubic meter (LC)","YES",R
+"84140","Magnesium PM2.5 STP","MGFMC",,,"Micrograms/cubic meter (25 C)","YES",
+"43169","Malathion","MAL",,"121-75-5","Nanograms/cubic meter (25 C)","YES",R
+"65335","Manganese (precip)","PMN",,"7439-96-5","Milligrams/liter","YES",R
+"22132","Manganese (SP)","MNSP",,"7439-96-5","Grams/sq meter/month","YES",R
+"14132","Manganese (TSP) LC",,,"7439-96-5","Micrograms/cubic meter (LC)","YES",R
+"12132","Manganese (TSP) STP","MN-PT",,"7439-96-5","Micrograms/cubic meter (25 C)","YES",R
+"11352","Manganese - 55 (TSP)",,,"7439-96-5","Micrograms/cubic meter (25 C)","YES",R
+"85132","Manganese PM10 LC",,,"7439-96-5","Nanograms/cubic meter (LC)","YES",R
+"82132","Manganese PM10 STP","MN-PM",,"7439-96-5","Nanograms/cubic meter (25 C)","YES",R
+"86132","Manganese PM10-2.5 LC",,,"7439-96-5","Micrograms/cubic meter (LC)","YES",R
+"83132","Manganese PM10-2.5 STP","MNPMC",,"7439-96-5","Micrograms/cubic meter (25 C)","YES",R
+"88132","Manganese PM2.5 LC",,,"7439-96-5","Micrograms/cubic meter (LC)","YES",R
+"84132","Manganese PM2.5 STP","MNFMC",,"7439-96-5","Micrograms/cubic meter (25 C)","YES",R
+"88391","Mannosan PM2.5 LC",,,"14168-65-1","Micrograms/cubic meter (LC)","YES",R
+"65429","Mercury (deposition)",,,"7439-97-6","Nanograms/cubic meter (0 C)","YES",R
+"84242","Mercury (PM2.5 STP particulate bound)",,,"7439-97-6","Nanograms/cubic meter (25 C)","YES",R
+"65329","Mercury (precip)","PHG",,"7439-97-6","Nanograms/liter","YES",R
+"42243","Mercury (Reactive Gaseous)",,,"7439-97-6","Pg/cubic meter(25 C)","YES",R
+"22142","Mercury (SP)","SPHGS",,"7439-97-6","Grams/sq meter/month","YES",R
+"14142","Mercury (TSP) LC",,,"7439-97-6","Micrograms/cubic meter (LC)","YES",R
+"12142","Mercury (TSP) STP","HG",,"7439-97-6","Micrograms/cubic meter (25 C)","YES",R
+"42242","Mercury (vapor)",,,"7439-97-6","Nanograms/cubic meter (25 C)","YES",R
+"92142","Mercury compounds","HGC",,,"Nanograms/cubic meter (25 C)","YES",R
+"85142","Mercury PM10 LC",,,"7439-97-6","Nanograms/cubic meter (LC)","YES",R
+"82142","Mercury PM10 STP","HG-PM",,"7439-97-6","Nanograms/cubic meter (25 C)","YES",R
+"83142","Mercury PM10-2.5 STP","HGPMC",,"7439-97-6","Micrograms/cubic meter (25 C)","YES",R
+"88142","Mercury PM2.5 LC",,,"7439-97-6","Micrograms/cubic meter (LC)","YES",R
+"84142","Mercury PM2.5 STP","HGFMC",,"7439-97-6","Micrograms/cubic meter (25 C)","YES",R
+"43515","Methacrolein",,"2-Propenal,2-mehtyl-","78-85-3","Parts per billion Carbon","YES",R
+"43201","Methane","CH4",,"74-82-8","Parts per billion Carbon","YES",R
+"43301","Methanol","MTHOL","Methanol","67-56-1","Parts per billion Carbon","YES",R
+"43153","Methoxychlor","METCH",,"72-43-5","Nanograms/cubic meter (25 C)","YES",R
+"43559","Methyl Butyl Ketone",,,"591-78-6","Parts per billion Carbon","YES",R
+"43814","Methyl chloroform","TCA","Ethane,1,1,1-trichloro-","71-55-6","Parts per billion Carbon","YES",R
+"43552","Methyl ethyl ketone","MTETN","2-Butanone","78-93-3","Parts per billion Carbon","YES",R
+"43549","Methyl ethyl ketone & methacrolein",,,,"Parts per billion Carbon","YES",R
+"43808","Methyl Iodide","MTI",,"74-88-4","Parts per billion Carbon","YES",
+"16521","Methyl isoamyl ketone",,"5-Methyl-2-hexanone","110-12-3","Parts per billion Carbon","YES",R
+"43560","Methyl isobutyl ketone","MTBTN","2-Pentanone,4-methyl-","108-10-1","Parts per billion Carbon","YES",R
+"43901","Methyl mercaptan",,"Methanethiol","74-93-1","Parts per billion Carbon","YES",R
+"43441","Methyl methacrylate","MTMRY","2-Propenoic acid,2-methyl-methyl ester","80-62-6","Parts per billion Carbon","YES",R
+"16787","Methyl methanesulfonate  (TSP) STP",,,"66-27-3","Nanograms/cubic meter (25 C)","YES",R
+"43160","Methyl Parathion","MEPAR",,"298-00-0","Nanograms/cubic meter (25 C)","YES",R
+"43372","Methyl tert-butyl ether","MTBE",,"1634-04-4","Parts per billion Carbon","YES",R
+"43558","Methyl Vinyl Ketone",,,"78-94-4","Parts per billion Carbon","YES",
+"43261","Methylcyclohexane","MCYHX","Cyclohexane, methyl-","108-87-2","Parts per billion Carbon","YES",R
+"43262","Methylcyclopentane","MCPNA","Cyclopentane,mehtyl-","96-37-7","Parts per billion Carbon","YES",R
+"43346","Methylcyclopentane & 2,4-dimethylpentane","ME&CY",,,"Parts per billion Carbon","YES",R
+"45250","Methylstyrene",,"Benzene,(1-methylethenyl)-","98-83-9","Parts per billion Carbon","NO",R
+"61301","Mixing Height","MXHT",,,"Meters","YES",R
+"61302","Mixing Speed","MXSP",,,"Meters/second","YES",R
+"17028","Mixture PCB 105/132/153 (TSP) STP",,"PCB 105/132/153",,"Pg/cubic meter(25 C)","YES",R
+"17054","Mixture PCB 123/149 (TSP) STP",,"PCB 123/149",,"Pg/cubic meter(25 C)","YES",
+"17029","Mixture PCB 135/144 (TSP) STP",,"PCB 135/144",,"Pg/cubic meter(25 C)","YES",R
+"17030","Mixture PCB 138/163 (TSP) STP",,"PCB 138/163",,"Pg/cubic meter(25 C)","YES",R
+"17020","Mixture PCB 15/17 (TSP) STP",,"PCB 15/17",,"Pg/cubic meter(25 C)","YES",R
+"17050","Mixture PCB 16/32 (TSP) STP",,"PCB 16/32",,"Pg/cubic meter(25 C)","YES",R
+"17031","Mixture PCB 170/190 (TSP) STP",,"PCB 170/190",,"Pg/cubic meter(25 C)","YES",R
+"17032","Mixture PCB 171/202 (TSP) STP",,"PCB 171/202",,"Pg/cubic meter(25 C)","YES",R
+"17021","Mixture PCB 18/32 (TSP) STP",,"PCB 18/32",,"Pg/cubic meter(25 C)","YES",R
+"17055","Mixture PCB 187/182 (TSP) STP",,"PCB 187/182",,"Pg/cubic meter(25 C)","YES",
+"17033","Mixture PCB 203/196 (TSP) STP",,"PCB 203/196",,"Pg/cubic meter(25 C)","YES",R
+"17034","Mixture PCB 208/195 (TSP) STP",,"PCB 208/195",,"Pg/cubic meter(25 C)","YES",R
+"17022","Mixture PCB 28/31 (TSP) STP",,"PCB 28/31",,"Pg/cubic meter(25 C)","YES",R
+"17023","Mixture PCB 37/42 (TSP) STP",,"PCB 37/42",,"Pg/cubic meter(25 C)","YES",R
+"17018","Mixture PCB 4/10 (TSP) STP",,"PCB 4/10",,"Pg/cubic meter(25 C)","YES",R
+"17024","Mixture PCB 41/71/64 (TSP) STP",,"PCB 41/71/64",,"Pg/cubic meter(25 C)","YES",R
+"17025","Mixture PCB 47/48 (TSP) STP",,"PCB 47/48",,"Pg/cubic meter(25 C)","YES",R
+"17026","Mixture PCB 56/60 (TSP) STP",,"PCB 56/60",,"Pg/cubic meter(25 C)","YES",R
+"17019","Mixture PCB 7/ 9 (TSP) STP",,"PCB 7/ 9",,"Pg/cubic meter(25 C)","YES",R
+"17052","Mixture PCB 70/76 (TSP) STP",,"PCB 70/76",,"Pg/cubic meter(25 C)","YES",
+"17027","Mixture PCB 77/110 (TSP) STP",,"PCB 77/110",,"Pg/cubic meter(25 C)","YES",R
+"17051","Mixture PCB 8/5 (TSP) STP",,"PCB 8/5",,"Pg/cubic meter(25 C)","YES",
+"17053","Mixture PCB 92/84 (TSP) STP",,"PCB 92/84",,"Pg/cubic meter(25 C)","YES",
+"65134","Molybdenum (precip)","MO PC",,"7439-98-7","Milligrams/liter","YES",R
+"12134","Molybdenum (TSP) STP","MO-PT",,"7439-98-7","Micrograms/cubic meter (25 C)","YES",R
+"11353","Molybdenum - 98 (TSP)",,,"14392-20-2","Micrograms/cubic meter (25 C)","YES",R
+"85134","Molybdenum PM10 LC",,,"7439-98-7","Nanograms/cubic meter (LC)","YES",R
+"82135","Molybdenum PM10 STP",,,,"Nanograms/cubic meter (25 C)","NO",
+"82134","Molybdenum PM10 STP ","MO-PM",,"7439-98-7","Nanograms/cubic meter (25 C)","YES",R
+"83134","Molybdenum PM10-2.5 STP","MOPMC",,"7439-98-7","Micrograms/cubic meter (25 C)","YES",R
+"88134","Molybdenum PM2.5 LC",,,"7439-98-7","Micrograms/cubic meter (LC)","YES",R
+"84134","Molybdenum PM2.5 STP","MOFMC",,"7439-98-7","Micrograms/cubic meter (25 C)","YES",R
+"14134","Molybdenum(TSP) LC",,,"7439-98-7","Micrograms/cubic meter (LC)","YES",R
+"43307","n-Amyl alcohol",,"1-Pentanol","71-41-0","Parts per billion Carbon","YES",R
+"43212","n-Butane","NBUTA","Butane","106-97-8","Parts per billion Carbon","YES",R
+"43440","n-Butyl acrylate",,"2-Propenoic acid, butyl ester","141-32-2","Parts per billion Carbon","YES",R
+"43305","n-Butyl alcohol",,"1-Butanol","71-36-3","Parts per billion Carbon","YES",R
+"43238","n-Decane","NDEC","Decane","124-18-5","Parts per billion Carbon","YES",R
+"43348","n-Decane & 1,2,4-trimethylbenzene","ND&TR",,,"Parts per billion Carbon","YES",R
+"43141","n-Dodecane",,"Dodecane","112-40-3","Parts per billion Carbon","YES",R
+"43232","n-Heptane","NHEPT",,"142-82-5","Parts per billion Carbon","YES",R
+"16210","n-Hexadecane",,,"544-76-3","Micrograms/cubic meter (25 C)","YES",R
+"43231","n-Hexane","NHEXA","Hexane","110-54-3","Parts per billion Carbon","YES",R
+"45234","n-Hexylbenzene",,,"1077-16-3","Parts per billion Carbon","YES",R
+"16789","N-Nitrosodibutylamine  (TSP) STP",,,"924-16-3","Nanograms/cubic meter (25 C)","YES",R
+"16790","N-Nitrosodiethylamine  (TSP) STP",,,"55-18-5","Nanograms/cubic meter (25 C)","YES",R
+"16722","N-Nitrosodimethylamine (TSP) STP","NOMMN",,"62-75-9","Nanograms/cubic meter (25 C)","YES",R
+"16791","N-Nitrosodipropylamine  (TSP) STP",,,"621-64-7","Nanograms/cubic meter (25 C)","YES",R
+"16792","N-Nitrosomethylethylamine  (TSP) STP",,,"10595-95-6","Nanograms/cubic meter (25 C)","YES",R
+"16793","N-Nitrosopiperidine  (TSP) STP",,,"100-75-4","Nanograms/cubic meter (25 C)","YES",R
+"16794","N-Nitrosopyrrolidine  (TSP) STP",,,"930-55-2","Nanograms/cubic meter (25 C)","YES",R
+"43235","n-Nonane","NNON","Nonane","111-84-2","Parts per billion Carbon","YES",R
+"43233","n-Octane","NOCT","Octane","111-65-9","Parts per billion Carbon","YES",R
+"43130","n-Octane & trans-1,3-dichloropropylene",,,,"Parts per billion Carbon","YES",R
+"43260","n-Pentadecane",,,"629-62-9","Parts per billion Carbon","YES",R
+"43220","n-Pentane","NPNTA","Pentane","109-66-0","Parts per billion Carbon","YES",R
+"43323","n-Pinene & benzaldehyde",,,,"Parts per billion Carbon","YES",R
+"43434","n-Propyl acetate",,"Acetic acid, propyl ester","109-60-4","Parts per billion Carbon","YES",R
+"43303","n-Propyl alcohol",,"1-Propanol","71-23-8","Parts per billion Carbon","YES",R
+"45209","n-Propylbenzene","NPBZ","Benzene,propyl-","103-65-1","Parts per billion Carbon","YES",R
+"43259","n-Tetradecane",,,"629-59-4","Parts per billion Carbon","YES",R
+"43143","n-Tridecane",,,"629-50-5","Parts per billion Carbon","YES",R
+"43954","n-Undecane","NUNDC","Undecane","1120-21-4","Parts per billion Carbon","YES",R
+"45850","Naphthalene",,,"91-20-3","Parts per billion Carbon","YES",R
+"17141","Naphthalene (TSP) STP","PAH1",,"91-20-3","Nanograms/cubic meter (25 C)","YES",R
+"63305","Net radiation","NTRD",,,"Langleys/minute","YES",R
+"65336","Nickel (precip)","PNI",,"7440-02-0","Milligrams/liter","YES",R
+"22136","Nickel (SP)","SPNIS",,"7440-02-0","Grams/sq meter/month","YES",R
+"14136","Nickel (TSP) LC",,,"7440-02-0","Micrograms/cubic meter (LC)","YES",R
+"12136","Nickel (TSP) STP","NI-PT",,"7440-02-0","Micrograms/cubic meter (25 C)","YES",R
+"11359","Nickel - 58 (TSP)",,,"13981-79-8","Micrograms/cubic meter (25 C)","YES",R
+"11354","Nickel - 60 (TSP)",,,"13981-80-1","Micrograms/cubic meter (25 C)","YES",R
+"85136","Nickel PM10 LC",,,"7440-02-0","Nanograms/cubic meter (LC)","YES",R
+"82136","Nickel PM10 STP","NI-PM",,"7440-02-0","Nanograms/cubic meter (25 C)","YES",R
+"86136","Nickel PM10-2.5 LC",,,"7440-02-0","Micrograms/cubic meter (LC)","YES",R
+"83136","Nickel PM10-2.5 STP","NIPMC",,"7440-02-0","Micrograms/cubic meter (25 C)","YES",R
+"88136","Nickel PM2.5 LC",,,"7440-02-0","Micrograms/cubic meter (LC)","YES",R
+"84136","Nickel PM2.5 STP","NIFMC",,"7440-02-0","Micrograms/cubic meter (25 C)","YES",R
+"12147","Niobium (TSP) STP",,,"7440-03-1","Micrograms/cubic meter (25 C)","YES",R
+"88147","Niobium PM2.5 LC",,,"7440-03-1","Micrograms/cubic meter (LC)","YES",R
+"65321","Nitrate (precip)","PNO3-",,"14797-55-8","Milligrams/liter","YES",R
+"22306","Nitrate (SP)","NO3-S",,"14797-55-8","Grams/sq meter/month","YES",R
+"14306","Nitrate (TSP) LC",,,"14797-55-8","Micrograms/cubic meter (LC)","YES",R
+"12306","Nitrate (TSP) STP","NO3-P",,"14797-55-8","Micrograms/cubic meter (25 C)","YES",R
+"82306","Nitrate PM10 STP","NO3PM",,"14797-55-8","Micrograms/cubic meter (25 C)","YES",R
+"84306","Nitrate PM2.5 STP","NOFMC",,,"Micrograms/cubic meter (25 C)","YES",
+"82356","Nitrate PM2.5 STP ","PFNO3",,,"Micrograms/cubic meter (25 C)","NO",R
+"42305","Nitric acid","HNO3",,"7697-37-2","Micrograms/cubic meter (25 C)","YES",R
+"42601","Nitric oxide (NO)","NO",,"10102-43-9","Parts per billion","YES",T
+"42609","Nitrite","NO-",,"14797-65-0","Micrograms/cubic meter (25 C)","YES",R
+"65343","Nitrite (precip)","PNIT",,"14797-65-0","Milligrams/liter","YES",R
+"12309","Nitrite (TSP) STP","NO2-P",,"14797-65-0","Micrograms/cubic meter (25 C)","YES",R
+"88338","Nitrite PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",
+"45705","Nitrobenzene","NTBZ","Benzene,nitro-","98-95-3","Parts per billion Carbon","YES",R
+"16788","Nitrobenzene (TSP) STP",,,"98-95-3","Nanograms/cubic meter (25 C)","YES",R
+"42602","Nitrogen dioxide (NO2)","NO2",,"10102-44-0","Parts per billion","YES",T
+"42308","Nitrous acid","HN",,"7782-77-6","Micrograms/cubic meter (25 C)","YES",R
+"42605","NITROUS OXIDE",,,,"Parts per billion","YES",
+"85310","Non-volatile nitrate PC10 LC",,,"14797-55-8","Micrograms/cubic meter (LC)","YES",R
+"86310","Non-volatile nitrate PM10-2.5 LC",,,"14797-55-8","Micrograms/cubic meter (LC)","YES",R
+"88310","Non-volatile Nitrate PM2.5 LC",,,"14797-55-8","Micrograms/cubic meter (LC)","YES",R
+"17817","Nonachlorobiphenyl (TSP) STP"," ",,"53742-07-7","Pg/cubic meter(25 C)","YES",R
+"43524","Nonanal",,"n-Nonyl aldehyde","124-19-6","Parts per billion Carbon","YES",R
+"42612","NOy - NO","NOy - ",,,"Parts per billion","YES",T
+"42611","NOZ",,,,"Parts per million","NO",
+"72501","Nylon deterioration","NYLN",,,"# Defects/7.7 sq inches/month","YES",R
+"17301","o-Cresol (TSP) STP","OCRE",,"95-48-7","Nanograms/cubic meter (25 C)","YES",R
+"45217","o-Diethylbenzene",,,"135-01-3","Parts per billion Carbon","YES",R
+"45211","o-Ethyltoluene","OETOL","Benzene,1-ethyl-2-methyl-","611-14-3","Parts per billion Carbon","YES",R
+"45505","o-Tolualdehyde","OTOL",,"529-20-4","Parts per billion Carbon","YES",R
+"17710","o-Toluidine (TSP) STP","OTOLD",,"95-53-4","Nanograms/cubic meter (25 C)","YES",R
+"45204","o-Xylene","OXYL","Benzene,1,2-dimethyl-","95-47-6","Parts per billion Carbon","YES",R
+"45112","o-Xylene & 1,1,2,2-tetrachloroethane",,,,"Parts per billion Carbon","YES",R
+"45140","O-xylene & N-nonane",,,,"Parts per billion Carbon","YES",R
+"88305","OC CSN Unadjusted PM2.5 LC TOT",,,,"Micrograms/cubic meter (LC)","YES",R
+"84305","OC CSN Unadjusted PM2.5 STP TOT",,,,"Micrograms/cubic meter (20 C)","YES",
+"85370","OC CSN_rev Unadjusted PM10 LC TOR",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"85355","OC CSN_rev Unadjusted PM10 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86370","OC CSN_rev Unadjusted PM10-2.5 LC TOR",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86355","OC CSN_rev Unadjusted PM10-2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88370","OC CSN_Rev Unadjusted PM2.5 LC TOR","OCTR_r",,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88355","OC CSN_Rev Unadjusted PM2.5 LC TOT","OCTT_r",,,"Micrograms/cubic meter (LC)","YES",R
+"88320","OC PM2.5 LC TOR",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88382","OC PM2.5 LC TOT","OCTT",,,"Micrograms/cubic meter (LC)","YES",
+"88332","OC1 CSN Unadjusted PM2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"85374","OC1 CSN_rev Unadjusted PM10 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86374","OC1 CSN_rev Unadjusted PM10-2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88374","OC1 CSN_Rev Unadjusted PM2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88324","OC1 PM2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88333","OC2 CSN Unadjusted PM2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"85375","OC2 CSN_rev Unadjusted PM10 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86375","OC2 CSN_rev Unadjusted PM10-2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88375","OC2 CSN_Rev Unadjusted PM2.5 LC","OC2raw",,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88325","OC2 PM2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88334","OC3 CSN Unadjusted PM2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"85376","OC3 CSN_rev Unadjusted PM10 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86376","OC3 CSN_rev Unadjusted PM10-2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88376","OC3 CSN_Rev Unadjusted PM2.5 LC","OC3raw",,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88326","OC3 PM2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88335","OC4 CSN Unadjusted PM2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"85377","OC4 CSN_rev Unadjusted PM10 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86377","OC4 CSN_rev Unadjusted PM10-2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88377","OC4 CSN_Rev Unadjusted PM2.5 LC","OC4raw",,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88327","OC4 PM2.5 LC",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88322","OCH PM2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"17816","Octachlorobiphenyl (TSP) STP"," ",,"55722-26-4","Pg/cubic meter(25 C)","YES",R
+"43525","Octanal",,"n-Octyl aldehyde","124-13-0","Parts per billion Carbon","YES",R
+"88304","OCX Carbon PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",R
+"88311","OCX2 Carbon PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",R
+"88336","OP CSN PM2.5 LC TOT",,,,"Micrograms/cubic meter (LC)","YES",R
+"85378","Op CSN_rev Unadjusted PM10 LC TOR",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"85388","Op CSN_rev Unadjusted PM10 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86378","OP CSN_rev Unadjusted PM10-2.5 LC TOR",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"86388","OP CSN_rev Unadjusted PM10-2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88378","OP CSN_Rev Unadjusted PM2.5 LC TOR","OPTR_r",,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88388","OP CSN_Rev Unadjusted PM2.5 LC TOT","OPTT_r",,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88328","OP PM2.5 LC TOR",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88379","OP PM2.5 LC TOT","OPTT",,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"88316","Optical EC PM2.5 LC TOT",,,,"Micrograms/cubic meter (LC)","YES",
+"84316","Optical EC PM2.5 STP TOT",,,,"Micrograms/cubic meter (20 C)","YES",
+"88346","Organic Carbon Extinction PM2.5 LC",,,,"Inverse Megameters","YES",
+"88350","Organic Carbon Mass PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",
+"82305","Organic carbon PM10 STP",,,,"Micrograms/cubic meter (25 C)","YES",R
+"21102","Organic Fraction (SP)","DTOR",,,"Grams/sq meter/month","YES",R
+"62101","Outdoor Temperature","TEMPO",,,"Degrees Fahrenheit","YES",R
+"42603","Oxides of nitrogen (NOx)","NOX",,"11104-93-1","Parts per billion","YES",T
+"44201","Ozone","O3",,"10028-15-6","Parts per million","YES",T
+"17303","p-Cresol (TSP) STP","PCRE",,"106-44-5","Nanograms/cubic meter (25 C)","YES",
+"45219","p-Diethylbenzene","PDEB","Benzene,1,4-diethyl-","105-05-5","Parts per billion Carbon","YES",R
+"45213","p-Ethyltoluene","PETOL","Benzene,1-ethyl-4-methyl-","622-96-8","Parts per billion Carbon","YES",R
+"43397","p-isopropyltoluene",,"p-cymene","99-87-6","Parts per billion Carbon","YES",R
+"45230","p-tert-butyl toluene",,,"98-51-1","Parts per billion Carbon","YES",R
+"45507","p-Tolualdehyde",,,"104-87-0","Parts per billion Carbon","YES",R
+"45206","p-Xylene","PXYL","Benzene,1,4-dimethyl-","106-42-3","Parts per billion Carbon","YES",R
+"12151","Palladium (TSP) STP",,,"7440-05-3","Micrograms/cubic meter (25 C)","YES",R
+"82127","Palladium PM10 STP",,,"7440-05-3","Nanograms/cubic meter (25 C)","YES",R
+"88151","Palladium PM2.5 LC",,,"7440-05-3","Micrograms/cubic meter (LC)","YES",R
+"16115","Paraffins (alkanes)","PARAF",,,"Micrograms/cubic meter (25 C)","YES",R
+"88347","Particle Light Scatter",,"BSP",,"Inverse Megameters","YES",
+"87100","Particle Number, 100-200 nm",,,,"Count per cm^3","YES",
+"87020","Particle Number, 20-30 nm",,,,"Count per cm^3","YES",
+"87030","Particle Number, 30-50 nm",,,,"Count per cm^3","YES",
+"87050","Particle Number, 50-70 nm",,,,"Count per cm^3","YES",
+"87070","Particle Number, 70-100 nm",,,,"Count per cm^3","YES",
+"87200","Particle Number, > 200 nm",,,,"Count per cm^3","YES",
+"87101","Particle Number, Total Count","PNt",,,"Count per cm^3","YES",
+"61105","Peak Wind Gust","WGUST",,,"Knots","YES",R
+"17803","Pentachlorobenzene (TSP) STP","CLB3",,"608-93-5","Nanograms/cubic meter (25 C)","YES",R
+"17813","Pentachlorobiphenyl (TSP) STP"," ",,"25429-29-2","Pg/cubic meter(25 C)","YES",R
+"16795","Pentachloroethane  (TSP) STP",,,"76-01-7","Nanograms/cubic meter (25 C)","YES",R
+"17725","Pentachloronitrobenzene (TSP) STP","PCNBZ",,"82-68-8","Nanograms/cubic meter (25 C)","YES",R
+"17808","Pentachlorophenol (TSP) STP","CLP8","enol,pentachloro-","87-86-5","Nanograms/cubic meter (25 C)","YES",R
+"44301","Peroxyactyl nitrate","PAN",,"2278-22-0","Parts per billion","YES",R
+"17212","Perylene (TSP) STP","POLY6",,"198-55-0","Nanograms/cubic meter (25 C)","YES",R
+"22602","pH (Dustfall)","SPPHS",,,"pH Units","YES",R
+"65302","PH (precip)","PPH",,,"pH Units","YES",R
+"16796","Phenacetin  (TSP) STP",,,"62-44-2","Nanograms/cubic meter (25 C)","YES",R
+"17150","Phenanthrene (TSP) STP","PAH5",,"85-01-8","Nanograms/cubic meter (25 C)","YES",R
+"45300","Phenol","PHNL","Phenol","108-95-2","Parts per billion Carbon","YES",R
+"16797","Phenol  (TSP) STP",,,"108-95-2","Nanograms/cubic meter (25 C)","YES",R
+"12345","Phosphate (TSP) STP","PO4-P",,"14265-44-2","Micrograms/cubic meter (25 C)","YES",R
+"42307","Phosphoric acid","HPO5",,"7664-38-2","Micrograms/cubic meter (25 C)","YES",R
+"43167","Phosphorotrithioic acid,S,S,S-tributylester","S","STR","78-48-8","Nanograms/cubic meter (25 C)","YES",R
+"65152","Phosphorus (precip)","PH PC",,"7723-14-0","Milligrams/liter","YES",R
+"12152","Phosphorus (TSP) STP","P-PT",,"7723-14-0","Micrograms/cubic meter (25 C)","YES",R
+"85152","Phosphorus PM10 LC",,,"7723-14-0","Micrograms/cubic meter (LC)","YES",R
+"82152","Phosphorus PM10 STP","PPM10",,"7723-14-0","Micrograms/cubic meter (25 C)","YES",R
+"86152","Phosphorus PM10-2.5 LC",,,"7723-14-0","Micrograms/cubic meter (LC)","YES",R
+"83152","Phosphorus PM10-2.5 STP","PPMC",,"7723-14-0","Micrograms/cubic meter (25 C)","YES",R
+"88152","Phosphorus PM2.5 LC",,,"7723-14-0","Micrograms/cubic meter (LC)","YES",R
+"84152","Phosphorus PM2.5 STP","PFMC",,"7723-14-0","Micrograms/cubic meter (25 C)","YES",R
+"43188","Pinene & p-ethytoluene","PI",,,"Parts per billion Carbon","YES",R
+"14108","Platinum (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12150","Platinum (TSP) STP","Pt",,"7440-06-4","Micrograms/cubic meter (25 C)","YES",R
+"85108","Platinum PM10 LC",,,,"Nanograms/cubic meter (LC)","YES",
+"88141","Platinum PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",
+"88360","PM 2.5 Carbon at 470 nm",,,,"Micrograms/cubic meter (LC)","YES",
+"88361","PM 2.5 Carbon at 520 nm",,,,"Micrograms/cubic meter (LC)","YES",
+"88362","PM 2.5 Carbon at 590 nm",,,,"Micrograms/cubic meter (LC)","YES",
+"88363","PM 2.5 Carbon at 660 nm",,,,"Micrograms/cubic meter (LC)","YES",
+"88367","PM 2.5 Carbon at 935 nm",,,,"Micrograms/cubic meter (LC)","NO",
+"87111","PM1 - Local Conditions","LC1",,,"Micrograms/cubic meter (LC)","YES",
+"85101","PM10 - LC","LC10",,,"Micrograms/cubic meter (LC)","YES",T
+"81102","PM10 Total 0-10um STP","PM10",,,"Micrograms/cubic meter (25 C)","YES",T
+"86101","PM10-2.5 - Local Conditions","LCPMC",,,"Micrograms/cubic meter (LC)","YES",T
+"81103","PM10-2.5 STP","PMC",,,"Micrograms/cubic meter (25 C)","YES",R
+"88101","PM2.5 - Local Conditions","LC25",,,"Micrograms/cubic meter (LC)","YES",T
+"88396","PM2.5 Carbon at 430 nm",,,,"Micrograms/cubic meter (LC)","YES",
+"88397","PM2.5 Carbon at 525 nm",,,,"Micrograms/cubic meter (LC)","YES",
+"88398","PM2.5 Carbon at 565 nm",,,,"Micrograms/cubic meter (LC)","YES",
+"88399","PM2.5 Carbon at 700 nm",,,,"Micrograms/cubic meter (LC)","YES",
+"88501","PM2.5 Raw Data",,,,"Micrograms/cubic meter (LC)","YES",T
+"81104","PM2.5 STP","PM2.5",,,"Micrograms/cubic meter (25 C)","YES",R
+"88500","PM2.5 Total Atmospheric",,,,"Micrograms/cubic meter (LC)","YES",T
+"88503","PM2.5 Volatile Channel",,,,"Micrograms/cubic meter (LC)","YES",T
+"12153","Polonium-210 (TSP) STP",,,"13981-52-7","Picocuries/cubic meter","YES",R
+"17833","Polychlorinated biphenyls (PCBs)","PCLB","Total PCB","1336-36-3","Pg/cubic meter(25 C)","YES",R
+"17199","Polycyclic organic matter (TSP) STP","POM",,,"Micrograms/cubic meter (25 C)","YES",R
+"17202","Polynuclear aromatic hydrocarbons (TSP) STP","PAHs",,"130498-29-2","Nanograms/cubic meter (25 C)","YES",R
+"43334","POLYVINYL ALCOHOL",,,,"Parts per billion Carbon","NO",
+"65312","Potassium (precip)","PK",,"7440-09-7","Milligrams/liter","YES",R
+"12180","Potassium (TSP) STP","K-PT",,"7440-09-7","Micrograms/cubic meter (25 C)","YES",R
+"85303","Potassium Ion PM10 LC",,,"24203-36-9","Micrograms/cubic meter (LC)","YES",R
+"86303","Potassium Ion PM10-2.5 LC",,,"24203-36-9","Micrograms/cubic meter (LC)","YES",R
+"88303","Potassium Ion PM2.5 LC","K+",,"24203-36-9","Micrograms/cubic meter (LC)","YES",R
+"85180","Potassium PM10 LC",,,"7440-09-7","Nanograms/cubic meter (LC)","YES",R
+"82180","Potassium PM10 STP","K-PM",,"7440-09-7","Nanograms/cubic meter (25 C)","YES",R
+"86180","Potassium PM10-2.5 LC",,,"7440-09-7","Micrograms/cubic meter (LC)","YES",R
+"83180","Potassium PM10-2.5 STP","K+PMC",,"7440-09-7","Micrograms/cubic meter (25 C)","YES",R
+"88180","Potassium PM2.5 LC",,,"7440-09-7","Micrograms/cubic meter (LC)","YES",R
+"84180","Potassium PM2.5 STP","K+FMC",,"7440-09-7","Micrograms/cubic meter (25 C)","YES",R
+"14180","Potassium TSP LC",,,,"Micrograms/cubic meter (LC)","YES",
+"16798","Pronamide (TSP) STP",,,"23950-58-5","Nanograms/cubic meter (25 C)","YES",R
+"43204","Propane","PROPA","DIMETHYLMETHANE","74-98-6","Parts per billion Carbon","YES",R
+"43504","Propionaldehyde","PRPYD","Propanal","123-38-6","Parts per billion Carbon","YES",R
+"43606","Propionitrile",,,"107-12-0","Parts per billion Carbon","YES",
+"43205","Propylene","PRPYL","1-Propene","115-07-1","Parts per billion Carbon","YES",R
+"43602","Propylene oxide","PRPYO","Oxirane,methyl-","75-56-9","Parts per billion Carbon","YES",R
+"43144","Propyne",,"1-Propyne","74-99-7","Parts per billion Carbon","YES",R
+"17204","Pyrene (TSP) STP","POLY2",,"129-00-0","Nanograms/cubic meter (25 C)","YES",R
+"17205","Pyrene-D10 (TSP) STP",,,"1718-52-1","Nanograms/cubic meter (25 C)","YES",R
+"16799","Pyridine (TSP) STP",,,"110-86-1","Nanograms/cubic meter (25 C)","YES",R
+"65305","Radioactivity rainfall","PRAD",,,"Picocuries/cubic meter","YES",R
+"12187","Radium-226 (TSP) STP",,,"13982-63-3","Picocuries/cubic meter","YES",R
+"12188","Radium-228 (TSP) STP",,,"15262-20-1","Picocuries/cubic meter","YES",R
+"43776","Radon","RADON",,"10043-92-2","Picocuries/Liter","YES",R
+"65101","Rain 24hr total","RAIN",,,"Inches (rainfall)","YES",R
+"65102","Rain/melt precipitation","PREC",,,"Inches (rainfall)","YES",R
+"42600","Reactive oxides of nitrogen (NOy)","NOY",,,"Parts per billion","YES",T
+"88401","Reconstructed Mass PM2.5 LC","RCMN",,,"Micrograms/cubic meter (LC)","YES",
+"68110","Relative Humidity",,,,"Percent relative humidity","YES",R
+"62201","Relative Humidity ","RHUM",,,"Percent relative humidity","YES",R
+"62202","Relative Humidity Factor","fRH",,,"Percent relative humidity","YES",
+"31101","Respirable part","RESP",,,"Micrograms/cubic meter (25 C)","YES",R
+"17158","Retene (TSP) STP",,,"483-65-8","Nanograms/cubic meter (25 C)","YES",R
+"72401","Rubber cracking","RBCK",,,"Microns/week","YES",R
+"14176","Rubidium (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12176","Rubidium (TSP) STP","RB-PT",,"7440-17-7","Micrograms/cubic meter (25 C)","YES",R
+"85176","Rubidium PM10 LC",,,"7440-17-7","Nanograms/cubic meter (LC)","YES",R
+"82176","Rubidium PM10 STP","RBPM1",,"7440-17-7","Nanograms/cubic meter (25 C)","YES",R
+"86176","Rubidium PM10-2.5 LC",,,"7440-17-7","Micrograms/cubic meter (LC)","YES",R
+"83176","Rubidium PM10-2.5 STP","RBPMC",,"7440-17-7","Micrograms/cubic meter (25 C)","YES",R
+"88176","Rubidium PM2.5 LC",,,"7440-17-7","Micrograms/cubic meter (LC)","YES",R
+"84176","Rubidium PM2.5 STP","RBFMC",,"7440-17-7","Micrograms/cubic meter (25 C)","YES",R
+"16801","Safrole (TSP) STP",,,"94-59-7","Nanograms/cubic meter (25 C)","YES",R
+"12162","Samarium (TSP) STP","SM-PT",,"7440-19-9","Micrograms/cubic meter (25 C)","YES",R
+"88162","Samarium PM2.5 LC",,,"7440-19-9","Micrograms/cubic meter (LC)","YES",R
+"68112","Sample Flow Rate CV - Nylon Filter","CV",,,"Percent","YES",R
+"68113","Sample Flow Rate CV - Quartz Filter","CV",,,"Percent","YES",R
+"68111","Sample Flow Rate CV - Teflon Filter","CV",,,"Percent","YES",R
+"68101","Sample Flow Rate- CV",,,,"Percent","YES",R
+"68107","Sample Max Baro Pressure",,,,"Millimeters (mercury)","YES",R
+"68106","Sample Min Baro Pressure",,,,"Millimeters (mercury)","YES",R
+"68102","Sample Volume",,,,"Cubic meter","YES",R
+"68115","Sample Volume - Nylon Filter","Vol",,,"Cubic meter","YES",R
+"68116","Sample Volume - Quartz Filter","Vol",,,"Cubic meter","YES",R
+"68114","Sample Volume - Teflon Filter","Vol",,,"Cubic meter","YES",R
+"91119","SANDWICH - Adjusted Aluminum",,,,"Micrograms/cubic meter (LC)","YES",R
+"91110","SANDWICH - Adjusted Ammonium",,,,"Micrograms/cubic meter (LC)","YES",R
+"91118","SANDWICH - Adjusted Calcium",,,,"Micrograms/cubic meter (LC)","YES",R
+"91113","SANDWICH - Adjusted Elemental Carbon (EC)",,,,"Micrograms/cubic meter (LC)","YES",R
+"91116","SANDWICH - Adjusted Iron",,,,"Micrograms/cubic meter (LC)","YES",R
+"91109","SANDWICH - Adjusted Nitrate",,,,"Micrograms/cubic meter (LC)","YES",R
+"91112","SANDWICH - Adjusted Organic Carbon Mass",,,,"Micrograms/cubic meter (LC)","YES",R
+"91114","SANDWICH - Adjusted Salt",,,,"Micrograms/cubic meter (LC)","YES",R
+"91115","SANDWICH - Adjusted Silicon",,,,"Micrograms/cubic meter (LC)","YES",R
+"91108","SANDWICH - Adjusted Sulfate",,,,"Micrograms/cubic meter (LC)","YES",R
+"91117","SANDWICH - Adjusted Titanium",,,,"Micrograms/cubic meter (LC)","YES",R
+"91111","SANDWICH - Adjusted Water",,,,"Micrograms/cubic meter (LC)","YES",R
+"91102","SANDWICH - Ammonium for mass balance",,,,"Micrograms/cubic meter (LC)","YES",R
+"91123","SANDWICH - Crustal Mass",,,,"Micrograms/cubic meter (LC)","YES",R
+"91124","SANDWICH - Filter Contamination Mass",,,,"Micrograms/cubic meter (LC)","YES",R
+"91121","SANDWICH - Nitrate Mass",,,,"Micrograms/cubic meter (LC)","YES",R
+"91106","SANDWICH - Raw Crustal Component Mass",,,,"Micrograms/cubic meter (LC)","YES",R
+"91101","SANDWICH - Raw Nitrate",,,,"Micrograms/cubic meter (LC)","YES",R
+"91104","SANDWICH - Raw Organic Carbon Mass",,,,"Micrograms/cubic meter (LC)","YES",R
+"91107","SANDWICH - Raw Salt",,,,"Micrograms/cubic meter (LC)","YES",R
+"91105","SANDWICH - Raw Total Carbonaceous Mass",,,,"Micrograms/cubic meter (LC)","YES",R
+"91103","SANDWICH - Raw Water",,,,"Micrograms/cubic meter (LC)","YES",R
+"91120","SANDWICH - Sulfate Mass",,,,"Micrograms/cubic meter (LC)","YES",R
+"91122","SANDWICH - Total Carbonaceous Mass - material balance",,,,"Micrograms/cubic meter (LC)","YES",R
+"12163","Scandium (TSP) STP",,,"7440-20-2","Micrograms/cubic meter (25 C)","YES",R
+"88163","Scandium PM2.5 LC",,,"7440-20-2","Micrograms/cubic meter (LC)","YES",R
+"88395","Sea Salt (PM2.5)",,,,"Micrograms/cubic meter (LC)","YES",
+"45216","sec-Butylbenzene",,,"135-98-8","Parts per billion Carbon","YES",R
+"14154","Selenium (TSP) LC",,,"7782-49-2","Micrograms/cubic meter (LC)","YES",R
+"12154","Selenium (TSP) STP","SE-PT",,"7782-49-2","Micrograms/cubic meter (25 C)","YES",R
+"85154","Selenium PM10 LC",,,"7782-49-2","Nanograms/cubic meter (LC)","YES",R
+"82154","Selenium PM10 STP","SE-PM",,"7782-49-2","Nanograms/cubic meter (25 C)","YES",R
+"86154","Selenium PM10-2.5 LC",,,"7782-49-2","Micrograms/cubic meter (LC)","YES",R
+"83154","Selenium PM10-2.5 STP","SEPMC",,"7782-49-2","Micrograms/cubic meter (25 C)","YES",R
+"88154","Selenium PM2.5 LC",,,"7782-49-2","Micrograms/cubic meter (LC)","YES",R
+"84154","Selenium PM2.5 STP","SEFMC",,"7782-49-2","Micrograms/cubic meter (25 C)","YES",R
+"65551","Silica (precip)","SI PC",,"7631-86-9","Milligrams/liter","YES",R
+"85551","Silica PM10 LC","SiO2","Silicon Dioxide PM10 LC","7631-86-9","Micrograms/cubic meter (LC)","YES",R
+"82551","Silica PM10 STP","SIO2",,"7631-86-9","Micrograms/cubic meter (25 C)","YES",R
+"12165","Silicon (TSP) STP","SI-PT",,"7440-21-3","Micrograms/cubic meter (25 C)","YES",R
+"85165","Silicon PM10 LC",,,"7440-21-3","Micrograms/cubic meter (LC)","YES",R
+"82165","Silicon PM10 STP","SIPM1",,"7440-21-3","Micrograms/cubic meter (25 C)","YES",R
+"86165","Silicon PM10-2.5 LC",,,"7440-21-3","Micrograms/cubic meter (LC)","YES",R
+"83165","Silicon PM10-2.5 STP","SIPMC",,"7440-21-3","Micrograms/cubic meter (25 C)","YES",R
+"88165","Silicon PM2.5 LC",,,"7440-21-3","Micrograms/cubic meter (LC)","YES",R
+"84165","Silicon PM2.5 STP","SIFMC",,"7440-21-3","Micrograms/cubic meter (25 C)","YES",R
+"65166","Silver (precip)","AG PC",,"7440-22-4","Milligrams/liter","YES",R
+"22166","Silver (SP)","SPAGS",,"7440-22-4","Grams/sq meter/month","YES",R
+"14166","Silver (TSP) LC",,,"7440-22-4","Micrograms/cubic meter (LC)","YES",R
+"12166","Silver (TSP) STP","AG-PT",,"7440-22-4","Micrograms/cubic meter (25 C)","YES",R
+"85166","Silver PM10 LC",,,"7440-22-4","Nanograms/cubic meter (LC)","YES",R
+"82166","Silver PM10 STP","AG-PM",,"7440-22-4","Nanograms/cubic meter (25 C)","YES",R
+"86166","Silver PM10-2.5 LC",,,"7440-22-4","Micrograms/cubic meter (LC)","YES",R
+"88166","Silver PM2.5 LC",,,"7440-22-4","Micrograms/cubic meter (LC)","YES",R
+"72101","Silver tarnishing","AGTR",,,"% Loss in reflectance/ month","YES",R
+"81101","Size fractionated particulate","PMFR",,,"Micrograms/cubic meter (25 C)","YES",R
+"11204","Smoke","SMKE",,,"Micrograms/cubic meter (25 C)","YES",R
+"42406","SO2 max 5-min avg","SO2M",,,"Parts per billion","YES",T
+"65311","Sodium (precip)","PNA",,"7440-23-5","Milligrams/liter","YES",R
+"12184","Sodium (TSP) STP","NA-PT",,"7440-23-5","Micrograms/cubic meter (25 C)","YES",R
+"85302","Sodium Ion PM10 LC",,,"17341-25-2","Nanograms/cubic meter (LC)","YES",R
+"86302","Sodium Ion PM10-2.5 LC",,,"17341-25-2","Micrograms/cubic meter (LC)","YES",R
+"88302","Sodium Ion Pm2.5 LC","Na+",,"17341-25-2","Micrograms/cubic meter (LC)","YES",R
+"85184","Sodium PM10 LC",,,"7440-23-5","Nanograms/cubic meter (LC)","YES",
+"82184","Sodium PM10 STP","NA PM",,"7440-23-5","Nanograms/cubic meter (25 C)","YES",R
+"86184","Sodium PM10-2.5 LC",,,"7440-23-5","Micrograms/cubic meter (LC)","YES",R
+"88184","Sodium PM2.5 LC",,,"7440-23-5","Micrograms/cubic meter (LC)","YES",R
+"84184","Sodium PM2.5 STP","NAFMC",,,"Micrograms/cubic meter (25 C)","YES",
+"88349","Soil Extinction PM2.5 LC",,,,"Inverse Megameters","YES",
+"11201","Soil index (COH)","COH",,,"COHS/1,000 linear feet","YES",R
+"11202","Soil index (RUD)","RUD",,,"RUDS/10,000 linear feet","YES",R
+"11205","Soil index (ug/m3)",,,,"Micrograms/cubic meter (25 C)","YES",R
+"88348","Soil PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",
+"62108","Soil Temperature",,,,"Degrees Fahrenheit","YES",R
+"63301","Solar radiation","SORD",,,"Langleys/minute","YES",R
+"61106","Std Dev Hz Wind Direction","SDHD",,,"Degrees Compass","YES",R
+"61111","Std Dev Hz Wind Speed","SDHS",,,"Knots","YES",R
+"61107","Std Dev Vt Wind Direction","SDVD",,,"Degrees Compass","YES",R
+"61110","Std Dev Vt Wind Speed","SDVS",,,"Knots","YES",R
+"72201","Steel corrosion","STCR",,,"Microns/year","YES",R
+"65306","Strong Acids (precip)","PSACD",,,"Milligrams/liter","YES",R
+"12168","Strontium (TSP) STP","SR-PT",,"7440-24-6","Micrograms/cubic meter (25 C)","YES",R
+"11355","Strontium - 88 (TSP)",,,"14119-10-9","Micrograms/cubic meter (25 C)","YES",R
+"85168","Strontium PM10 LC",,,"7440-24-6","Nanograms/cubic meter (LC)","YES",R
+"82168","Strontium PM10 STP","SRPM1",,"7440-24-6","Nanograms/cubic meter (25 C)","YES",R
+"86168","Strontium PM10-2.5 LC",,,"7440-24-6","Micrograms/cubic meter (LC)","YES",R
+"83168","Strontium PM10-2.5 STP","SRPMC",,"7440-24-6","Micrograms/cubic meter (25 C)","YES",R
+"88168","Strontium PM2.5 LC",,,"7440-24-6","Micrograms/cubic meter (LC)","YES",R
+"84168","Strontium PM2.5 STP","SRFMC",,"7440-24-6","Micrograms/cubic meter (25 C)","YES",R
+"14168","Strontium(TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"45220","Styrene","STYR","Benzene,ethenyl-","100-42-5","Parts per billion Carbon","YES",R
+"45110","Styrene and o-xylene",,,,"Parts per billion Carbon","YES",R
+"65322","Sulfate (precip)","PSO4-",,"14808-79-8","Milligrams/liter","YES",R
+"22403","Sulfate (SP)","SO4-S",,"14808-79-8","Grams/sq meter/month","YES",R
+"14403","Sulfate (TSP) LC",,,"14808-79-8","Micrograms/cubic meter (LC)","YES",R
+"12403","Sulfate (TSP) STP","SO4",,"14808-79-8","Micrograms/cubic meter (25 C)","YES",R
+"85403","Sulfate PM10 LC",,,"14808-79-8","Micrograms/cubic meter (LC)","YES",R
+"82403","Sulfate PM10 STP","SO4PM",,"14808-79-8","Micrograms/cubic meter (25 C)","YES",R
+"86403","Sulfate PM10-2.5 LC",,,"14808-79-8","Micrograms/cubic meter (LC)","YES",R
+"88403","Sulfate PM2.5 LC","SO4",,"14808-79-8","Micrograms/cubic meter (LC)","YES",R
+"84403","Sulfate PM2.5 STP","SOFMC",,,"Micrograms/cubic meter (25 C)","YES",
+"82453","Sulfate PM2.5 STP ","PFS04",,,"Micrograms/cubic meter (25 C)","YES",R
+"42410","Sulfation rate","SRAT",,,"Mg S03/100 sq cm/day","YES",R
+"12169","Sulfur (TSP) STP","S-PT",,"7704-34-9","Micrograms/cubic meter (25 C)","YES",R
+"42401","Sulfur dioxide","SO2",,"7446-09-5","Parts per billion","YES",T
+"85169","Sulfur PM10 LC",,,"7704-34-9","Micrograms/cubic meter (LC)","YES",R
+"82169","Sulfur PM10 STP",,,"7704-34-9","Micrograms/cubic meter (25 C)","YES",R
+"86169","Sulfur PM10-2.5 LC",,,"7704-34-9","Micrograms/cubic meter (LC)","YES",R
+"83169","Sulfur PM10-2.5 STP","SPMC",,"7704-34-9","Micrograms/cubic meter (25 C)","YES",R
+"88169","Sulfur PM2.5 LC",,,"7704-34-9","Micrograms/cubic meter (LC)","YES",R
+"84169","Sulfur PM2.5 STP","SFMC",,"7704-34-9","Micrograms/cubic meter (25 C)","YES",R
+"42306","Sulfuric acid","HSO4",,"7664-93-9","Micrograms/cubic meter (25 C)","YES",R
+"12402","Sulfuric acid (TSP) STP","HSO4P",,"7664-93-9","pH Units","YES",R
+"43000","Sum of PAMS target compounds","PAMHC",,,"Parts per billion Carbon","YES",R
+"85100","Survey Data PM10 LC",,,,"Micrograms/cubic meter (LC)","YES",
+"11101","Suspended particulate (TSP)","PT",,,"Micrograms/cubic meter (25 C)","YES",R
+"11102","Suspended particulate (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",R
+"12170","Tantalum (TSP) STP",,,"7440-25-7","Micrograms/cubic meter (25 C)","YES",R
+"88170","Tantalum PM2.5 LC",,,"7440-25-7","Micrograms/cubic meter (LC)","YES",R
+"12171","Tellurium and compounds as Te (TSP) STP","TE-PT","Tellurium","13494-80-9","Micrograms/cubic meter (25 C)","YES",R
+"62104","Temperature 24-Hr Max","TMAX",,,"Degrees Fahrenheit","YES",R
+"62105","Temperature 24-Hr Min","TMIN",,,"Degrees Fahrenheit","YES",R
+"62106","Temperature Difference","TEDF",,,"Temp Difference, Centigrade ","YES",R
+"12172","Terbium (TSP) STP",,,"7440-27-9","Micrograms/cubic meter (25 C)","YES",R
+"88172","Terbium PM2.5 LC",,,"7440-27-9","Micrograms/cubic meter (LC)","YES",R
+"43373","Tert-amyl methyl ether","TAME","Butane,2-methoxy-2-methyl-","994-05-8","Parts per billion Carbon","YES",R
+"43309","tert-butyl alcohol",,"2-Methyl-2-propanol, tert-butanol, trimethyl carbinol","75-65-0","Parts per billion Carbon","YES",
+"43396","tert-Butyl ethyl ether","ETBE",,"637-92-3","Parts per billion Carbon","YES",R
+"17802","Tetrachlorobenzene (TSP) STP","CLB2",,"12408-10-5","Nanograms/cubic meter (25 C)","YES",R
+"17812","Tetrachlorobiphenyl (TSP) STP"," ",,"26914-33-0","Pg/cubic meter(25 C)","YES",R
+"43817","Tetrachloroethylene","PERC","Ethene, tetrachloro-","127-18-4","Parts per billion Carbon","YES",R
+"17807","Tetrachlorophenol (TSP) STP","CLP7",,"25167-83-3","Nanograms/cubic meter (25 C)","YES",R
+"43523","Tetradecanal",,"Myristaldehyde","124-25-4","Parts per billion Carbon","YES",R
+"65173","Thallium (precip)","TH PC",,"7440-28-0","Milligrams/liter","YES",R
+"14173","Thallium (TSP) LC",,,"7440-28-0","Micrograms/cubic meter (LC)","YES",R
+"12173","Thallium (TSP) STP","TL-PT",,"7440-28-0","Micrograms/cubic meter (25 C)","YES",R
+"85173","Thallium PM10 LC",,,"7440-28-0","Nanograms/cubic meter (LC)","YES",R
+"82173","Thallium PM10 STP","TH-PM",,"7440-28-0","Nanograms/cubic meter (25 C)","YES",R
+"88173","Thallium PM2.5 LC",,,"7440-28-0","Micrograms/cubic meter (LC)","YES",R
+"14174","Thorium (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12174","Thorium (TSP) STP",,,,"Micrograms/cubic meter (25 C)","NO",
+"85174","Thorium PM10 LC",,,"7440-29-1","Nanograms/cubic meter (LC)","YES",R
+"88174","Thorium PM2.5 LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12138","Thorium-230 (TSP) STP",,,"14269-63-7","Picocuries/cubic meter","YES",R
+"12139","Thorium-232 (TSP) STP",,,"7440-29-1","Picocuries/cubic meter","YES",R
+"14160","Tin (TSP) LC",,,"7440-31-5","Micrograms/cubic meter (LC)","YES",R
+"12160","Tin (TSP) STP","SN-PT",,"7440-31-5","Micrograms/cubic meter (25 C)","YES",R
+"11356","Tin - 117 (TSP)",,,"13981-59-4","Micrograms/cubic meter (25 C)","YES",R
+"11361","Tin - 120 (TSP)",,,"14119-17-6","Micrograms/cubic meter (25 C)","YES",R
+"85160","Tin PM10 LC",,,"7440-31-5","Nanograms/cubic meter (LC)","YES",R
+"82160","Tin PM10 STP","SNPM1",,"7440-31-5","Nanograms/cubic meter (25 C)","YES",R
+"86160","Tin PM10-2.5 LC",,,"7440-31-5","Micrograms/cubic meter (LC)","YES",R
+"83160","Tin PM10-2.5 STP","SNPMC",,"7440-31-5","Micrograms/cubic meter (25 C)","YES",R
+"88160","Tin PM2.5 LC",,,"7440-31-5","Micrograms/cubic meter (LC)","YES",R
+"84160","Tin PM2.5 STP","SNFMC",,"7440-31-5","Micrograms/cubic meter (25 C)","YES",R
+"14161","Titanium (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12161","Titanium (TSP) STP","TI-PT",,"7440-32-6","Micrograms/cubic meter (25 C)","YES",R
+"85161","Titanium PM10 LC",,,"7440-32-6","Nanograms/cubic meter (LC)","YES",R
+"82161","Titanium PM10 STP",,,"7440-32-6","Nanograms/cubic meter (25 C)","YES",R
+"86161","Titanium PM10-2.5 LC",,,"7440-32-6","Micrograms/cubic meter (LC)","YES",R
+"83161","Titanium PM10-2.5 STP","TIPMC",,"7440-32-6","Micrograms/cubic meter (25 C)","YES",R
+"88161","Titanium PM2.5 LC",,,"7440-32-6","Micrograms/cubic meter (LC)","YES",R
+"84161","Titanium PM2.5 STP","TIFMC",,"7440-32-6","Micrograms/cubic meter (25 C)","YES",R
+"45504","Tolualdehydes",,"Benzaldehyde, methyl-","1334-78-7","Parts per billion Carbon","YES",R
+"45202","Toluene","TOLU","Benzene, methyl-","108-88-3","Parts per billion Carbon","YES",R
+"81111","TOTAL CARBON (PM10) use 82116","cpm101",,,"Micrograms/cubic meter (25 C)","NO",R
+"82116","Total Carbon PM10 STP","CPM10",,"7440-44-0","Micrograms/cubic meter (25 C)","YES",R
+"88312","Total Carbon PM2.5 LC TOT",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"84312","Total Carbon PM2.5 STP TOT",,,,"Micrograms/cubic meter (20 C)","YES",
+"43800","Total chlorinated hydrocarbons",,,,"Parts per billion Carbon","YES",R
+"21101","Total dustfall (SP)","DUST",,,"Grams/sq meter/month","YES",R
+"17823","Total heptachlorodibenzo-p-dioxin (TSP) STP","DIOX5",,"37871-00-4","Pg/cubic meter(25 C)","YES",R
+"17829","Total heptachlorodibenzofuran (TSP) STP","FURN5",,"38998-75-3","Pg/cubic meter(25 C)","YES",R
+"17822","Total hexachlorodibenzo-p-dioxin (TSP) STP","DIOX4",,"34465-46-8","Pg/cubic meter(25 C)","YES",R
+"17828","Total hexachlorodibenzofuran (TSP) STP","FURN4",,"55684-94-1","Pg/cubic meter(25 C)","YES",R
+"43101","Total hydrocarbons","THC",,,"Parts per billion Carbon","YES",R
+"85306","Total Nitrate PM10 LC",,,"14797-55-8","Micrograms/cubic meter (LC)","YES",R
+"86306","Total Nitrate PM10-2.5 LC",,,"14797-55-8","Micrograms/cubic meter (LC)","YES",R
+"88306","Total Nitrate PM2.5 LC","NO3",,"14797-55-8","Micrograms/cubic meter (LC)","YES",R
+"43102","Total NMOC (non-methane organic compound)","TNMOC",,,"Parts per billion Carbon","YES",R
+"11125","Total non-asbestos fibers",,,,"Structures/Cu Cm","YES",R
+"17824","Total octachlorodibenzo-p-dioxin (TSP) STP","DIOX6",,"3268-87-9","Pg/cubic meter(25 C)","YES",R
+"17830","Total octachlorodibenzofuran (TSP) STP","FURN6",,"39001-02-0","Pg/cubic meter(25 C)","YES",R
+"44101","Total Oxidants",,,,"Parts per million","YES",R
+"17821","Total pentachlorodibenzo-p-dioxin (TSP) STP","DIOX3",,"36088-22-9","Pg/cubic meter(25 C)","YES",R
+"17827","Total pentachlorodibenzofuran (TSP) STP","FURN3",,"30402-15-4","Pg/cubic meter(25 C)","YES",R
+"11104","Total polynuclear hydrocarbons","PNHC",,"130498-29-2","Micrograms/cubic meter (25 C)","YES",R
+"43911","Total reduced sulfur","TRS",,"18496-25-8","Parts per million","YES",R
+"42269","Total sulfur","TS",,"7704-34-9","Parts per million","YES",R
+"17820","Total tetachlorodibenzo-p-dioxin (TSP) STP","DIOX2",,"41903-57-5","Pg/cubic meter(25 C)","YES",R
+"17826","Total tetrachlorodibenzofuran (TSP) STP","FURN2",,"30402-14-3","Pg/cubic meter(25 C)","YES",R
+"21116","Total Weight Ash (SP)","ASH",,,"Grams/sq meter/month","YES",R
+"43838","trans-1,2-Dichloroethylene",,,"156-60-5","Parts per billion Carbon","YES",R
+"43830","trans-1,3-Dichloropropene",,"1-Propene,1,3-dichloro-,(1E)-","10061-02-6","Parts per billion Carbon","YES",R
+"43394","trans-1,3-Dimethylcyclopentane","T13DM",,"1759-58-6","Parts per billion Carbon","YES",R
+"43216","trans-2-Butene","T2BTE",,"624-64-6","Parts per billion Carbon","YES",R
+"43289","trans-2-Hexene","T2HEX",,"4050-45-7","Parts per billion Carbon","YES",R
+"43226","trans-2-Pentene","T2PNE",,"646-04-8","Parts per billion Carbon","YES",R
+"43516","Trans-Crotonaldehyde",,"2-Butenal,(2E)-","123-73-9","Parts per billion Carbon","YES",R
+"17801","Trichlorobenzene (TSP) STP","CLB1","Benzene, trichloro-","12002-48-1","Nanograms/cubic meter (25 C)","YES",R
+"17811","Trichlorobiphenyl (TSP) STP"," ",,"25323-68-6","Pg/cubic meter(25 C)","YES",R
+"43824","Trichloroethylene","3CLET","Ethene,trichloro-","79-01-6","Parts per billion Carbon","YES",R
+"43811","Trichlorofluoromethane",,"Methane,trichlorofluoro-","75-69-4","Parts per billion Carbon","YES",R
+"17806","Trichlorophenol (TSP) STP","CLP6",,"25167-82-2","Nanograms/cubic meter (25 C)","YES",R
+"43851","Trichlorotrifluoroethane",,,"26523-64-8","Parts per billion Carbon","NO",R
+"43526","Tridecanal",,"Tridecylaldehye","10486-19-8","Parts per billion Carbon","YES",R
+"43142","Tridecene",,,"2437-56-1","Parts per billion Carbon","YES",R
+"16117","Tridymite",,,"15468-32-3","Picocuries/cubic meter","NO",R
+"17253","Triphenylene",,,"217-59-4","Nanograms/cubic meter (25 C)","YES",
+"12178","Tungsten (TSP) STP",,,"7440-33-7","Micrograms/cubic meter (25 C)","YES",R
+"88186","Tungsten PM2.5 LC",,,"7440-33-7","Micrograms/cubic meter (LC)","YES",R
+"63302","Ultraviolet radiation","UVRD",,,"Langleys/minute","YES",R
+"63304","Ultraviolet radiation (type B)","UV-B",,,"Watts/sq meter","YES",R
+"43527","Undecanal",,"Undecyaldehyde","112-44-7","Parts per billion Carbon","YES",R
+"43131","Unidentified VOC",,,,"Parts per billion Carbon","YES",R
+"12179","Uranium (TSP) STP",,,"7440-61-1","Micrograms/cubic meter (25 C)","YES",R
+"85179","Uranium PM10 LC",,,"7440-61-1","Nanograms/cubic meter (LC)","YES",R
+"82179","Uranium PM10 STP","UPM10",,"7440-61-1","Nanograms/cubic meter (25 C)","YES",R
+"83179","Uranium PM10-2.5 STP","UPMC",,"7440-61-1","Micrograms/cubic meter (25 C)","YES",R
+"88179","Uranium PM2.5 LC",,,"7440-61-1","Micrograms/cubic meter (LC)","YES",R
+"84179","Uranium PM2.5 STP","UFMC",,"7440-61-1","Micrograms/cubic meter (25 C)","YES",R
+"88366","UV Carbon PM 2.5 at 375 nm",,,,"Micrograms/cubic meter (LC)","NO",
+"88314","UV Carbon PM2.5 at 370 nm",,,"7440-44-0","Micrograms/cubic meter (LC)","YES",R
+"84314","UV Carbon PM2.5 STP",,,"7440-44-0","Micrograms/cubic meter (25 C)","YES",R
+"43518","Valeraldehyde","VALDH","Pentanal","110-62-3","Parts per billion Carbon","YES",R
+"65164","Vanadium (precip)","VA PC",,"7440-62-2","Milligrams/liter","YES",R
+"14164","Vanadium (TSP) LC",,,"7440-62-2","Micrograms/cubic meter (LC)","YES",R
+"12164","Vanadium (TSP) STP","V-PT",,"7440-62-2","Micrograms/cubic meter (25 C)","YES",R
+"11362","Vanadium - 51 (TSP)",,,"7440-62-2","Micrograms/cubic meter (25 C)","YES",R
+"85164","Vanadium PM10 LC",,,"7440-62-2","Nanograms/cubic meter (LC)","YES",R
+"82164","Vanadium PM10 STP","V-PM",,"7440-62-2","Nanograms/cubic meter (25 C)","YES",R
+"86164","Vanadium PM10-2.5 LC",,,"7440-62-2","Micrograms/cubic meter (LC)","YES",R
+"83164","Vanadium PM10-2.5 STP","VPMC",,"7440-62-2","Micrograms/cubic meter (25 C)","YES",R
+"88164","Vanadium PM2.5 LC",,,"7440-62-2","Micrograms/cubic meter (LC)","YES",R
+"84164","Vanadium PM2.5 STP","VFMC",,"7440-62-2","Micrograms/cubic meter (25 C)","YES",R
+"61112","Vert Wind Direction","VWD",,,"Degrees Compass","YES",R
+"61109","Vertical Wind Speed","VWS",,,"Knots","YES",R
+"43447","Vinyl acetate","VA","Acetic acid ethenyl ester","108-05-4","Parts per billion Carbon","YES",R
+"43861","Vinyl bromide","VB","Ethene,bromo-","593-60-2","Parts per billion Carbon","YES",R
+"43860","Vinyl chloride","VC","Ethene,chloro-","75-01-4","Parts per billion Carbon","YES",R
+"62102","Virtual Temperature","V.TMP",,,"Degrees Fahrenheit","YES",R
+"63101","Visibility","VISI",,,"Miles (visibility)","YES",R
+"85309","Volatile nitrate PM10 LC",,,"14797-55-8","Micrograms/cubic meter (LC)","YES",R
+"86309","Volatile nitrate PM10-2.5 LC",,,"14797-55-8","Micrograms/cubic meter (LC)","YES",R
+"88309","Volatile Nitrate PM2.5 LC",,,"14797-55-8","Micrograms/cubic meter (LC)","YES",R
+"43104","Volatile organic compounds","VOC",,,"Parts per billion Carbon","YES",R
+"65301","Volume (precip)","PVLM",,,"Millimeters (rainfall)","YES",R
+"21118","Water Inso Ash (SP)","ASHI",,,"Grams/sq meter/month","YES",R
+"21115","Water Insol Wt (SP)","H2OI",,,"Grams/sq meter/month","YES",R
+"21117","Water Sol Ash (SP)","ASHS",,,"Grams/sq meter/month","YES",R
+"21114","Water Sol Weight (SP)","H2OS",,,"Grams/sq meter/month","YES",R
+"61104","Wind Direction - Resultant","WD-R",,,"Degrees Compass","YES",R
+"61102","Wind Direction - Scalar","WD-S",,,"Degrees Compass","YES",R
+"61103","Wind Speed - Resultant","WS-R",,,"Knots","YES",R
+"61101","Wind Speed - Scalar","WS-S",,,"Knots","YES",R
+"11114","Windblown particulate","WBPT",,,"Particles/sq millimeter/week","YES",R
+"45102","Xylene(s)","XYLS","benzene, dimethyl-","1330-20-7","Parts per billion Carbon","YES",R
+"14183","Yttrium (TSP) LC",,,,"Micrograms/cubic meter (LC)","YES",
+"12183","Yttrium (TSP) STP","Y-PT",,"7440-65-5","Micrograms/cubic meter (25 C)","YES",R
+"85183","Yttrium PM10 LC",,,"7440-65-5","Nanograms/cubic meter (LC)","YES",R
+"82183","Yttrium PM10 STP","YPM10",,"7440-65-5","Nanograms/cubic meter (25 C)","YES",R
+"83183","Yttrium PM10-2.5 STP","YPMC",,"7440-65-5","Micrograms/cubic meter (25 C)","YES",R
+"88183","Yttrium PM2.5 LC",,,"7440-65-5","Micrograms/cubic meter (LC)","YES",R
+"84183","Yttrium PM2.5 STP","YFMC",,"7440-65-5","Micrograms/cubic meter (25 C)","YES",R
+"65338","Zinc (precip)","PZN",,"7440-66-6","Ug/sq meter/hour","YES",R
+"22167","Zinc (SP)","SPZNS",,"7440-66-6","Grams/sq meter/month","YES",R
+"14167","Zinc (TSP) LC",,,"7440-66-6","Micrograms/cubic meter (LC)","YES",R
+"12167","Zinc (TSP) STP","ZN",,"7440-66-6","Micrograms/cubic meter (25 C)","YES",R
+"11360","Zinc - 64 (TSP)",,,"14378-32-6","Micrograms/cubic meter (25 C)","YES",R
+"11357","Zinc - 66 (TSP)",,,"14378-33-7","Micrograms/cubic meter (25 C)","YES",R
+"85167","Zinc PM10 LC",,,"7440-66-6","Nanograms/cubic meter (LC)","YES",R
+"82167","Zinc PM10 STP","ZN-PM",,"7440-66-6","Nanograms/cubic meter (25 C)","YES",R
+"86167","Zinc PM10-2.5 LC",,,"7440-66-6","Micrograms/cubic meter (LC)","YES",R
+"83167","Zinc PM10-2.5 STP","ZNPMC",,"7440-66-6","Micrograms/cubic meter (25 C)","YES",R
+"88167","Zinc PM2.5 LC",,,"7440-66-6","Micrograms/cubic meter (LC)","YES",R
+"84167","Zinc PM2.5 STP","ZNFMC",,"7440-66-6","Micrograms/cubic meter (25 C)","YES",R
+"12185","Zirconium (TSP) STP","ZR-PT",,"7440-67-7","Micrograms/cubic meter (25 C)","YES",R
+"85185","Zirconium PM10 LC",,,"7440-67-7","Nanograms/cubic meter (LC)","YES",R
+"82185","Zirconium PM10 STP","ZRPM1",,"7440-67-7","Nanograms/cubic meter (25 C)","YES",R
+"86185","Zirconium PM10-2.5 LC",,,"7440-67-7","Micrograms/cubic meter (LC)","YES",R
+"83185","Zirconium PM10-2.5 STP","ZRPMC",,"7440-67-7","Micrograms/cubic meter (25 C)","YES",R
+"88185","Zirconium PM2.5 LC",,,"7440-67-7","Micrograms/cubic meter (LC)","YES",R
+"84185","Zirconium PM2.5 STP","ZRFMC",,"7440-67-7","Micrograms/cubic meter (25 C)","YES",R

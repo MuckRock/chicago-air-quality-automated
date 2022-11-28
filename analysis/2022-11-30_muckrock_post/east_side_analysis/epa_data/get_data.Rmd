@@ -1,0 +1,88 @@
+---
+title: "Get Data"
+author: "Dillon"
+date: "5/10/2022"
+output: html_document
+---
+
+
+```{r}
+library(tidyverse)
+library(rio)
+library(janitor)
+library(RAQSAPI)
+library(keyring)
+```
+
+```{r}
+key_set(service = "AQSDatamart",
+                   username = "news.dillonbergin@gmail.com")
+#key: russetmallard48
+```
+
+```{r}
+key_get(service = "AQSDatamart",
+                   username = "news.dillonbergin@gmail.com")
+```
+
+```{r}
+ aqs_credentials(username = "news.dillonbergin@gmail.com",
+                  key = key_get("AQSDatamart",
+                   username = "news.dillonbergin@gmail.com"))
+```
+
+```{r}
+#6005 and maybe 8003 are we want 
+#Air monitoring report says there is only one PM monitor in Cicero and it is 6005. Cicero does have other monitors though for ozone and gaseous pollutants 
+aqs_sites_by_county(stateFIPS = "17", countycode = "031")
+```
+
+```{r}
+parameter_codes <- 
+  read_csv("parameters.csv") %>% 
+  clean_names()
+
+```
+
+So we want data from
+Site: Washington HS
+Type: PM2.5 (88101) and PM10 (81102)
+Dates: 05-01-2022 to 09-30-2022
+Site ID: 	17-031-0022
+This sensor records 24 hour readings every third day 
+
+
+
+
+```{r}
+washington_pm_25 <- aqs_dailysummary_by_site(parameter = "88101",
+bdate = as.Date("20220501",
+format = "%Y%m%d"),
+edate = as.Date("20220930",
+format = "%Y%m%d"),
+stateFIPS = "17",
+countycode = "031",
+sitenum = "0022"
+)
+
+```
+
+```{r}
+washington_pm_10 <- aqs_dailysummary_by_site(parameter = "81102",
+bdate = as.Date("20220501",
+format = "%Y%m%d"),
+edate = as.Date("20220930",
+format = "%Y%m%d"),
+stateFIPS = "17",
+countycode = "031",
+sitenum = "0022"
+)
+
+```
+
+```{r}
+export(washington_pm_25, "washington_pm_25.csv")
+export(washington_pm_10, "washington_pm_10.csv")
+```
+
+

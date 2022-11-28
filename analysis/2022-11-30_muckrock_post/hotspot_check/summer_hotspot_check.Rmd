@@ -1,0 +1,261 @@
+---
+title: "Summer Hotspot Check"
+author: "Dillon Bergin"
+date: "11/16/2022"
+output: 
+  html_document:
+    theme: readable
+    highlight: zenburn
+    toc: true
+---
+```{r results=F, warning=F, message=F}
+library(gstat)
+library(sf)
+library(dplyr) 
+library(readr)
+library(ggplot2)
+library(here)
+library(janitor)
+library(stars)
+library(tmap)
+library(magick)
+library(purrr)
+library(lubridate)
+library(mapview)
+library(RColorBrewer)
+library(DT)
+```
+# Data cleaning and reshaping 
+```{r results=F, warning=F, message=F}
+### LOAD ALL DATA WE NEED ###
+daily <- read_csv(here("data", "new_index", "may-october_daily.csv")) %>% 
+  filter(date_time >= "2022-05-01", date_time < "2022-09-01") %>% 
+  filter(!device_friendly_name %in% c("Madeleines House (outside)", "Madeleines House (inside)", "EnclTest 2019"))
+
+city_boundaries <- st_read(here("data", "chicago_boundaries", "chicago_boundaries.shp"))
+```
+
+```{r results=F, warning=F, message=F}
+### LOAD READINGS AND PEFORM QUALITY CONTROL  ### 
+# apply 75% completion criteria to hourly readings 
+# apply 75% completion criteria to daily readings and aggregate to monthly
+monthly <- daily %>% 
+  mutate(month = month(date_time)) %>% 
+  group_by(device_friendly_name, month) %>% 
+  summarize(pm_25 = mean(pm_25), nbr_of_readings = sum(nbr_of_readings)) %>%
+  filter(nbr_of_readings >= 6696) %>% 
+  select(-nbr_of_readings) 
+  # used 31 days as conservative measurement 
+
+# get device ids that met criteria for all months we want to map 
+all_summer_devices <- 
+  monthly %>% 
+  count(device_friendly_name) %>% 
+  filter(n == 4)
+
+# get monthly data for only the devices that meet criteria for all months we want to map
+monthly_map <- 
+  all_summer_devices %>% 
+  inner_join(monthly, by = "device_friendly_name") %>% 
+  select(-n) 
+
+# extract stable lat / longs from hourly readings 
+# make a mode function because R doesn't have one
+find_mode <- function(x) {
+  ux <- unique(x)
+  ux[which.max(tabulate(match(x, ux)))]
+}
+# use mode function to get mode lat/long from all hourly readings 
+coords <- daily %>% 
+  group_by(device_friendly_name) %>% 
+  summarize(latitude = find_mode(latitude), longitude = find_mode(longitude))
+
+#join monthly_map data with lat longs 
+df <- 
+  monthly_map %>% 
+  left_join(coords, by = "device_friendly_name") 
+```
+
+```{r results=F, warning=F, message=F}
+### PREPARE THE DATA FOR GEOSPATIAL ANALYSIS ###
+crs = st_crs("EPSG:26916")
+chicago <- st_transform(st_as_sf(city_boundaries), crs)
+bbox <- st_bbox(chicago)
+grid <- 
+  bbox %>% 
+  st_as_stars(dx=300) %>% 
+  st_crop(chicago)
+df.sf <- 
+  st_as_sf(df, coords = c("longitude", "latitude"), crs = "EPSG:4326") %>% 
+  st_transform(coords, crs = "EPSG:26916")
+
+```
+
+```{r warning=F, message=F}
+### MAKE DATAFRAMES FOR EACH MONTH (COULDN'T GET LOOP TO WORK) ###
+may_df.sf <- df.sf %>% 
+  filter(month == 5)
+may_idw = idw(pm_25~1, may_df.sf, grid)
+idw_df_may <- as.data.frame(may_idw) %>% 
+  mutate(month = 5) %>% 
+  select(-var1.var)
+###
+june_df.sf <- df.sf %>% 
+  filter(month == 6)
+june_idw = idw(pm_25~1, june_df.sf, grid)
+idw_df_june <- as.data.frame(june_idw)%>% 
+  mutate(month = 6) %>% 
+  select(-var1.var)
+###
+july_df.sf <- df.sf %>% 
+  filter(month == 7)
+july_idw = idw(pm_25~1, july_df.sf, grid)
+idw_df_july <- as.data.frame(july_idw)%>% 
+  mutate(month = 7) %>% 
+  select(-var1.var)
+### 
+august_df.sf <- df.sf %>% 
+  filter(month == 8)
+august_idw = idw(pm_25~1, august_df.sf, grid)
+idw_df_august <- as.data.frame(august_idw)%>% 
+  mutate(month = 8) %>% 
+  select(-var1.var)
+
+df_comb <- rbind(idw_df_may, idw_df_june, idw_df_july, idw_df_august)
+comb.sf <- st_as_stars(df_comb, dims = c("x", "y", "month"))
+
+```
+# Interpolation map for May, June, July and August 
+```{r}
+### MAP 
+tm_shape(comb.sf) + tm_raster("var1.pred", style = "cont", palette = "YlOrRd") +
+  tm_legend(position = c("left", "bottom")) +
+  tm_layout(frame = FALSE) 
+
+
+```
+
+```{r echo=FALSE}
+#Blank code chunk to fix formatting problem with tmap above
+```
+
+# May hotspot check
+## May monthly averages
+```{r warning=F, message=F}
+may_monthly_df <- 
+  df %>% 
+  filter(month == 5)
+
+mapview(may_monthly_df, xcol = "longitude", ycol = "latitude", zcol = "pm_25", at =  seq(0, 20, 5),
+        col.regions=brewer.pal(10, "YlOrRd"), crs = 4269, grid = FALSE)
+```
+## May Daily Averages
+```{r}
+may_daily_df <- 
+  daily %>% 
+  filter(date_time >= "2022-05-01", date_time < "2022-06-01") %>% 
+  mutate(date = as.character(date_time)) 
+  
+datatable(may_daily_df, filter = 'top', class = 'cell-border stripe order-column', extensions = 'Buttons',
+
+                            options = list(
+                                paging = TRUE,
+                                searching = TRUE,
+                                fixedColumns = TRUE,
+                                autoWidth = TRUE,
+                                ordering = TRUE,
+                                dom = 'tB',
+                                buttons = c('copy', 'csv', 'excel')
+                            ))
+  
+```
+# June hotspot check
+## June monthly averages
+```{r warning=F, message=F}
+june_monthly_df <- 
+  df %>% 
+  filter(month == 6)
+
+mapview(june_monthly_df, xcol = "longitude", ycol = "latitude", zcol = "pm_25", at =  seq(0, 20, 5),
+        col.regions=brewer.pal(10, "YlOrRd"), crs = 4269, grid = FALSE)
+```
+## June Daily Averages
+```{r}
+june_daily_df <- 
+  daily %>% 
+  filter(date_time >= "2022-06-01", date_time < "2022-07-01") %>% 
+  mutate(date = as.character(date_time)) 
+  
+datatable(june_daily_df, filter = 'top', class = 'cell-border stripe order-column', extensions = 'Buttons',
+
+                            options = list(
+                                paging = TRUE,
+                                searching = TRUE,
+                                fixedColumns = TRUE,
+                                autoWidth = TRUE,
+                                ordering = TRUE,
+                                dom = 'tB',
+                                buttons = c('copy', 'csv', 'excel')
+                            ))
+  
+```
+# July hotspot check
+## July monthly averages
+```{r warning=F, message=F}
+july_monthly_df <- 
+  df %>% 
+  filter(month == 7)
+
+mapview(july_monthly_df, xcol = "longitude", ycol = "latitude", zcol = "pm_25", at =  seq(0, 20, 5),
+        col.regions=brewer.pal(10, "YlOrRd"), crs = 4269, grid = FALSE)
+```
+## July Daily Averages
+```{r}
+july_daily_df <- 
+  daily %>% 
+  filter(date_time >= "2022-07-01", date_time < "2022-08-01") %>% 
+  mutate(date = as.character(date_time)) 
+  
+datatable(july_daily_df, filter = 'top', class = 'cell-border stripe order-column', extensions = 'Buttons',
+
+                            options = list(
+                                paging = TRUE,
+                                searching = TRUE,
+                                fixedColumns = TRUE,
+                                autoWidth = TRUE,
+                                ordering = TRUE,
+                                dom = 'tB',
+                                buttons = c('copy', 'csv', 'excel')
+                            ))
+  
+```
+# August hotspot check
+## August monthly averages
+```{r warning=F, message=F}
+august_monthly_df <- 
+  df %>% 
+  filter(month == 8)
+
+mapview(august_monthly_df, xcol = "longitude", ycol = "latitude", zcol = "pm_25", at =  seq(0, 20, 5),
+        col.regions=brewer.pal(10, "YlOrRd"), crs = 4269, grid = FALSE)
+```
+## August Daily Averages
+```{r}
+august_daily_df <- 
+  daily %>% 
+  filter(date_time >= "2022-08-01", date_time < "2022-09-01") %>% 
+  mutate(date = as.character(date_time)) 
+
+datatable(august_daily_df, filter = 'top', class = 'cell-border stripe order-column', extensions = 'Buttons',
+
+                            options = list(
+                                paging = TRUE,
+                                searching = TRUE,
+                                fixedColumns = TRUE,
+                                autoWidth = TRUE,
+                                ordering = TRUE,
+                                dom = 'tB',
+                                buttons = c('copy', 'csv', 'excel')
+                            ))
+  
+```

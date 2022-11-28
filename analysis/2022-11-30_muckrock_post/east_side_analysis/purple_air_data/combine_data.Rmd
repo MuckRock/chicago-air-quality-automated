@@ -1,0 +1,58 @@
+---
+title: "Combined Analysis"
+author: "Dillon Bergin"
+date: "11/15/2022"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(janitor)
+library(rio)
+library(here)
+```
+Come back to secondary PA readings for PM10 measurements later 
+```{r}
+h_109_primary_a <- read_csv(here("east_chicago_analysis", "purple_air_data", "h_109_primary_a.csv")) %>% 
+  clean_names() %>% 
+  mutate(device_id = "h_109_primary_a") %>% 
+  rename(date_time = created_at, pm_25 =  pm2_5_atm_ug_m3) %>% 
+  select(device_id, date_time, pm_25)
+
+h_109_primary_b <- read_csv(here("east_chicago_analysis", "purple_air_data", "h_109_primary_b.csv"))%>% 
+  clean_names() %>% 
+  mutate(device_id = "h_109_primary_b") %>% 
+  rename(date_time = created_at, pm_25 =  pm2_5_atm_ug_m3) %>% 
+  select(device_id, date_time, pm_25)
+
+luc_care_2_primary_a <- read_csv(here("east_chicago_analysis", "purple_air_data", "luc_care_2_primary_a.csv")) %>% 
+  clean_names() %>% 
+  mutate(device_id = "luc_care_2_primary_a") %>% 
+  rename(date_time = created_at, pm_25 =  pm2_5_atm_ug_m3) %>% 
+  select(device_id, date_time, pm_25)
+
+luc_care_2_primary_b <- read_csv(here("east_chicago_analysis", "purple_air_data", "luc_care_2_primary_b.csv")) %>% 
+  clean_names() %>% 
+  mutate(device_id = "luc_care_2_primary_b") %>% 
+  rename(date_time = created_at, pm_25 =  pm2_5_atm_ug_m3) %>% 
+  select(device_id, date_time, pm_25)
+
+
+luc_care_5_primary_a <- read_csv(here("east_chicago_analysis", "purple_air_data", "luc_care_5_primary_a.csv")) %>% 
+  clean_names() %>% 
+  mutate(device_id = "luc_care_5_primary_a") %>% 
+  rename(date_time = created_at, pm_25 =  pm2_5_atm_ug_m3) %>% 
+  select(device_id, date_time, pm_25)
+
+luc_care_5_primary_b <- read_csv(here("east_chicago_analysis", "purple_air_data", "luc_care_5_primary_b.csv")) %>% 
+  clean_names() %>% 
+  mutate(device_id = "luc_care_5_primary_b") %>% 
+  rename(date_time = created_at, pm_25 =  pm2_5_atm_ug_m3) %>% 
+  select(device_id, date_time, pm_25)
+
+df <- rbind(h_109_primary_a, h_109_primary_b, luc_care_2_primary_a, luc_care_2_primary_b, luc_care_5_primary_a, luc_care_5_primary_b)
+
+export(df, "purple_air_all.csv")
+
+```
+
