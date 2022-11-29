@@ -56,7 +56,7 @@ idw = idw(pm_25~1, df.sf, grid)
 
 
 ### MAKE MAPS ###
-map <- tm_shape(idw) + tm_raster("var1.pred", style = "fisher", palette = "YlOrRd") +
+map <- tm_shape(idw) + tm_raster("var1.pred", style = "cont", palette = "YlOrRd") +
   tm_legend(position = c("left", "bottom")) +
   tm_layout(frame = FALSE) 
 
