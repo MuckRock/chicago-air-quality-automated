@@ -103,9 +103,9 @@ To estimate how the reading of an individual sensor might explain pollution acro
 
 ### How to publish our maps or charts 
   - `publish`
-        - We've produced maps of air quality across the city of Chicago and overlaid the city's community areas, these are available in the `gif` and `static` folders
-        - In the future, we plan to produce these maps on a monthly basis, though seasonal variation may prove it difficult to analyze a single month 
-        - If you'd like to publish these maps, take a look below at [language for crediting us](#crediting-us) 
+    - We've produced maps of air quality across the city of Chicago and overlaid the city's community areas, these are available in the `gif` and `static` folders
+    - In the future, we plan to produce these maps on a monthly basis, though seasonal variation may prove it difficult to analyze a single month 
+    - If you'd like to publish these maps, take a look below at [language for crediting us](#crediting-us) 
  
   
   ### Give us some credit 
