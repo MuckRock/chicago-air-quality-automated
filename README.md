@@ -34,14 +34,16 @@ To estimate how the reading of an individual sensor might explain pollution acro
 ##  How you can use the data
 #### Get the data 
 - `etl`
-  - `get_data.py` runs a Python script that goes to Microsoft's Urban Air API and retreives data each day
+  - `get_and_clean_data.py` runs a Python script that goes to Microsoft's Urban Air API and retreives data each day
     - If you want to change the frequency data is collected or get the data yourself, this where to start 
     - This script also cleans the data of sensors that may not be functioning correctly. See our longer [methodology write-up for an explanation of how and why we do that](https://www.muckrock.com/news/archives/2022/may/16/how-we-analyzed-chicago-air-pollution-hotspots/) 
 #### Analyze the data
 - `data`
-  - `data/processed`
-    - Contains a `csv` file for each month with the daily averages for each sensor
+  - `data/readings/daily_updates`
+    - Contains a `csv` for each week as data is updated with the daily averages for each sensor
     - This is the best place to start digging in, and we outline some [questions you can tackle with this data in more detail on our site](link-release-post-TK)
+  - `data/readings/archive`
+    - Contains a `csv` file for each month; daily updates for each month are moved here when a new month starts 
 #### Map the data 
 - `etl`
   - `interpolation.r`
@@ -62,7 +64,6 @@ To estimate how the reading of an individual sensor might explain pollution acro
 ├── .github
      └── workflows 
           ├── daily_data_pull.py
-          ├── monthly_avg_and_map.py
 ├── etl
     ├── get_and_clean_data.py
     ├── map_monthly_interpolation.R
@@ -79,33 +80,31 @@ To estimate how the reading of an individual sensor might explain pollution acro
 ├── viz
     └── static
         └── maps
-            ├── interpolation_map.png
             ├── interpolation_map.svg
         └── workflow
 ├── publish
     ├── static
         ├── pub_ready_map.png
-        ├── pub_ready_map.svg
     └── gif
         ├── interpolation_maps.gif
+    └── datawrapper
+        ├── link_and_embed.txt
 ```
 
 ### Data dictionary
 | column | description  
 |   :---    |    :---- |  
-| msr_device_nbr | a unique identifier given to each sensor  |
+| device_friendly_name | name given to the sensor when Microsoft sited it, usually the name of the bus stop the sensor is attached to |
 |  date | the date that 5-minute readings are aggregated up to for a daily average |
 | number_of_readings | the number of readings a sensor made during that day; sensors with under 70% of hourly or daily readings are removed from the data ([see our longer methodology write-up for more on information on data cleaning](https://www.muckrock.com/news/archives/2022/may/16/how-we-analyzed-chicago-air-pollution-hotspots/)) |
-| device_friendly_name | name given to the sensor when Microsoft sited it, usually the name of the bus stop the sensor is attached to |
-| misc_annotation | detail of note, such as whether is co-located with an EPA monitor or at location chosen by a community group  |
-| latitude | the latitude recorded when Microsoft sited the sensor |
-| longitude | the longitude recorded when Microsoft sited the sensor|
+| latitude | the median latitude recorded by the sensor for that day (sometimes the GPS varies slightly) |
+| longitude | the median longitude recorded by the sensor for that day (sometimes the GPS varies slightly) |
 | pm_25 | the daily average PM2.5 recorded by the sensor |
 
 ### How to publish our maps or charts 
-  - `viz`
-    - `ready-made`
-        - Every month, we produce a map of air quality across the city of Chicago and overlay the city's community areas, these are available in the `ready-made` folder as both `svg` and `png`
+  - `publish`
+        - We've produced maps of air quality across the city of Chicago and overlaid the city's community areas, these are available in the `gif` and `static` folders
+        - In the future, we plan to produce these maps on a monthly basis, though seasonal variation may prove it difficult to analyze a single month 
         - If you'd like to publish these maps, take a look below at [language for crediting us](#crediting-us) 
  
   
