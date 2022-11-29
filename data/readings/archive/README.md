@@ -21,5 +21,5 @@ response = requests.get(UrlGetReadings +
                                 f"&devices=2135" +
                                 f"&startDateTime={startDateTime}" +
                                 f"&endDateTime={endDateTime}",
-                            headers={'ApiKey':access_token}) 
+                            headers={'ApiKey':api_key}) 
 ```
