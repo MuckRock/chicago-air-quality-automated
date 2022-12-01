@@ -12,7 +12,7 @@ UrlGetDeploymentDetails = "https://urban.microsoft.com/api/EclipseData/GetDeploy
 UrlGetDeviceList = "https://urban.microsoft.com/api/EclipseData/GetDeviceList"
 UrlGetLatestReadings = "https://urban.microsoft.com/api/EclipseData/GetLatestReadings"
 UrlGetReadings = "https://urban.microsoft.com/api/EclipseData/GetReadings"
-access_token = "064D20BA-F452-41F5-B78E-581861340043"
+access_token = "secret_token"
 
 def daterange(start_date, end_date):
     for n in range(int((end_date - start_date).days)):
