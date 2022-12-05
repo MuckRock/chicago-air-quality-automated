@@ -79,7 +79,7 @@ if date.today().weekday() == 1:
     output_path='data/readings/daily_updates/' +'week_start_' + str((today - timedelta(days=today.weekday())).strftime('%Y-%m-%d')) + '.csv'
     daily_clean.to_csv(output_path)
 elif date.today().weekday() == 0:
-    output_path='data/readings/daily_updates/' +'week_start_' + str(((today - timedelta(days=1)) - timedelta(days=today.weekday())).strftime('%Y-%m-%d')) + '.csv'
+    output_path='data/readings/daily_updates/' +'week_start_' + str(today - timedelta(days=7).strftime('%Y-%m-%d')) + '.csv'
     daily_clean.to_csv(output_path, mode='a', header=False)
 else:
     output_path='data/readings/daily_updates/' + 'week_start_' + str((today - timedelta(days=today.weekday())).strftime('%Y-%m-%d')) + '.csv'
